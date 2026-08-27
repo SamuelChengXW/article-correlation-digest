@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-11",
+  "run_ids": [
+    31443552760
+  ],
+  "generated_at_utc": "2026-08-10T23:45:27Z",
+  "tracked_count": 9,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ's debate on faster hikes bolsters September rate move odds - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/813885",
+          "published": "2026-08-10T03:11:23+00:00",
+          "reason": "The article reports that BOJ policymakers are actively debating accelerating rate hikes beyond their current pace of roughly two increases a year, with summary of opinions from the July 31 meeting bolstering odds of a September rate hike to counter inflation overshoot risks."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go"
+  ]
+}

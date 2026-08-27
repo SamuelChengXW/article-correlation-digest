@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-20",
+  "run_ids": [
+    32313599774
+  ],
+  "generated_at_utc": "2026-08-19T23:31:24Z",
+  "tracked_count": 19,
+  "findings_count": 16,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Market consensus of Bank of Japan's terminal rate at 2% is a bit too ambitious: Strategist - CNBC",
+          "link": "https://www.cnbc.com/video/2026/08/19/market-consensus-of-boj-terminal-rate.html",
+          "published": "2026-08-19T01:57:00+00:00",
+          "reason": "JP Morgan Asset Management strategist Marcella Chow indicates that the Bank of Japan is anticipated to continue hiking interest rates, expecting a hike in September and further increases every 6 months."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japanese bond volatility pumps up futures trading in Singapore - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/815014",
+          "published": "2026-08-19T01:32:32+00:00",
+          "reason": "The article notes that global funds are expanding trading in Japan bond futures as investors grapple with 'the prospect of further Bank of Japan interest-rate hikes, inflation and fiscal risks'."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "KPJ hits two-week high on profit beat; analysts cite ageing population and MediAsas as tailwind - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815034",
+          "published": "2026-08-19T04:03:14+00:00",
+          "reason": "The article reports that Malaysian healthcare operator KPJ Healthcare saw 1HFY2026 profits surge 28% year-on-year to RM128 million, driven by a 'return in business volume' and tailwinds from an ageing population and higher elective surgery demand."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Commentary (31 July 2026)",
+      "fsmone_url": "https://www.fsmone.com.my/article/384140",
+      "claim_summary": "Major technology hyperscalers are maintaining intact capital expenditure plans despite macroeconomic headwinds, while China has achieved a technological breakthrough in DUV lithography. Simultaneously, both the Federal Reserve (FOMC) and the Bank of Japan (BOJ) have adopted hawkish holds on interest rates, creating a distinct environment for tech and global equity investors.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan's bond market may be the canary in the coal mine for the AI stock rally - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/japans-bond-market-may-be-the-canary-in-the-coal-mine-for-the-ai-stock-rally.html",
+          "published": "2026-08-19T19:36:07+00:00",
+          "reason": "The article reports an economic outlook 'supported by a surge in capital spending on artificial intelligence' and notes 'massive corporate issuance from hyperscalers to fund the AI build out'."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Market consensus of Bank of Japan's terminal rate at 2% is a bit too ambitious: Strategist - CNBC",
+          "link": "https://www.cnbc.com/video/2026/08/19/market-consensus-of-boj-terminal-rate.html",
+          "published": "2026-08-19T01:57:00+00:00",
+          "reason": "J.P. Morgan Asset Management's strategist confirms expectations that the Bank of Japan will 'hike interest rate in the September meeting and keeps hiking every 6 months,' supporting that additional rate hikes remain on the table."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "CPO prices to stay firm above RM4,600 in September on tightening supply and geopolitical disruptions \u2014 MPOC - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815017",
+          "published": "2026-08-19T02:04:30+00:00",
+          "reason": "The MPOC reports that CPO prices are supported by 'Indonesia\u2019s palm oil demand for B50 biodiesel blending' as well as geopolitical disruptions, while Malaysian production in July marked the fifth consecutive month of year-on-year decline."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Zecon seeks partners for its 3,000-acre Sarawak green tech park - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814620",
+          "published": "2026-08-19T07:00:00+00:00",
+          "reason": "Sarawak-based construction and engineering group Zecon is actively developing a 3,000-acre green tech park combining solar power generation, data centres, and industrial manufacturing facilities."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Short-dated debt still offers value amid global bond rout, says UBS. Here's why - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/global-bond-rout-ubs-short-dated-bonds.html",
+          "published": "2026-08-19T12:44:25+00:00",
+          "reason": "UBS analysts note that with the long end of the yield curve exposed to fiscal and inflation uncertainty, they 'continue to see short- and medium-maturity quality bonds as attractive' because higher yields offer a cushion against further rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Commentary (22 May 2026)",
+      "fsmone_url": "https://www.fsmone.com.my/article/371080",
+      "claim_summary": "Global markets are navigating headwinds from elevated long-term bond yields and persistent inflation alongside monetary policy developments, notably Kevin Warsh's leadership as Fed Chair and China's decision to keep its Loan Prime Rate unchanged. Concurrently, investor sentiment and market direction remain heavily influenced by the latest NVIDIA earnings report.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+          "published": "2026-08-19T20:32:48+00:00",
+          "reason": "The article confirms Kevin Warsh's leadership as Fed Chairman, noting he began his position in May after being nominated by President Trump earlier in the year."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bessent moves to curb Treasury yields, putting new pressure on Warsh's Fed - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
+          "published": "2026-08-19T20:02:32+00:00",
+          "reason": "The article mentions Fed Chairman Kevin Warsh and notes that rising Treasury yields have pushed up borrowing costs and uncomfortable levels in the Treasury market, putting pressure on Warsh's Fed."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+          "published": "2026-08-19T18:01:32+00:00",
+          "reason": "The article details how Fed officials indicated they may need to hike interest rates if inflation does not decline, as major indicators keep inflation well above the 2% target."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Target earnings, Canada tariffs, American Airlines' seatback screens and more in Morning Squawk - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/5-things-to-know-before-the-stock-market-opens.html",
+          "published": "2026-08-19T12:34:20+00:00",
+          "reason": "The article notes that bond yields spiked globally, the 30-year U.S. Treasury yield touched a record, and markets are watching Fed Chairman Kevin Warsh ahead of Jackson Hole."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dollar risks are mounting. Here\u2019s what could weaken the greenback - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/inflation-dollar-risks-fed.html",
+          "published": "2026-08-19T09:32:56+00:00",
+          "reason": "The article reports that higher Treasury yields have coincided with persistent inflation and that the U.S. 30-year Treasury yield reached its highest level since 2007."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "U.S. government debt passes $40 trillion, more than doubling in a decade - CNBC",
+          "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
+          "published": "2026-08-19T20:35:07+00:00",
+          "reason": "The article highlights that Treasury yields have surged to levels not seen since before the global financial crisis amid worries over inflation fighting and debt issuance."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Opinion: Bonds slam stocks - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815091",
+          "published": "2026-08-19T08:45:08+00:00",
+          "reason": "The article highlights that a widespread sell-off across global sovereign bond markets pushed long-dated yields to fresh multi-decade highs as investors worry about inflation and public finances."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Korean stocks bear brunt of chip slide spurred by rise in yields - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815024",
+          "published": "2026-08-19T02:43:38+00:00",
+          "reason": "The article shows that rising bond yields driven by inflation and government debt concerns sparked selloffs across Asian and U.S. chip and AI-related stocks following robust earnings reports."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Weekly Commentary (3 July 2026)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Weekly Commentary (5 June 2026)"
+  ]
+}

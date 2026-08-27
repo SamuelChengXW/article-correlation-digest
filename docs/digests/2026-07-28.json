@@ -1,0 +1,49 @@
+{
+  "date": "2026-07-28",
+  "run_ids": [
+    30316405189
+  ],
+  "generated_at_utc": "2026-07-28T00:08:27Z",
+  "tracked_count": 8,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741/top-bottom-bond-funds-2q26-bond-markets-rebound-but-rate-risks-remain",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as the first-quarter energy shock eased, though interest rate risks remain for the rest of the year.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Bond market flashing a warning signal for stocks - CNBC",
+          "link": "https://www.cnbc.com/2026/07/27/bond-market-flashing-a-warning-signal-for-stocks.html",
+          "published": "2026-07-27T13:33:17+00:00",
+          "reason": "The article reports that the iShares iBoxx $ High Yield Corporate Bond ETF (HYG) is on track for its third consecutive monthly decline and fifth in the past six months as the U.S.-Iran war drags on. This persistent weakness across the second quarter undercuts the claim that bond funds staged a broad rebound in 2Q26."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Bank of Japan to signal more rate hikes as price pressures build - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/812150",
+          "published": "2026-07-27T09:10:53+00:00",
+          "reason": "The article confirms the BOJ hiked rates in June to 1% and indicates the central bank is set to signal scope for further rate hikes, with analysts at Mitsubishi UFJ Morgan Stanley Securities expecting the next increase around December."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging"
+  ]
+}

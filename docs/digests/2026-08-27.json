@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-27",
+  "run_ids": [
+    33027071758,
+    33039529986
+  ],
+  "generated_at_utc": "2026-08-27T04:28:43Z",
+  "tracked_count": 16,
+  "findings_count": 5,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ chief Ueda to skip Jackson Hole, shifts market focus to G20 - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815754",
+          "published": "2026-08-26T03:01:57+00:00",
+          "reason": "The article reports that BOJ board member Naoki Tamura has 'publicly called for raising interest rates once every few months to counter upside risks to prices,' with markets seeking clues on whether the central bank will speed up rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "KPJ Healthcare drops further, RM1.9b market cap wiped out in three trading days as president steps down - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815867",
+          "published": "2026-08-26T13:51:42+00:00",
+          "reason": "The article reports that Malaysian private hospital operator KPJ Healthcare entered the second half of 2026 with 'stronger earnings momentum,' as net profit grew nearly 25% to RM173.6 million."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SoftBank mulls up to US$20 bil bond sale for OpenAI financing \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/amp/news/news/softbank-mulls-us20-bil-bond-sale-openai-financing--bloomberg",
+          "published": "2026-08-26T06:19:00+00:00",
+          "reason": "The article reports that Japan's SoftBank Group is considering a US$10 billion to US$20 billion bond sale to finance its investment in OpenAI, backing the claim regarding Japan's investment exposure to OpenAI."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SoftBank mulls up to US$20 bil bond sale for OpenAI financing \u2014 Bloomberg - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815786",
+          "published": "2026-08-26T06:22:09+00:00",
+          "reason": "The article confirms that Japanese conglomerate SoftBank Group Corp is discussing a US$10 billion to US$20 billion bond offering to fund its investment in OpenAI, which is slated to reach close to US$65 billion by October."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SoftBank mulls up to US$20 bil bond sale for OpenAI financing \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/news/softbank-mulls-us20-bil-bond-sale-openai-financing--bloomberg",
+          "published": "2026-08-26T06:19:24+00:00",
+          "reason": "The report highlights Japanese tech giant SoftBank exploring a US$20 billion bond sale to finance its substantial stake and investment in OpenAI."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-23",
+  "run_ids": [
+    29968312186
+  ],
+  "generated_at_utc": "2026-07-23T00:10:11Z",
+  "tracked_count": 8,
+  "findings_count": 5,
+  "articles": [
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "ServiceNow CEO defends the company's relevancy, touting a kill switch for rogue AI agents - CNBC",
+          "link": "https://www.cnbc.com/2026/07/22/servicenow-ceo-kill-switch-rogue-ai.html",
+          "published": "2026-07-22T22:56:13+00:00",
+          "reason": "CEO Bill McDermott highlighted ServiceNow's 'AI Control Tower' strategy for managing AI agents and noted that enterprise contract terms have 'actually gotten longer.' The article also reports that ServiceNow posted better-than-expected quarterly earnings and revenue, reinforcing its strong enterprise market positioning."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Stocks making the biggest moves after hours: Alphabet, Tesla, IBM, Las Vegas Sands, ServiceNow & more - CNBC",
+          "link": "https://www.cnbc.com/2026/07/22/stocks-making-the-biggest-moves-after-hours-googl-tsla-ibm-lvs.html",
+          "published": "2026-07-22T21:19:19+00:00",
+          "reason": "ServiceNow beat Q2 estimates with adjusted earnings of $0.90 per share on $3.99 billion in revenue versus expected consensus of $3.93 billion. Furthermore, the company raised its full-year subscription revenue guidance, backing a positive financial trajectory."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741/top-bottom-bond-funds-2q26-bond-markets-rebound-but-rate-risks-remain",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as the first-quarter energy shock eased, though interest rate risks remain for the rest of the year.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "U.S. 10-year Treasury yield rises as traders reassess Fed rate hike bets - CNBC",
+          "link": "https://www.cnbc.com/2026/07/22/treasury-yields-fed-rate-hike-bets.html",
+          "published": "2026-07-22T09:00:13+00:00",
+          "reason": "The article confirms that interest rate risks persist for the remainder of 2026, reporting that U.S. 10-year Treasury yields rose to 4.659% as markets priced in a 78% probability of a Fed rate hike in September."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ is said open to faster rate hike pace as yen adds risks \u2014 Bloomberg - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/811645",
+          "published": "2026-07-22T08:33:41+00:00",
+          "reason": "The article confirms that BOJ policymakers raised the benchmark rate to 1% last month and reports that officials are open to raising interest rates at a faster pace as underlying inflation approaches the 2% target."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "These Japanese AI winners don\u2019t make chips. They make toilets, glass fiber and seasoning - CNBC",
+          "link": "https://www.cnbc.com/2026/07/22/japanese-ai-winners-toilets-fiberglass-and-seasoning.html",
+          "published": "2026-07-22T02:25:00+00:00",
+          "reason": "The article highlights how Japanese non-semiconductor companies like Ajinomoto (supplying build-up film for high-performance computing chip packaging) and Nittobo (supplying advanced glass fiber for package substrates) offer unique entry points into the AI supply chain."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting"
+  ]
+}

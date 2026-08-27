@@ -1,0 +1,161 @@
+{
+  "date": "2026-08-21",
+  "run_ids": [
+    32429201651
+  ],
+  "generated_at_utc": "2026-08-20T23:34:16Z",
+  "tracked_count": 16,
+  "findings_count": 12,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's exports surge on chips demand, imports hit record on oil costs - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815200",
+          "published": "2026-08-20T04:17:17+00:00",
+          "reason": "The article states that persistent wholesale inflation and resilient exports are 'likely to support the case for the Bank of Japan to continue to normalise monetary policy, as the central bank is set to raise rates as soon as September.'"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Sunway Healthcare's 2Q net profit surges 89% on higher patient volumes, record revenue - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815223",
+          "published": "2026-08-20T06:12:36+00:00",
+          "reason": "Sunway Healthcare reported an 88.9% surge in 2Q net profit to RM78.16 million and record revenue of RM672.9 million, driven by a 19% rise in inpatient admissions (32,599), higher bed occupancy (73%), an 8% increase in revenue per inpatient admission to RM12,515, and ongoing capacity expansion."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Kossan Rubber, Mah Sing, Sunway Healthcare, Telekom Malaysia, TXCD, 7-Eleven Malaysia, Malayan Cement, YTL Corp, Genting, Genting Malaysia, Magnum, Dialog, Malaysian Pacific Industries, Hua Yang, LBS Bina - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815339",
+          "published": "2026-08-20T17:01:44+00:00",
+          "reason": "The corporate news roundup notes that Sunway Healthcare's 2Q net profit jumped 89% to RM78.16 million alongside a 29.8% revenue increase to a record RM672.9 million, driven by higher hospital operation revenues and patient volumes."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan exports beat estimates in July as robust chip shipments power fifth straight month of gains - CNBC",
+          "link": "https://www.cnbc.com/2026/08/20/japan-exports-imports-july-chip-ai.html",
+          "published": "2026-08-20T00:01:00+00:00",
+          "reason": "The article highlights that Japanese manufacturers are riding the AI boom, showing that shipments of semiconductor equipment surged 49.1% in value and exports accelerated for a fifth straight month at 23.2% growth."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Pop Mart\u2019s sales growth decelerates as post-Labubu demand cools - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815274",
+          "published": "2026-08-20T09:54:55+00:00",
+          "reason": "The article demonstrates consumer weakness in China's new-economy consumer brands, reporting that Pop Mart suffered a sharp growth deceleration to 24% (missing estimates of 20 billion yuan revenue and 6.6 billion yuan net income) alongside broader struggles at viral brands like Laopu Gold and Chagee."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "AI resurgence helps push Alibaba to top Chinese tech stocks this quarter - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815177",
+          "published": "2026-08-20T02:18:15+00:00",
+          "reason": "The article supports the strength of China's new-economy tech/cloud leaders, reporting that Alibaba's shares surged 36% this quarter to top the Hang Seng Tech Index driven by accelerating cloud growth and AI model traction."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Palm oil futures hit RM4,927 as biofuels, El Ni\u00f1o cut supply - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815198",
+          "published": "2026-08-20T04:06:29+00:00",
+          "reason": "The article supports key drivers mentioned in the claim, noting that Indonesia's B50 biodiesel mandate is poised to funnel more palm oil into fuel and curb exports, while futures hit RM4,977 a tonne amid tight supply."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BMI raises 2026 average CPO price forecast to RM4,453 on tight supply - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815192",
+          "published": "2026-08-20T03:34:45+00:00",
+          "reason": "The report supports the claim by projecting 2026 CPO prices at an average of RM4,453 per tonne (above RM4,000) and noting that Indonesia's biodiesel program will divert additional palm oil from the export market into domestic fuel, while Malaysian production eases 3.5%."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try - CNBC",
+          "link": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
+          "published": "2026-08-20T20:09:30+00:00",
+          "reason": "The article highlights persistent volatility and interest rate risks at the long end of the yield curve, noting that long-term Treasury yields quickly rebounded despite Treasury buybacks and intervention attempts."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Treasury yields rebound, wiping out the decline following Bessent's intervention - CNBC",
+          "link": "https://www.cnbc.com/2026/08/20/bond-yields-edge-higher-as-traders-digest-treasury-debt-buyback-plan.html",
+          "published": "2026-08-20T08:57:47+00:00",
+          "reason": "The article reports that 10-year and 30-year yields surged back up (to 4.704% and 5.248% respectively) due to persistent upward pressures, while 2-year short-term yields remained much more stable at 4.185%, illustrating the higher rate risks tied to longer durations."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Dollar falls to three-month low as Treasury moves to soothe bond jitters - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815262",
+          "published": "2026-08-20T09:02:17+00:00",
+          "reason": "The report underscores ongoing rate risks, noting a sharp global bond selloff where 30-year Treasury yields hit a 19-year high of 5.337% amid soaring debt and energy price concerns before government intervention."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Dollar may become biggest loser from US bond buyback, say experts - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815259",
+          "published": "2026-08-20T08:50:49+00:00",
+          "reason": "The article details that borrowing costs on 10- to 30-year bonds have surged to multi-year highs, confirming acute interest rate and duration risks in government debt."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 1Q26: How Far Can It Go",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}

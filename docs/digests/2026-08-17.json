@@ -1,0 +1,60 @@
+{
+  "date": "2026-08-17",
+  "run_ids": [
+    31979266051
+  ],
+  "generated_at_utc": "2026-08-16T23:29:21Z",
+  "tracked_count": 19,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Nvidia eyes investing US$3 bil in SB Energy under OpenAI data centre deal, Information says - theedgemarkets.com",
+          "link": "http://www.theedgemarkets.com/node/814666",
+          "published": "2026-08-16T01:22:31+00:00",
+          "reason": "The report notes that Nvidia is in talks to invest up to US$3 billion in SB Energy, a SoftBank Group subsidiary developing a large-scale data centre project in Ohio for OpenAI, confirming Japanese corporate exposure to AI infrastructure and OpenAI partnerships."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Riding the energy upcycle to stellar returns - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814377",
+          "published": "2026-08-16T16:00:24+00:00",
+          "reason": "The article confirms that solar, earthing and lightning protection for data centres, and grid infrastructure have driven record financial performance for Pekat Group Bhd, with FY2025 net profit doubling year-on-year to RM45.04 million on RM609.91 million in revenue."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Weekly Commentary (31 July 2026)",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Weekly Commentary (3 July 2026)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Weekly Commentary (5 June 2026)",
+    "Weekly Commentary (22 May 2026)"
+  ]
+}

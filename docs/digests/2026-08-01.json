@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-01",
+  "run_ids": [
+    30674784533
+  ],
+  "generated_at_utc": "2026-08-01T00:08:49Z",
+  "tracked_count": 8,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741/top-bottom-bond-funds-2q26-bond-markets-rebound-but-rate-risks-remain",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as the first-quarter energy shock eased, though interest rate risks remain for the rest of the year.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Treasury yields follow oil prices higher as Fed officials say rate hikes are needed - CNBC",
+          "link": "https://www.cnbc.com/2026/07/31/treasury-yields-inflation-interest-rates-federal-reserve.html",
+          "published": "2026-07-31T07:05:51+00:00",
+          "reason": "The article confirms that interest rate risks remain for the bond market, reporting that Fed officials Beth Hammack and Neel Kashkari signaled the need for rate hikes in the autumn, which pushed the 10-year Treasury yield up to 4.71%."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660/fund-choice-july-2026-principal-china-new-energy-innovation-fund",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, favouring the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China\u2019s factories, construction slump in sign of deeper slowdown - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/812774",
+          "published": "2026-07-31T02:56:46+00:00",
+          "reason": "China's official manufacturing PMI unexpectedly fell into contraction at 49.2 in July 2026, while economic growth slowed to 4.3% in the second quarter. This widespread slump in Chinese factory activity and broader industrial weakness undercuts expectations of strong performance in China's industrial and new energy manufacturing sectors."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ holds rates at 1%, warns of core inflation exceeding 2% target - CNBC",
+          "link": "https://www.cnbc.com/2026/07/31/boj-rates-yen-intervention-inflation-japan.html",
+          "published": "2026-07-31T03:33:00+00:00",
+          "reason": "The article confirms that the Bank of Japan's policy rate is at 1% and notes that the BOJ stated 'it will continue to raise the policy interest rate' as underlying inflation approaches its 2% target."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging"
+  ]
+}

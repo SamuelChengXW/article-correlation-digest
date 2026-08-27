@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-07",
+  "run_ids": [
+    31138903036
+  ],
+  "generated_at_utc": "2026-08-07T01:42:51Z",
+  "tracked_count": 8,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Trump order sets 15% tariff, price floors on polysilicon imports - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/highlight/trump-order-sets-15-tariff-price-floors-polysilicon-imports",
+          "published": "2026-08-06T22:42:49+00:00",
+          "reason": "The article reports that a US executive order sets a 15% tariff and price floors on polysilicon imports. Since polysilicon is a key raw material for solar manufacturing, these trade barriers create headwinds for Chinese new energy exports."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Trump order sets 15% tariff, price floors on polysilicon imports - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/813659",
+          "published": "2026-08-06T22:27:23+00:00",
+          "reason": "The headline notes that a Trump order establishes a 15% tariff and price floors on polysilicon imports, imposing trade restrictions on a crucial solar industry material and complicating growth for China's renewable energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660/fund-choice-july-2026-principal-china-new-energy-innovation-fund",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, favouring the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Trump order sets 15% tariff, price floors on polysilicon imports - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/highlight/trump-order-sets-15-tariff-price-floors-polysilicon-imports",
+          "published": "2026-08-06T22:42:49+00:00",
+          "reason": "The article reports a U.S. executive order imposing a 15% tariff and price floors on polysilicon imports. Because polysilicon is a critical component for solar panel manufacturing, these trade restrictions undercut the growth outlook and market access for China's renewable energy sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Trump order sets 15% tariff, price floors on polysilicon imports - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/813659",
+          "published": "2026-08-06T22:27:23+00:00",
+          "reason": "The report highlights a U.S. order setting a 15% tariff and price floors on polysilicon imports, establishing trade barriers on a primary raw material for solar manufacturing that materially complicates the performance of China's clean energy industry."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging"
+  ]
+}

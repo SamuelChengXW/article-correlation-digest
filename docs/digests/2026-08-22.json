@@ -1,0 +1,87 @@
+{
+  "date": "2026-08-22",
+  "run_ids": [
+    32537220572
+  ],
+  "generated_at_utc": "2026-08-21T23:32:19Z",
+  "tracked_count": 16,
+  "findings_count": 5,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan headline inflation rate hits highest this year as energy prices bite - CNBC",
+          "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+          "published": "2026-08-20T23:47:52+00:00",
+          "reason": "The article reports that Japan's headline inflation reached 1.9% in July and the BOJ expects core inflation to accelerate clearly above 2%, strengthening conviction among analysts that the BOJ will implement a rate hike in September."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's core inflation accelerates in July, bolsters case for rate hike - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815364",
+          "published": "2026-08-21T03:25:48+00:00",
+          "reason": "The article states that accelerating core inflation bolsters the case for rate hikes, with the Bank of Japan widely expected to raise its key policy rate to 1.25% from 1.0% at its September meeting."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Analysts stay upbeat on Sunway Healthcare despite stretched valuation - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815408",
+          "published": "2026-08-21T07:51:31+00:00",
+          "reason": "The article highlights positive earnings momentum and business fundamentals in Malaysian private healthcare, driven by higher average revenue per inpatient and hospital expansions including incremental contributions from Sunway Medical Centre Damansara and Ipoh."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan headline inflation rate hits highest this year as energy prices bite - CNBC",
+          "link": "https://www.cnbc.com/2026/08/21/japan-inflation-iran-war-energy.html",
+          "published": "2026-08-20T23:47:52+00:00",
+          "reason": "The article reports that the Bank of Japan projected core inflation to accelerate to 'clearly above' 2% in the second half of fiscal 2026, noted that near-term consumer inflation was subdued due to government energy subsidies, and highlighted expectations for a rate hike in September."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's core inflation accelerates in July, bolsters case for rate hike - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/815364",
+          "published": "2026-08-21T03:25:48+00:00",
+          "reason": "The article confirms that Japanese core inflation accelerated to 1.8% in July despite being dampened by government fuel subsidies, strengthening expectations that the BOJ will hike its key interest rate from 1% to 1.25% in September."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}

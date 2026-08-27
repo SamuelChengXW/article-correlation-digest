@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-08",
+  "run_ids": [
+    31227925948,
+    31241227958
+  ],
+  "generated_at_utc": "2026-08-08T05:14:01Z",
+  "tracked_count": 9,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products - CNBC",
+          "link": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+          "published": "2026-08-07T10:23:51+00:00",
+          "reason": "U.S. President Trump imposed a 15% tariff on imported products made from polysilicon to counter Chinese competition, creating new trade barriers for Chinese solar panel component manufacturers."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660/fund-choice-july-2026-principal-china-new-energy-innovation-fund",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, favouring the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Solar stocks shine after Trump extends China tariffs to polysilicon products - CNBC",
+          "link": "https://www.cnbc.com/2026/08/07/polysilicon-solar-tariffs-donald-trump-us-china-trade-war-energy-semiconductors.html",
+          "published": "2026-08-07T10:23:51+00:00",
+          "reason": "President Trump imposed a 15% duty and minimum import prices on polysilicon products to counter China in the energy race and protect U.S. solar supply chains, creating direct trade barriers for China's solar industry."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Yen surrenders nearly half its gains from US-Japan intervention - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/813723",
+          "published": "2026-08-07T07:41:53+00:00",
+          "reason": "The article states that 'the Bank of Japan left its benchmark rate unchanged last week,' directly contradicting the claim that the BOJ raised its policy rate to 1.0%."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go"
+  ]
+}

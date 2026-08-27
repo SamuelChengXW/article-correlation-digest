@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-30",
+  "run_ids": [
+    30501661611
+  ],
+  "generated_at_utc": "2026-07-30T00:06:41Z",
+  "tracked_count": 8,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741/top-bottom-bond-funds-2q26-bond-markets-rebound-but-rate-risks-remain",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as the first-quarter energy shock eased, though interest rate risks remain for the rest of the year.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "What a divided Fed means for investors - CNBC",
+          "link": "https://www.cnbc.com/2026/07/29/fed-meeting-interest-rates-warsh-stocks-bonds.html",
+          "published": "2026-07-29T22:43:19+00:00",
+          "reason": "The article states that an \"ongoing energy price shock threatens to push up readings,\" which directly contradicts the claim's assertion that the first-quarter energy shock had eased."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging"
+  ]
+}

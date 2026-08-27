@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-12",
+  "run_ids": [
+    31548110258
+  ],
+  "generated_at_utc": "2026-08-11T23:52:11Z",
+  "tracked_count": 9,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Anthropic strikes US$9 bil cloud deal with Riot Platforms \u2014 Bloomberg - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814033",
+          "published": "2026-08-11T02:09:53+00:00",
+          "reason": "The article reports that crypto-turned-cloud provider Riot Platforms has announced a deal with Advanced Micro Devices Inc to build computing capacity, backing the claim of accelerating AI infrastructure demand for AMD."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging"
+  ]
+}

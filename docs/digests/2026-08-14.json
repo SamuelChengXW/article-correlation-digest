@@ -1,0 +1,65 @@
+{
+  "date": "2026-08-14",
+  "run_ids": [
+    31755345763
+  ],
+  "generated_at_utc": "2026-08-13T23:51:42Z",
+  "tracked_count": 10,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's wholesale inflation spikes in July, bolsters rate-hike chance - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/814309",
+          "published": "2026-08-13T00:52:08+00:00",
+          "reason": "The article reports that the Japanese government is supportive of a near-term Bank of Japan interest rate hike in September or October, aligning with central bank concerns over yen weakness and reinforcing expectations of further policy tightening."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "KPJ Healthcare may report stronger 2Q, says RHB Research - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814371",
+          "published": "2026-08-13T05:42:09+00:00",
+          "reason": "RHB Research estimates a 16% year-on-year profit rise for KPJ Healthcare, driven by improving patient volume, higher bed occupancy, and higher revenue per patient across its network of 30 hospitals."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Commentary (31 July 2026)",
+      "fsmone_url": "https://www.fsmone.com.my/article/384140",
+      "claim_summary": "Major technology hyperscalers are maintaining intact capital expenditure plans despite macroeconomic headwinds, while China has achieved a technological breakthrough in DUV lithography. Simultaneously, both the Federal Reserve (FOMC) and the Bank of Japan (BOJ) have adopted hawkish holds on interest rates, creating a distinct environment for tech and global equity investors.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "South Korea\u2019s Kospi has staged a stunning comeback. How long will the bull market last? - cnbc.com",
+          "link": "https://www.cnbc.com/amp/2026/08/13/south-korea-kospi-bull-market-sk-hynix-samsung-surge.html",
+          "published": "2026-08-13T04:22:36+00:00",
+          "reason": "The article supports the claim regarding sustained hyperscaler capex, reporting that \"continued commitments to AI infrastructure spending\" from U.S. technology giants have maintained robust demand and revived investor confidence in memory chipmakers."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table"
+  ]
+}

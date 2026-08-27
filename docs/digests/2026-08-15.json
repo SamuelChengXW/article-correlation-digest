@@ -1,0 +1,109 @@
+{
+  "date": "2026-08-15",
+  "run_ids": [
+    31850618063
+  ],
+  "generated_at_utc": "2026-08-14T23:30:43Z",
+  "tracked_count": 10,
+  "findings_count": 7,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dollar falls on surprise drop in U.S. retail sales - CNBC",
+          "link": "https://www.cnbc.com/2026/08/14/yens-slide-to-weekly-loss-prompts-bets-for-another-intervention.html",
+          "published": "2026-08-14T01:53:00+00:00",
+          "reason": "The article mentions traders are weighing 'the prospect of a Bank of Japan rate hike next month aimed at supporting the yen,' indicating expectations of further rate increases."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ eyeing September rate hike, faster pace of tightening \u2014 Reuters - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/814538",
+          "published": "2026-08-14T06:41:30+00:00",
+          "reason": "The article confirms that the BOJ raised interest rates in June to a '31-year high of 1%' and is eyeing another rate hike as soon as September, with sources stating the BOJ 'is considering hiking more aggressively thereafter.'"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "TMC Life Sciences nearly doubles profit in 4Q, proposes 0.58 sen dividend - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814619",
+          "published": "2026-08-14T13:27:32+00:00",
+          "reason": "Malaysian healthcare group TMC Life Sciences reported a 91.8% surge in 4Q net profit and near-fivefold FY2026 profit growth to RM17.38 million, attributing gains to additional bed capacity and services as well as higher case intensity."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "AMD to raise as much as $5 billion from debt offering - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814487",
+          "published": "2026-08-14T01:05:15+00:00",
+          "reason": "The report notes AMD is raising up to $5 billion as it 'ramps up spending to meet surging demand for computing capacity driven by the AI boom,' highlighting recent agreements with Anthropic and Microsoft that broaden the adoption of its AI chips."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Commentary (31 July 2026)",
+      "fsmone_url": "https://www.fsmone.com.my/article/384140",
+      "claim_summary": "Major technology hyperscalers are maintaining intact capital expenditure plans despite macroeconomic headwinds, while China has achieved a technological breakthrough in DUV lithography. Simultaneously, both the Federal Reserve (FOMC) and the Bank of Japan (BOJ) have adopted hawkish holds on interest rates, creating a distinct environment for tech and global equity investors.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "The one big takeaway from a huge earnings season - CNBC",
+          "link": "https://www.cnbc.com/2026/08/14/the-one-big-takeaway-from-a-huge-earnings-season.html",
+          "published": "2026-08-14T16:57:01+00:00",
+          "reason": "The article confirms that Big Tech intentions to spend on capex building data centers remain 'as intense as ever,' citing Alphabet raising its 2026 capex outlook to $205 billion, Microsoft holding 2026 capex steady with fiscal 2027 growth, and Amazon's capex potentially hitting $220 billion."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dollar falls on surprise drop in U.S. retail sales - CNBC",
+          "link": "https://www.cnbc.com/2026/08/14/yens-slide-to-weekly-loss-prompts-bets-for-another-intervention.html",
+          "published": "2026-08-14T01:53:00+00:00",
+          "reason": "The article mentions traders weighing the prospect of a Bank of Japan rate hike next month aimed at supporting the yen, supporting the view that additional rate hikes remain on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ eyeing September rate hike, faster pace of tightening \u2014 Reuters - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/814538",
+          "published": "2026-08-14T06:41:30+00:00",
+          "reason": "The article confirms that the BOJ 'kept policy steady last month' while delivering strong signals of an early rate hike as soon as September, warning that mounting price pressures could push underlying inflation above its 2% target."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund"
+  ]
+}

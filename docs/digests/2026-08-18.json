@@ -1,0 +1,106 @@
+{
+  "date": "2026-08-18",
+  "run_ids": [
+    32080777330
+  ],
+  "generated_at_utc": "2026-08-17T23:31:22Z",
+  "tracked_count": 19,
+  "findings_count": 7,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's 10-year bond yield hits three-decade high as inflation, central bank pressures mount - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814718",
+          "published": "2026-08-17T02:13:36+00:00",
+          "reason": "The article reports that Japanese government bond yields surged across maturities, with the 2-year yield (most sensitive to BOJ policy rates) rising to 1.685% and the 10-year yield hitting a three-decade high of 2.925% as 'expectations around central bank interest rate hikes solidified' alongside mounting inflation pressures."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's economy slows further in July as retail sales barely grow, investment slump steepens - CNBC",
+          "link": "https://www.cnbc.com/2026/08/17/china-economy-sales-investment-july-.html",
+          "published": "2026-08-17T07:03:55+00:00",
+          "reason": "The article reports that China's economy lost momentum in July as consumer spending stalled, with retail sales rising just 0.6% and urban investment contracting 6.7%, contradicting claims of strong performance in China's consumer sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China\u2019s economic woes mount with disappointing start to half - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814796",
+          "published": "2026-08-17T08:39:57+00:00",
+          "reason": "The article notes that China's retail sales growth slowed to 0.6% and fixed-asset investment fell 6.7% year-on-year in the first seven months due to 'lacklustre domestic demand', conflicting with the claim of strong performance in the consumer sector."
+        }
+      ]
+    },
+    {
+      "title": "Weekly Commentary (22 May 2026)",
+      "fsmone_url": "https://www.fsmone.com.my/article/371080",
+      "claim_summary": "Global markets are navigating headwinds from elevated long-term bond yields and persistent inflation alongside monetary policy developments, notably Kevin Warsh's leadership as Fed Chair and China's decision to keep its Loan Prime Rate unchanged. Concurrently, investor sentiment and market direction remain heavily influenced by the latest NVIDIA earnings report.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Asia stocks to fall, oil extends gains on Mid East - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814849",
+          "published": "2026-08-17T22:45:08+00:00",
+          "reason": "The article states that 30-year Treasury yields reached their highest level since 2007 and the 10-year yield climbed to 4.72% as elevated energy prices revived concerns that inflation will persist and prompt Fed tightening."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "S&P 500 inches lower as Middle East tensions outweigh tech gains - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814841",
+          "published": "2026-08-17T14:10:49+00:00",
+          "reason": "The article reports that markets are keeping 'a close eye next week on results from chipmaker Nvidia' to determine whether tech-driven momentum and market direction can continue."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "30-year Treasury yield tops 5.31%, the highest in 19 years - CNBC",
+          "link": "https://www.cnbc.com/2026/08/17/treasury-yields-federal-reserve-fomc-minutes.html",
+          "published": "2026-08-17T08:08:17+00:00",
+          "reason": "The report notes that the 30-year Treasury yield surged to 5.311% (its highest level since June 2007) and the 10-year yield reached 4.724% due to growing investor anxiety over persistent inflation."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Stocks fall as Brent tops US$90 on Middle East risks - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/814847",
+          "published": "2026-08-17T22:20:03+00:00",
+          "reason": "The article highlights that stocks fell as 30-year Treasury yields hit their highest level since 2007 amid investor anxiety over elevated long-term yields, rising debt, and inflation remaining stuck above the Fed's target."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Weekly Commentary (31 July 2026)",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Weekly Commentary (3 July 2026)",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Weekly Commentary (5 June 2026)"
+  ]
+}
