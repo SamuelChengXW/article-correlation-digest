@@ -1,0 +1,43 @@
+{
+  "date": "2026-08-28",
+  "run_ids": [
+    33129773618
+  ],
+  "generated_at_utc": "2026-08-28T00:39:24.355105Z",
+  "tracked_count": 16,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "IHH 2Q profit up 29% on demand and patient mix, declares 5.5 sen dividend - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816013",
+          "published": "2026-08-27T10:28:36+00:00",
+          "reason": "Private healthcare operator IHH Healthcare reported a 29.3% rise in 2Q net profit and an 11.9% rise in revenue driven by sustained demand, higher patient volumes, improved revenue per inpatient admission, and price adjustments to counter inflation."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
