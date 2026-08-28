@@ -5,7 +5,7 @@
   ],
   "generated_at_utc": "2026-08-28T00:39:24.355105Z",
   "tracked_count": 16,
-  "findings_count": 1,
+  "findings_count": 15,
   "articles": [
     {
       "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
@@ -19,25 +19,191 @@
           "link": "http://www.theedgemarkets.com/node/816013",
           "published": "2026-08-27T10:28:36+00:00",
           "reason": "Private healthcare operator IHH Healthcare reported a 29.3% rise in 2Q net profit and an 11.9% rise in revenue driven by sustained demand, higher patient volumes, improved revenue per inpatient admission, and price adjustments to counter inflation."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "IHH Healthcare's 2QFY2026 patmi up 29% y-o-y",
+          "link": "https://www.theedgesingapore.com/amp/news/results/ihh-healthcares-2qfy2026-patmi-29-y-o-y",
+          "published": "2026-08-27",
+          "reason": "IHH — the largest private-hospital operator and one of the names FSMOne cites for this sector call — reporting 2QFY2026 profit after tax and minority interests up 29% year-on-year is direct earnings evidence for the “more patients, more opportunities” private-healthcare growth thesis. (Full text was blocked by a 403; verdict rests on the headline figure.)"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
+          "link": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+          "published": "2026-08-27",
+          "reason": "Salesforce's Q2 beat plus its “Claudeforce” Anthropic partnership triggered a broad enterprise-software rally that explicitly lifted ServiceNow (named in the article) alongside Adobe, Palantir and Autodesk; the iShares software ETF rose ~5%. CEO Benioff's rebuttal — “This is not the SaaSpocalypse... these dire predictions about the end of software” — directly backs FSMOne's thesis that AI is a monetisation tailwind for sticky enterprise platforms like NOW, not a disruptor."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+      "fsmone_url": "https://www.fsmone.com.my/article/381902",
+      "claim_summary": "ServiceNow's 2Q26 financial results validate the company's enterprise AI monetization strategy amid resilient software demand, though profitability faces headwinds from compressed subscription gross margins and execution risks surrounding the integration of its AI Control Tower.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Salesforce rockets 22% for second-best day ever, leading software rally",
+          "link": "https://www.cnbc.com/2026/08/27/salesforce-stock-soars-on-track-for-second-best-day-ever.html",
+          "published": "2026-08-27",
+          "reason": "The 5% software-sector rally on Salesforce's AI-driven beat, with ServiceNow among the names lifted, corroborates FSMOne's read of “resilient software demand.” Benioff's “not the SaaSpocalypse” framing — that AI models are augmenting, not eating, enterprise SaaS — is the same AI-monetisation-is-real narrative underpinning the ServiceNow call."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ deputy chief calls for timely rate hike, focus on inflation risk",
+          "link": "http://www.theedgemarkets.com/node/815949",
+          "published": "2026-08-27",
+          "reason": "Deputy governor Ryozo Himino stressed the need for “timely interest rate hikes” to avoid “being behind the curve on inflation,” and reinforced market expectations of a near-term (September) increase — concrete support for FSMOne's “further gradual hikes likely” call after the move to 1.0%."
+        }
+      ]
+    },
+    {
+      "title": "BOJ’s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ deputy chief calls for timely rate hike, focus on inflation risk",
+          "link": "http://www.theedgemarkets.com/node/815949",
+          "published": "2026-08-27",
+          "reason": "Himino said Japan “has now entered a phase where the BOJ must bear in mind the possibility of underlying inflation exceeding its 2% target,” with underlying inflation “approaching 2%” and pressure from Middle East fuel costs, AI demand and a weak yen. This is a near-verbatim match to FSMOne's thesis of core inflation at/above 2% with upside risks keeping another 2026 hike live."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia adds more than $400 billion in value after blowout earnings boost AI confidence",
+          "link": "https://www.cnbc.com/2026/08/27/nvidia-nvda-q2-earnings.html",
+          "published": "2026-08-27",
+          "reason": "Nvidia guided to 70% revenue growth for FY2028 with CEO Huang saying demand “is much greater than 70%” but supply-constrained, and the print lifted the broader chip complex (Broadcom, Intel). A supply-capped, still-accelerating AI-infrastructure backdrop is exactly the demand environment FSMOne's AMD BUY thesis rests on."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run",
+          "link": "http://www.theedgemarkets.com/node/815891",
+          "published": "2026-08-27",
+          "reason": "Huang's “AI has reached its inflection point... compute is revenue” and Nvidia's argument that the AI-compute market is “expanding rather than peaking” reinforce the durability of the AI capex cycle that underpins AMD's accelerating-demand case."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Nvidia's blowout earnings contained some red flags",
+          "link": "https://www.cnbc.com/2026/08/27/nvidias-blowout-earnings-contained-some-red-flags.html",
+          "published": "2026-08-27",
+          "reason": "Nvidia's net accounts receivable jumped ~63% (US$38.5bn to US$63.1bn) with banks projecting it balloons to ~US$147bn by 2029 — a sign of very large forward commitments that a D.A. Davidson analyst flagged as “worth keeping an eye on.” This speaks directly to the capex-cyclicality / demand-durability risk FSMOne itself lists against the AMD BUY."
+        }
+      ]
+    },
+    {
+      "title": "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+      "fsmone_url": "https://www.fsmone.com.my/article/386880",
+      "claim_summary": "Despite AMD beating 2Q26 expectations and raising revenue guidance on strong EPYC gains, MI350 adoption, and the Helios server ramp, the stock was downgraded to Neutral with a price target of USD 509. The thesis asserts that elevated market expectations already price in data center acceleration, while actual shipment volumes and profitability remain unproven.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia's blowout earnings contained some red flags",
+          "link": "https://www.cnbc.com/2026/08/27/nvidias-blowout-earnings-contained-some-red-flags.html",
+          "published": "2026-08-27",
+          "reason": "The ~63% jump in Nvidia receivables and the “really big commitments way out into the future” that even a bullish quarter carried validate FSMOne's cautious Neutral framing — that lofty AI expectations bring unproven-profitability and execution risk, not just clean upside."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Nvidia forecasts 70% sales growth next year, signals AI spending boom has years left to run",
+          "link": "http://www.theedgemarkets.com/node/815891",
+          "published": "2026-08-27",
+          "reason": "Nvidia arguing the AI-compute market is “expanding rather than peaking” with “years left to run” cuts against FSMOne's core Neutral premise that data-centre acceleration is already fully priced and upside is capped — it implies the sector's runway (and AMD's) may be underestimated rather than exhausted."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China industrial profits growth cools to slowest in seven months as economic slowdown deepens",
+          "link": "https://www.cnbc.com/2026/08/27/china-industrial-profits-july-factory-production-.html",
+          "published": "2026-08-27",
+          "reason": "July industrial profit growth slowed to 11.2% y-o-y (from 15.1% in June) on “soft demand and a broader slowdown in the economy,” with the recovery “largely helped by a global AI boom” in chips/electronics rather than domestic consumption. Weak domestic demand is a headwind for a fund tilted to Chinese consumer and services names."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's industrial profit growth cools as AI-linked sectors outpace",
+          "link": "http://www.theedgemarkets.com/node/815908",
+          "published": "2026-08-27",
+          "reason": "The report stresses that “industries reliant on domestic demand remained under pressure” while the bright spots were export-linked electronics/AI hardware — i.e. the outperformance is concentrated outside the consumption/services “new economy” this fund targets, so it does not validate the fund's specific tilt."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Fed's Hammack says 'now is the time to act' on raising interest rates",
+          "link": "https://www.cnbc.com/2026/08/27/feds-hammack-says-now-is-the-time-to-act-on-raising-interest-rates.html",
+          "published": "2026-08-27",
+          "reason": "A voting FOMC member publicly pushing for higher rates — citing inflation running ~3% and “an inflationary situation for more than five years” — is live evidence that FSMOne's “rate risks remain” caution is warranted, supporting the defensive short-to-medium duration positioning."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas – No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil rises 2% as White House says no US-Iran talks happening",
+          "link": "https://www.cnbc.com/2026/08/27/oil-prices-extend-losses-on-expectations-talks-to-ease-middle-east-supply-woes.html",
+          "published": "2026-08-27",
+          "reason": "Brent climbed 2.2% to $89.79 after Washington confirmed no US-Iran talks — corroborating FSMOne's premise that Middle East geopolitics keeps crude elevated and choppy. Notably the move is pure price/geopolitics with no mention of any capex response, consistent with the report's core point that firmer crude is not, by itself, driving a sector upcycle (hence the NEUTRAL call stands)."
         }
       ]
     }
   ],
   "no_coverage_titles": [
-    "ServiceNow FY2027: The Time Is NOW",
     "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
-    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
-    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
-    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
-    "AMD 1Q26: How Far Can It Go",
-    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
-    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
-    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
-    "Malaysia Sector Outlook: Construction - Year of Execution",
-    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
-    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
-    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
     "Fund Choice July 2026: Principal China New Energy Innovation Fund",
-    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View"
   ]
 }
