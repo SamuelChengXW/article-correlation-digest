@@ -7,7 +7,7 @@
   ],
   "generated_at_utc": "2026-08-29T15:14:14.600554Z",
   "tracked_count": 16,
-  "findings_count": 2,
+  "findings_count": 26,
   "articles": [
     {
       "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
@@ -21,6 +21,14 @@
           "link": "http://www.theedgemarkets.com/node/816158",
           "published": "2026-08-28T08:47:43+00:00",
           "reason": "The article states that 'The Bank of Japan is expected to keep raising interest rates, which would put pressure on borrowers who determined how much they can afford based on their initially low monthly repayments', supporting expectations of further rate increases."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Bessent attacks Warren over yen intervention query",
+          "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+          "published": "2026-08-28",
+          "reason": "Undercuts the “confident normalisation” framing. The article confirms the yen fell to a 40-year low, forcing a rare U.S. Treasury intervention (selling euros from the Exchange Stabilization Fund to buy yen). A currency at a four-decade low despite BOJ policy at 1.0% points to a still-wide rate gap and market scepticism, not a smooth normalisation."
         }
       ]
     },
@@ -32,34 +40,284 @@
         {
           "verdict": "supports",
           "source": "theedgemalaysia",
-          "title": "El Ni\u00f1o to crimp Indonesian palm oil output, producer group says - The Edge Malaysia",
+          "title": "El Niño to crimp Indonesian palm oil output, producer group says - The Edge Malaysia",
           "link": "http://www.theedgemarkets.com/node/816155",
           "published": "2026-08-28T08:40:25+00:00",
           "reason": "The article reports that global palm markets are expected to tighten as Indonesia keeps more oil onshore for its expanded biodiesel mandate set to be implemented in October, with Gapki noting that domestic supply is prioritised and export volumes will decline."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "IOI Corp net profit up 17% in 4Q; declares 7 sen dividend",
+          "link": "http://www.theedgemarkets.com/node/816189",
+          "published": "2026-08-28",
+          "reason": "IOI realised FY2026 CPO of RM4,487/tonne — comfortably above the ~RM4,000 floor — and guided prices to “remain firm ... due to tight global vegetable oil supply and sustained demand,” i.e. supported but not breaking out. Consistent with the range-bound/floor-intact NEUTRAL view."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Sarawak Oil Palms' 2Q profit jumps 67% on stronger palm oil sales and prices",
+          "link": "http://www.theedgemarkets.com/node/816181",
+          "published": "2026-08-28",
+          "reason": "SOP's realised CPO of RM4,499/tonne was only +4.29% q-o-q — prices sitting range-bound near the top of the expected band above the RM4,000 floor, not surging. The 67% profit jump was driven mainly by volume, FX and derivative gains rather than a price breakout, fitting the “catalysts largely priced in” thesis."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "El Niño to crimp Indonesian palm oil output, producer group says",
+          "link": "https://www.theedgesingapore.com/news/palm-oil/el-nio-crimp-indonesian-palm-oil-output-producer-group-says",
+          "published": "2026-08-28",
+          "reason": "Introduces a fresh bullish supply-side catalyst (El Niño crimping Indonesian output) that the FSMOne thesis did not price in — its upside case was framed around B50 demand and capped by Brazilian soybean supply. A new production-cut risk adds upside price pressure that complicates the “upside largely priced in / capped” NEUTRAL stance. (Full text blocked, 403 — verdict rests on the headline.)"
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
+          "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-midday-amzn-mrvl-pypl-crm.html",
+          "published": "2026-08-28",
+          "reason": "ServiceNow stock rose 3% for a second straight day after CFO Gina Mastantuono told Deutsche Bank's tech conference that ServiceNow's AI business is “on track for its full-year target of US$1.5 billion” — a direct, on-record read on the AI-monetisation engine the FSMOne thesis rests on. Corroborating enterprise-software strength: Workday +6% on a Q2 beat and Salesforce extending a 22%+ post-earnings rally."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Digital Intelligence: The tokenmaxxing trap: Why cheaper AI is blowing up enterprise budgets",
+          "link": "http://www.theedgemarkets.com/node/815608",
+          "published": "2026-08-28",
+          "reason": "Complicates the clean “hybrid AI monetisation” tailwind. It reports enterprises getting cost-shocked by runaway AI consumption — Uber reportedly burned its entire annual AI budget in four months, and Microsoft revoked developer access to high-tier AI after usage overshot projections. That backlash toward tighter AI-spend guardrails is a demand headwind to the assumption that enterprises keep scaling paid AI usage smoothly."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+      "fsmone_url": "https://www.fsmone.com.my/article/381902",
+      "claim_summary": "ServiceNow's 2Q26 financial results validate the company's enterprise AI monetization strategy amid resilient software demand, though profitability faces headwinds from compressed subscription gross margins and execution risks surrounding the integration of its AI Control Tower.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Stocks making the biggest moves midday: Amazon, Marvell, PayPal, Salesforce & more",
+          "link": "https://www.cnbc.com/2026/08/28/stocks-making-the-biggest-moves-midday-amzn-mrvl-pypl-crm.html",
+          "published": "2026-08-28",
+          "reason": "CFO Gina Mastantuono publicly reaffirmed ServiceNow's AI business is on track for its US$1.5bn full-year target — concrete evidence that AI monetisation “is becoming real” as the FSMOne review argues. Broader resilient-demand backdrop confirmed by Workday's Q2 beat (+6%) and Salesforce's continued post-earnings rally."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's EV scrutiny grows with surprise checks for carmakers",
+          "link": "http://www.theedgemarkets.com/node/816182",
+          "published": "2026-08-28",
+          "reason": "A near-term overhang on the new-energy-vehicle slice of the sector. Four top Chinese bodies (incl. MIIT) issued a joint directive for surprise spot checks of assembly plants, suppliers and dealerships, with immediate licence revocation for fraud — an explicit response to a “domestic price war” and safety concerns from ultra-compressed (<2-year) model cycles. Signals regulatory/margin stress in NEVs rather than clean bullish momentum (note: about vehicle safety/overcapacity, not power generation)."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's EV scrutiny grows with surprise checks for carmakers",
+          "link": "http://www.theedgemarkets.com/node/816182",
+          "published": "2026-08-28",
+          "reason": "Same signal as above — Beijing's surprise-inspection clampdown on EV production standards, driven by a domestic price war and safety worries, is a near-term risk overhang on China's new-energy-vehicle segment that cuts against a cleanly bullish 2026 new-energy read."
+        }
+      ]
+    },
+    {
+      "title": "BOJ’s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bessent attacks Warren over yen intervention query",
+          "link": "https://www.cnbc.com/2026/08/28/bessent-warren-yen-intervention-treasury-japan.html",
+          "published": "2026-08-28",
+          "reason": "The yen's fall to a 40-year low (severe enough to trigger a rare U.S. intervention) is exactly the kind of imported-inflation / upside price risk the FSMOne note flags as keeping further BOJ hikes on the table — a weak currency raises import costs and strengthens the case for tightening."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SoftBank seeks another US$10 bil loan for OpenAI stake funding",
+          "link": "https://www.theedgesingapore.com/news/tech/softbank-seeks-another-us10-bil-loan-openai-stake-funding",
+          "published": "2026-08-28",
+          "reason": "Directly reinforces the “OpenAI exposure” leg of the thesis — SoftBank (the flagship Japanese AI-infrastructure name in the FSMOne piece) is seeking a further US$10bn loan specifically to fund its OpenAI stake, evidence it is doubling down on exactly the AI-infra exposure the article highlights. (Full text blocked, 403 — verdict rests on the headline.)"
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Friday's biggest analyst calls: Nvidia, SpaceX, Tesla, Amazon, Marvell, Affirm & more",
+          "link": "https://www.cnbc.com/2026/08/28/friday-big-wall-street-analyst-calls-like-nvidia.html",
+          "published": "2026-08-28",
+          "reason": "No direct AMD coverage today, but a clear read-through on the accelerating-AI-infra-demand premise: BofA reiterated Marvell as Buy citing “rare accelerating growth ... towards mid-50s% YoY ... driven by a diversity of leading cloud customers” across compute/networking/optics, and Evercore reiterated Nvidia as outperform on its AI partnerships. Both validate the data-centre demand backdrop underpinning AMD's bull case."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "DeepSeek looks for fresh capital as founder's quant empire navigates China's choppy IPO market",
+          "link": "https://www.cnbc.com/2026/08/28/deepseek-founder-liang-wenfeng-high-flyer-china-tech-ipos-funding.html",
+          "published": "2026-08-28",
+          "reason": "Evidences robust investor enthusiasm for China's new-economy/hard-tech complex — DeepSeek is raising fresh outside capital amid a “red-hot IPO market”, and backer High-Flyer has secured pre-IPO placements across chips (CXMT), robotics (Unitree) and renewables that rallied on debut, consistent with the new-economy strength driving the fund. (Caveat: the piece also flags recent AI/chip-stock volatility causing “sharp drawdowns”.)"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Gamuda lands another RM3.57 bil in hyperscale data centre jobs in Port Dickson",
+          "link": "http://www.theedgemarkets.com/node/816137",
+          "published": "2026-08-28",
+          "reason": "Textbook confirmation of the “data centres = key structural driver” + “record awards” thesis: Gamuda won RM3.57bn of hyperscale data-centre contracts — its THIRD such job in Port Dickson this year (after RM1.72bn in April and RM1.71bn earlier this month) — lifting an order book that stood at RM52bn at end-April."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "WCT bags RM600.9m contract to build 41-storey office at TRX",
+          "link": "http://www.theedgemarkets.com/node/816176",
+          "published": "2026-08-28",
+          "reason": "Fresh RM600.9m contract win (41-storey TRX office tower, awarded by a MoF Inc. unit), adding to the pipeline of new awards the “Execution Year” thesis relies on."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "LSH Capital unit's JV awarded Bandar Malaysia–Seri Kembangan Elevated Highway",
+          "link": "http://www.theedgemarkets.com/node/816139",
+          "published": "2026-08-28",
+          "reason": "A new government-backed transport-infrastructure award (elevated highway integrating KL's expressway network) — direct evidence of the sustained infrastructure commitment and contract flow underpinning the sector outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Kerjaya Prospek 2Q net profit up on lower tax despite lower revenue",
+          "link": "http://www.theedgemarkets.com/node/816142",
+          "published": "2026-08-28",
+          "reason": "Cuts against “record awards translating into peak EARNINGS delivery.” Kerjaya's 2Q revenue fell 25% to RM403.1m on “lower progress in construction activities” (construction-segment revenue -29% y-o-y); the 22.5% profit rise came from lower tax expense, not operational execution."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Eversendai expects Trojena contract termination settlement by 1H2027 after 2Q loss",
+          "link": "http://www.theedgemarkets.com/node/816218",
+          "published": "2026-08-28",
+          "reason": "Eversendai swung to a RM10.63m 2Q net loss (from RM12.16m profit) with revenue nearly halved, after termination of its Trojena/NEOM steel contract plus impairments — earnings pressure and execution risk rather than peak delivery (caveat: driven by Middle East exposure, not domestic)."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "PTT Synergy posts higher 4Q net profit on valuation gain, revenue down 27%",
+          "link": "http://www.theedgemarkets.com/node/816229",
+          "published": "2026-08-28",
+          "reason": "Speaks directly to the “manageable margin risk” caveat: PTT's construction segment swung to a RM3.85m pretax LOSS on higher diesel costs, revenue fell 27%, and the net-profit rise came only from a property valuation gain — evidence input-cost/margin pressure is biting."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Where will the global bond rout hit growth and equities?",
+          "link": "https://www.theedgesingapore.com/views/global-markets/where-will-global-bond-rout-hit-growth-and-equities",
+          "published": "2026-08-28",
+          "reason": "A fresh “global bond rout” (yields backing up) directly validates the “rate risks remain” half of the thesis and the resulting call to stay short-to-medium duration — exactly the risk the FSMOne note warns against extending duration into. (Full text blocked, 403 — verdict rests on the headline.)"
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "US consumer sentiment drops, year-ahead inflation views fall",
+          "link": "https://www.theedgesingapore.com/news/us-economy/us-consumer-sentiment-drops-year-ahead-inflation-views-fall",
+          "published": "2026-08-28",
+          "reason": "Falling year-ahead inflation expectations ease the medium-term rate outlook, supportive of the constructive bond backdrop behind the 2Q26 rebound — consistent with the “rebound” side of the claim. (Full text blocked, 403 — verdict rests on the headline.)"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas – No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Six months into the Iran war: Markets become accustomed to stalemate",
+          "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+          "published": "2026-08-28",
+          "reason": "Reinforces the “higher-but-no-sustained-upcycle” premise: Brent is up ~20% since the war began but trading “around a third lower than their April peak of US$126.41”, and the market is in backwardation — a structure that prices in FALLING oil over time. Consistent with FSMOne's view that crude has retreated and upside stays capped."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Oil holds steady, on track for weekly fall on US-Iran talks stalemate",
+          "link": "http://www.theedgemarkets.com/node/816076",
+          "published": "2026-08-28",
+          "reason": "Brent at US$89.65 and down 5.3% on the week — prices are drifting/range-bound, not staging a fresh spike, matching the FSMOne picture of crude off its peak and not driving a broad sector re-rating."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "U.S. Navy blockade slashes Iran oil exports as Trump shifts to economic warfare",
+          "link": "https://www.cnbc.com/2026/08/28/navy-blockade-iran-oil-exports-sanctions-trump.html",
+          "published": "2026-08-28",
+          "reason": "A bullish supply shock that could re-tighten the market against the “capped upside” call: Iran's crude loadings collapsed to ~260,000 bpd in August, down ~80% y-o-y (and ~70% m-o-m), as the U.S. naval blockade bites — a large supply removal that risks pushing crude back up."
         }
       ]
     }
   ],
   "no_coverage_titles": [
-    "AMD 1Q26: How Far Can It Go",
     "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
-    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
-    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table (not checked -- Gemini daily quota exhausted)",
-    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
-    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "BOJ’s Hawkish Hold: Another 2026 Hike Is Still on the Table (not checked -- Gemini daily quota exhausted)",
     "Fund Choice July 2026: Principal China New Energy Innovation Fund (not checked -- Gemini daily quota exhausted)",
-    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
     "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
-    "Malaysia Sector Outlook: Construction - Year of Execution",
     "Malaysia Sector Outlook: Construction - Year of Execution (not checked -- Gemini daily quota exhausted)",
     "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
-    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
-    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices (not checked -- Gemini daily quota exhausted)",
-    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Malaysia Sector Outlook: Oil & Gas – No Broad Upside Despite Higher Crude Prices (not checked -- Gemini daily quota exhausted)",
     "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real (not checked -- Gemini daily quota exhausted)",
-    "ServiceNow FY2027: The Time Is NOW",
-    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
-    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain (not checked -- Gemini daily quota exhausted)",
-    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund"
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain (not checked -- Gemini daily quota exhausted)"
   ]
 }
