@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-29",
+  "run_ids": [
+    33233013265
+  ],
+  "generated_at_utc": "2026-08-29T04:14:39.404656Z",
+  "tracked_count": 16,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan regulator steps up scrutiny of 50-year home loans - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816158",
+          "published": "2026-08-28T08:47:43+00:00",
+          "reason": "The article states that 'The Bank of Japan is expected to keep raising interest rates, which would put pressure on borrowers who determined how much they can afford based on their initially low monthly repayments', supporting expectations of further rate increases."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "El Ni\u00f1o to crimp Indonesian palm oil output, producer group says - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816155",
+          "published": "2026-08-28T08:40:25+00:00",
+          "reason": "The article reports that global palm markets are expected to tighten as Indonesia keeps more oil onshore for its expanded biodiesel mandate set to be implemented in October, with Gapki noting that domestic supply is prioritised and export volumes will decline."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
