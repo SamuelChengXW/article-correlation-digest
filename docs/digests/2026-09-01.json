@@ -1,0 +1,67 @@
+{
+  "date": "2026-09-01",
+  "run_ids": [
+    33448779671
+  ],
+  "generated_at_utc": "2026-08-31T23:08:05.454881Z",
+  "tracked_count": 16,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "BYD shares slide as fierce China competition dents first-half earnings - CNBC",
+          "link": "https://www.cnbc.com/2026/08/31/byd-shares-slide-as-fierce-china-competition-dents-first-half-earnings.html",
+          "published": "2026-08-31T04:01:47+00:00",
+          "reason": "The article reports that Chinese EV leader BYD experienced a 20.5% drop in first-half net profit to 12.3 billion yuan and a 7.1% revenue decline amid sluggish domestic demand and fierce competition, contradicting the claim of strong performance across China's consumer sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's factory activity shrinks for second straight month, contracting less than expected - CNBC",
+          "link": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html",
+          "published": "2026-08-31T01:40:00+00:00",
+          "reason": "The article highlights that China's economic malaise deepened as consumer spending stalled, retail sales slowed in July, and economic growth slowed to 4.3% in the second quarter, undermining the claim of strong performance in China's consumer sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China\u2019s factory activity extends slump even as gauge rises - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816309",
+          "published": "2026-08-31T03:37:19+00:00",
+          "reason": "The article states that consumer demand remains weak and the non-manufacturing activity gauge covering services and construction contracted to 49.0, complicating the claim of robust strength in China's consumer and services sectors."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Shein CEO\u2019s wealth slumps US$15 bil after whittled-down IPO - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816302",
+          "published": "2026-08-31T01:32:44+00:00",
+          "reason": "The report notes that Chinese consumer brands have faced diminished investor interest as e-commerce became less attractive, with Shein's valuation dropping to around a quarter of its US$100 billion peak and shares of consumer IPOs like Eastroc Beverage and Muyuan Foods trading below listing prices."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
