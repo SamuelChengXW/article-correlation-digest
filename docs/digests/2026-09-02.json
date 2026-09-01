@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-02",
+  "run_ids": [
+    33568987198
+  ],
+  "generated_at_utc": "2026-09-01T23:08:58.163074Z",
+  "tracked_count": 16,
+  "findings_count": 12,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Solar surpasses coal as China\u2019s top source of power capacity - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/amp/news/energy/solar-surpasses-coal-chinas-top-source-power-capacity",
+          "published": "2026-09-01T03:18:00+00:00",
+          "reason": "The report highlights that solar power has officially surpassed coal as China's leading source of power capacity, demonstrating significant growth and adoption in China's renewable energy sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Solar surpasses coal as China\u2019s top source of power capacity - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/energy/solar-surpasses-coal-chinas-top-source-power-capacity",
+          "published": "2026-09-01T03:18:57+00:00",
+          "reason": "The headline notes that solar has overtaken coal as China's top source of power capacity, reinforcing the strong momentum and expansion of China's new energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Coffee Break: Public healthcare: Thermometer of true development - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816382",
+          "published": "2026-09-01T08:00:00+00:00",
+          "reason": "The article details heavy congestion and mounting capacity pressure in Malaysia's public healthcare sector, noting that waiting times for specialist appointments have reached up to 14 months, illustrating the patient volume pressures that drive demand toward private alternatives."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Local institutions extend buying streak to five weeks with RM200.5 mil inflow \u2014 MBSB IB - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816361",
+          "published": "2026-09-01T02:18:00+00:00",
+          "reason": "The report indicates growing investor interest in Malaysian healthcare, stating that healthcare was among the top three sectors attracting net foreign institutional inflows (RM74.0 million)."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AI data center firm SB Energy, which is backed by Softbank, Nvidia and OpenAI, files for IPO - CNBC",
+          "link": "https://www.cnbc.com/amp/2026/09/01/sb-energy-ipo-softbank-open-ai-nvidia.html",
+          "published": "2026-09-01T15:32:36+00:00",
+          "reason": "The article reports that SoftBank-backed AI power infrastructure firm SB Energy, which is also backed by OpenAI and Nvidia, has filed for an IPO, confirming Japanese investment exposure to AI infrastructure and OpenAI."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+      "fsmone_url": "https://www.fsmone.com.my/article/381902",
+      "claim_summary": "ServiceNow's 2Q26 financial results validate the company's enterprise AI monetization strategy amid resilient software demand, though profitability faces headwinds from compressed subscription gross margins and execution risks surrounding the integration of its AI Control Tower.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "August was the month of the comeback kids. Cramer reviews what drove the biggest winners - CNBC",
+          "link": "https://www.cnbc.com/2026/08/31/august-was-the-month-of-the-comeback-kids-cramer-reviews-what-drove-the-biggest-winners.html",
+          "published": "2026-08-31T23:23:38+00:00",
+          "reason": "The article reports that ServiceNow and other enterprise software stocks were among the biggest winners in August as 'improving fundamentals helped challenge' fears over software disruption in the AI era and short sellers were forced to unwind bets."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow - CNBC",
+          "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+          "published": "2026-09-01T09:56:12+00:00",
+          "reason": "The article corroborates persistent interest rate risks by noting that energy price pressures drove Eurozone inflation to 3.3% in August, with markets placing a 98.9% probability on an ECB rate hike to 2.5% in September."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "10-year yield hits highest since January 2025 as higher oil prices stoke inflation worries - CNBC",
+          "link": "https://www.cnbc.com/2026/09/01/bonds-treasury-yields-middle-east-tensions.html",
+          "published": "2026-09-01T07:59:31+00:00",
+          "reason": "The article demonstrates ongoing rate and yield risks, reporting that the 10-year Treasury yield climbed to 4.792% and the 2-year yield rose to 4.398% as Middle East tensions pushed oil prices above $90, elevating inflation worries."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Eurozone inflation jumps to highest in almost three years - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816463",
+          "published": "2026-09-01T09:50:40+00:00",
+          "reason": "The report notes that Eurozone inflation quickened to 3.3% in August, cementing expectations for an ECB rate hike on Sept 10 and underscoring sustained interest rate risks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Malaysia bonds lag peers in August on supply, rate-hike concerns - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816344",
+          "published": "2026-09-01T01:17:40+00:00",
+          "reason": "The report highlights interest rate risks affecting fixed income, noting that Malaysian 10-year bond yields jumped 16 basis points in August amid rate hike concerns and bear-steepening pressure on the yield curve."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Solar surpasses coal as China\u2019s top source of power capacity - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/energy/solar-surpasses-coal-chinas-top-source-power-capacity",
+          "published": "2026-09-01T03:18:57+00:00",
+          "reason": "The article title confirms that 'Solar surpasses coal as China\u2019s top source of power capacity', supporting the thesis of strong growth and performance in China's renewable energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Energy stocks rally as Middle East turmoil lifts oil price outlook - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816353",
+          "published": "2026-09-01T01:52:18+00:00",
+          "reason": "While the article notes refiner Hengyuan surged 30% to RM2.53, it contradicts the claim's neutral stance and capex view by reporting that Hong Leong Investment Bank maintained an 'overweight' sector rating and stated that 'capital expenditure at PETRONAS for upstream will rise next year'."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations"
+  ]
+}
