@@ -1,0 +1,65 @@
+{
+  "date": "2026-09-03",
+  "run_ids": [
+    33693046732
+  ],
+  "generated_at_utc": "2026-09-02T23:09:47.578769Z",
+  "tracked_count": 16,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ's Takata urges nimble rate hikes, says 2026 marks a turning point - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/816576",
+          "published": "2026-09-02T07:34:07+00:00",
+          "reason": "The article confirms that the BOJ kept rates steady in July and notes that hawkish board member Hajime Takata identified 2026 as a significant turning point requiring flexible rate hikes to counter inflation, with reports indicating the central bank may raise rates as early as mid-September."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ chief vows to keep raising rates, debate price risks this month - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816538",
+          "published": "2026-09-02T03:34:59+00:00",
+          "reason": "Governor Kazuo Ueda explicitly affirmed that the BOJ hopes to 'continue raising interest rates as financial conditions remain accommodative' and will set policy 'mindful of upside risks to inflation', signaling ongoing discussions for upcoming rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Brent oil price above $95 as Iran retaliates with strikes on U.S. Gulf allies - CNBC",
+          "link": "https://www.cnbc.com/2026/09/02/brent-oil-us-iran-strikes.html",
+          "published": "2026-09-02T01:53:00+00:00",
+          "reason": "The article supports the premise of elevated oil prices driven by US-Iran hostilities, reporting that Brent crude rose to $95.63 per barrel after the US military launched strikes against Iran's Islamic Revolutionary Guard Corps and Iran retaliated against US military positions."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund"
+  ]
+}

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2026-09-03",
+    "tracked_count": 16,
+    "findings_count": 3
+  },
+  {
     "date": "2026-09-02",
     "tracked_count": 16,
     "findings_count": 12
