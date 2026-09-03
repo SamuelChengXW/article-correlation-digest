@@ -1,0 +1,157 @@
+{
+  "date": "2026-09-04",
+  "run_ids": [
+    33815650343
+  ],
+  "generated_at_utc": "2026-09-03T23:10:57.536436Z",
+  "tracked_count": 16,
+  "findings_count": 10,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "China's shrinking appetite for oil behind emissions cut for first time - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816758",
+          "published": "2026-09-03T10:00:57+00:00",
+          "reason": "The article reports that China's structural shift toward electrification is accelerating, with EV deployment replacing 36 million tons of oil in the first half of 2026 and electric trucks' alternative fuel use jumping 90% year-on-year, demonstrating strong performance and sustained momentum across China's new energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ said to favour quarter-point hike, flexible on future path \u2014 Bloomberg - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816743",
+          "published": "2026-09-03T08:32:38+00:00",
+          "reason": "The report notes that BOJ officials are considering an increase in the policy rate from 1%, see economic developments as broadly in line with their outlook, and recognize the potential need for further flexible rate increases beyond September."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Chinese e-commerce moves to next phase after delivery price war changes shopping habits - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816737",
+          "published": "2026-09-03T08:00:08+00:00",
+          "reason": "The article reports that China's instant-retail market is set to reach 1.2 trillion yuan (US$178 billion) by year-end and grow at 12.6% annually through 2030, driven by non-state new-economy internet leaders like Meituan, Alibaba, and JD.com expanding their services and consumer reach."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen jumps to one-month high as traders weigh chance of further intervention - CNBC",
+          "link": "https://www.cnbc.com/2026/09/03/yen-japan-intervention-boj.html",
+          "published": "2026-09-03T09:41:39+00:00",
+          "reason": "The article reports that the yen strengthened sharply amid 'rising expectations for Bank of Japan rate hikes,' corroborating the claim's thesis that further BOJ rate hikes remain on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ said to favour quarter-point hike, flexible on future path \u2014 Bloomberg - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816743",
+          "published": "2026-09-03T08:32:38+00:00",
+          "reason": "The report notes BOJ officials 'continue to see inflation risks as skewed to the upside' and are 'aware of the potential need for further rate increases beyond September and is open to adjusting the pace of rate hikes flexibly,' supporting the claim that underlying policy outlook keeps rate hikes through 2026 on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen rallies sharply as markets raise bets on Bank of Japan rate hikes - CNBC",
+          "link": "https://www.cnbc.com/2026/09/03/yen-in-the-spotlight-after-sudden-jump.html",
+          "published": "2026-09-03T01:23:00+00:00",
+          "reason": "The article states BOJ board member Hajime Takata remarked that 'the central bank should conduct interest rate hikes nimbly to counter intensifying inflationary pressures,' which 'reintroduces the idea of an expedited rate hike trajectory' and aligns with the claim of an active rate-hiking path."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Kerjaya Prospek bags first data centre contract worth RM858 mil - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816701",
+          "published": "2026-09-03T06:06:06+00:00",
+          "reason": "The article supports the claim that data centres are a key structural driver for Malaysian construction, reporting that Kerjaya Prospek bagged an RM858 million data centre contract, boosting its 2026 new contract wins to RM3.2 billion and total order book to a record RM5.9 billion."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "The world appears to be entering a higher-rate era. Here\u2019s who will pay the price - CNBC",
+          "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+          "published": "2026-09-03T04:17:43+00:00",
+          "reason": "The article highlights that a global bond sell-off is underway with yields hitting multiyear highs\u2014such as Germany's 10-year reaching levels not seen since 2011 and UK gilts hitting a post-2008 peak\u2014driven by an 'oil-price shock that has reignited inflation concerns and expectations that central banks may keep monetary policy tighter for longer.' This directly aligns with the claim's premise of persistent interest rate risks following an energy shock."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "China's shrinking appetite for oil behind emissions cut for first time - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816758",
+          "published": "2026-09-03T10:00:57+00:00",
+          "reason": "The article reports that China's structural shift toward electrification and clean transport is accelerating, with EV deployment displacing 36 million tons of oil in 1H 2026 and accelerating by 50% year-on-year in 2Q 2026. This concrete evidence of strong clean energy adoption in 2026 supports the bullish thesis on China's new energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Malaysia's natural gas production up 19.1% to 763.5 bil cubic feed in 2Q - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816689",
+          "published": "2026-09-03T05:20:19+00:00",
+          "reason": "Official DOSM data confirms Malaysia's crude oil production contracted by 11.7% year-on-year to 28.6 million barrels in 2Q 2026, backing the claim of an ongoing structural decline in crude output despite high crude prices (with Malaysia's weighted average lifting price rising to US$114.5 per barrel and Brent averaging US$103.3 per barrel)."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real"
+  ]
+}
