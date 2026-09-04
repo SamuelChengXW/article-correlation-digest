@@ -1,0 +1,115 @@
+{
+  "date": "2026-09-05",
+  "run_ids": [
+    33927810827
+  ],
+  "generated_at_utc": "2026-09-04T23:08:30.058128Z",
+  "tracked_count": 16,
+  "findings_count": 7,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japanese yen surged this week. Why the rally may not last - CNBC",
+          "link": "https://www.cnbc.com/2026/09/04/japanese-yen-surged-this-week-why-the-rally-may-not-last.html",
+          "published": "2026-09-04T16:37:10+00:00",
+          "reason": "The article states that the Bank of Japan has raised interest rates to 1% from 0% and notes that markets are pricing in an anticipated additional interest rate hike later in the month."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's Nikkei rises on SoftBank rally, but posts weekly loss - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816879",
+          "published": "2026-09-04T07:25:14+00:00",
+          "reason": "The article reports that markets have almost fully priced in a Bank of Japan interest rate increase to 1.25% later in the month, as well as another hike fully priced in by January."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Malaysian palm oil exports fell in August on weak Indian demand \u2014 Bloomberg survey - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816832",
+          "published": "2026-09-04T01:44:39+00:00",
+          "reason": "The article reports that Malaysian palm oil exports dropped 8% in August as high prices deterred Indian buyers due to 'the availability of cheaper soy oil,' while traders took profits after prices failed twice to break above RM5,000 a tonne despite supply tightening from Indonesian biofuel diversion."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Key Asic inks MoU to jointly develop green AI data centre - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816924",
+          "published": "2026-09-04T11:41:14+00:00",
+          "reason": "Key Asic signed a 10-year MoU with CT Vision to construct a 300-megawatt green AI data centre integrating renewable energy infrastructure in Malaysia, backing the claim that data centres and green energy projects are key structural growth drivers."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "UOB forecasts ringgit to strengthen against dollar to below 4.00 next year - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/816896",
+          "published": "2026-09-04T08:31:53+00:00",
+          "reason": "UOB's report highlights that Malaysia's GDP expanded 6.0% year-on-year in 2Q2026, supported by 6.5% growth in construction alongside sustained momentum in artificial intelligence and data centre investments."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "The inflation genie could be out of the bottle \u2014 and bond markets are sounding the alarm - CNBC",
+          "link": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+          "published": "2026-09-04T05:00:02+00:00",
+          "reason": "The article reports a sharp sell-off in global government bonds with the U.S. 10-year yield hitting multi-year highs, and directly contradicts the claim's premise by noting that 'it is wrong to think of the energy shock as temporary, as the underlying structural change that has caused it might be quite long-lived.'"
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices post weekly gain on US-Iran fighting - CNBC",
+          "link": "https://www.cnbc.com/2026/09/04/oil-set-for-steepest-weekly-gain-over-renewed-us-iran-tensions.html",
+          "published": "2026-09-04T03:02:00+00:00",
+          "reason": "The article confirms the ongoing US-Iran conflict and elevated crude prices, reporting that 'Brent crude futures gained 76 cents to close at $96.28 a barrel' after the 'United States and Iran resumed military exchanges in the seventh month of their conflict', while noting that refinery disruptions have spiked fuel prices."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund"
+  ]
+}
