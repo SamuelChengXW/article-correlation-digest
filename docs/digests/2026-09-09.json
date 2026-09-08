@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-09",
+  "run_ids": [
+    34288639702
+  ],
+  "generated_at_utc": "2026-09-08T23:08:23.738128Z",
+  "tracked_count": 16,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Pekat Group charts new record high after contract wins, analysts raise target price - theedgemarkets.com",
+          "link": "http://www.theedgemarkets.com/node/817174",
+          "published": "2026-09-08T03:11:47+00:00",
+          "reason": "The article reports that Pekat Group is benefiting from 'accelerating data centre construction' and a 'wave of energy-hungry data centres mushrooming in Malaysia,' supported by an outstanding order book of RM797 million."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "TRC Synergy bags RM150 mil subcontract for hyperscale data centre from Gamuda unit - theedgemarkets.com",
+          "link": "http://www.theedgemarkets.com/node/817279",
+          "published": "2026-09-08T10:41:45+00:00",
+          "reason": "The article confirms that contractor TRC Synergy bagged a RM149.98 million subcontract from Gamuda for a hyperscale data centre to contribute to earnings, while actively tendering for packages including data centres and the Penang LRT Mutiara Line."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
