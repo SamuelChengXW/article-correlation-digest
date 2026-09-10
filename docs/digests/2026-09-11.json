@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-11",
+  "run_ids": [
+    34540143883
+  ],
+  "generated_at_utc": "2026-09-10T23:07:26.613146Z",
+  "tracked_count": 16,
+  "findings_count": 8,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Inside India newsletter: India\u2019s green push aims to boost energy security but exposes China dependency - CNBC",
+          "link": "https://www.cnbc.com/2026/09/10/india-green-energy-china-reliance-battery.html",
+          "published": "2026-09-10T00:09:00+00:00",
+          "reason": "The article reports that India relies on China for nearly 80% of its battery-based energy storage solutions to support its renewable energy expansion, highlighting sustained demand and market dominance for China's new energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817506",
+          "published": "2026-09-10T02:40:21+00:00",
+          "reason": "BOJ board member Kazuyuki Masu stated that he is 'convinced the BOJ needs to raise its policy rate further' as underlying inflation nears the 2% target, warning that rates may need to rise rapidly if price pressures accelerate."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Rising Japanese yields may keep more domestic money at home, Fitch says - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817492",
+          "published": "2026-09-10T00:55:08+00:00",
+          "reason": "The report notes that markets have priced in a near certainty that the Bank of Japan will raise its key rate to 1.25% at its upcoming meeting, and Fitch Ratings stated it expects policy rates to rise faster than consensus in 2026 and 2027."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ may be forced to hike rates rapidly if inflation accelerates, board member Masu says - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817506",
+          "published": "2026-09-10T02:40:21+00:00",
+          "reason": "BOJ board member Kazuyuki Masu stated that broadening price pressures have pushed underlying inflation 'very close' to its 2% target and affirmed that he is convinced the BOJ needs to raise its policy rate further, citing upside risks to inflation."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Paragon Globe secures RM45 mil contract for Johor data centre development - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817655",
+          "published": "2026-09-10T12:01:15+00:00",
+          "reason": "Paragon Globe announced securing a RM45.16 million contract for earthworks and retaining walls for a data centre in Johor targeted for completion by late 2026, supporting the claim that data centres are driving sector order execution."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "RHB IB estimates federal govt\u2019s 2027 budget allocation at RM437.8 bil - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817625",
+          "published": "2026-09-10T09:42:24+00:00",
+          "reason": "RHB IB notes federal development expenditure of RM81 billion and highlights that the national budget will focus on infrastructure development, corroborating the claim's figures and sustained infrastructure commitment."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Weak Southeast Asia bond auctions offer buying chance, funds say - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817504",
+          "published": "2026-09-10T02:26:18+00:00",
+          "reason": "Desmond Fu of Western Asset Management explicitly confirms that they 'prefer short- to intermediate-maturity bonds' because longer-dated bonds remain vulnerable to global term-premium shocks and heavy issuance."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Where investors are finding income outside traditional bonds as brutal drawdown drags on - CNBC",
+          "link": "https://www.cnbc.com/2026/09/10/income-alternatives-bond-yields-rates.html",
+          "published": "2026-09-10T14:15:01+00:00",
+          "reason": "Financial advisors and strategists cited in the article confirm that bonds should remain part of diversified portfolios but advocate 'shifting allocation to lower-duration alternatives such as ultra-short bonds' due to inflation and rising interest rate risks."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
