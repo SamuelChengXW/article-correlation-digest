@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-12",
+  "run_ids": [
+    34656355291
+  ],
+  "generated_at_utc": "2026-09-11T23:07:55.609752Z",
+  "tracked_count": 16,
+  "findings_count": 5,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Rates, risks and rivalries - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817772",
+          "published": "2026-09-11T09:35:10+00:00",
+          "reason": "The article reports that markets are 'all but certain' the Bank of Japan will raise rates by 25 basis points to 1.25% on September 18, directly supporting the expectation of further rate hikes following the move to 1.0%."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Major central banks strike a more hawkish tone as energy costs jump - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817768",
+          "published": "2026-09-11T09:25:55+00:00",
+          "reason": "The article notes that next week's Japanese central bank meeting 'could bring monetary tightening too,' corroborating expectations of further rate increases."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's wholesale inflation stays elevated in August, boosts case for rate hike - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817693",
+          "published": "2026-09-11T00:57:57+00:00",
+          "reason": "The article confirms that the BOJ previously raised rates to 1% in June on views of reaching durable inflation, and notes that markets are pricing in an additional rate hike to 1.25% from 1% at the upcoming meeting."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Southern Score Builders bags RM180 mil hospital construction job in Melaka - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817816",
+          "published": "2026-09-11T13:52:33+00:00",
+          "reason": "Southern Score Builders secured a RM180 million contract to construct a seven-storey private hospital in Ayer Keroh, Melaka, directly demonstrating private hospital expansion and related growth opportunities in Malaysia."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's wholesale inflation stays elevated in August, boosts case for rate hike - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817693",
+          "published": "2026-09-11T00:57:57+00:00",
+          "reason": "The article confirms that the BOJ 'kept rates steady in July but signalled a strong chance of a near-term hike' and warned of 'the risk of an inflation overshoot' while aiming to durably hit its 2% target, keeping further rate hikes firmly on the table."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
