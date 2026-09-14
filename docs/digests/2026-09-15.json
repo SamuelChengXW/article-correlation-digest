@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-15",
+  "run_ids": [
+    34906813195
+  ],
+  "generated_at_utc": "2026-09-14T23:09:05.559565Z",
+  "tracked_count": 17,
+  "findings_count": 7,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+          "link": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+          "published": "2026-09-14T07:10:37+00:00",
+          "reason": "The article reports that 'hawkish commentary from Bank of Japan board members, which left open the possibility of accelerated rate hikes, has helped strengthen the yen,' confirming expectations of further policy tightening."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Gold falls to more than one-month low as oil rally, inflation data boost rate hike bets - CNBC",
+          "link": "https://www.cnbc.com/2026/09/14/gold-slips-as-oil-rally-fans-rate-hike-bets-ahead-of-fed-meeting.html",
+          "published": "2026-09-14T04:09:09+00:00",
+          "reason": "The article notes that 'The Bank of Japan is also expected to raise interest rates on Friday, amid rising energy prices and little sign of easing Middle East tensions,' aligning with expectations of ongoing rate hikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Gold slips as oil rally fans rate hike bets ahead of Fed meeting - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817948",
+          "published": "2026-09-14T04:13:53+00:00",
+          "reason": "The article states that 'The BOJ is also expected to raise rates on Friday, as persistent inflation and resilient economic growth have raised the prospect of further rate hikes by major central banks.'"
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen appreciation has carry-trade seekers looking at these two currencies - CNBC",
+          "link": "https://www.cnbc.com/2026/09/14/yen-strength-carry-trade-cad-yuan.html",
+          "published": "2026-09-14T07:10:37+00:00",
+          "reason": "The article highlights that 'hawkish commentary from Bank of Japan board members, which left open the possibility of accelerated rate hikes, has helped strengthen the yen,' supporting the claim that the BOJ's policy posture remains hawkish with further rate hikes on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Gold slips as oil rally fans rate hike bets ahead of Fed meeting - CNBC",
+          "link": "https://www.cnbc.com/amp/2026/09/14/gold-slips-as-oil-rally-fans-rate-hike-bets-ahead-of-fed-meeting.html",
+          "published": "2026-09-14T04:09:09+00:00",
+          "reason": "The article explicitly notes that 'The Bank of Japan is also expected to raise interest rates on Friday, amid rising energy prices and little sign of easing Middle East tensions,' confirming that additional 2026 rate hikes remain firmly on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Gold slips as oil rally fans rate hike bets ahead of Fed meeting - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/817948",
+          "published": "2026-09-14T04:13:53+00:00",
+          "reason": "The article states that 'The BOJ is also expected to raise rates on Friday, as persistent inflation and resilient economic growth have raised the prospect of further rate hikes by major central banks,' directly corroborating that 2026 rate hikes remain active."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "PETRONAS Chemicals rises to three-month high, refiners climb as Brent tops US$100 - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818015",
+          "published": "2026-09-14T08:11:58+00:00",
+          "reason": "The article reports that Malaysian refiners, specifically highlighting Hengyuan Refining Company Bhd, saw gains as Brent crude topped US$100 per barrel boosting hopes for higher product prices and spreads. This corroborates the claim's point that refining margins are supportive and cyclical, benefiting refiners like Hengyuan."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
