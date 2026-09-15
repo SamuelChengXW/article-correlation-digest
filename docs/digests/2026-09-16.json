@@ -1,0 +1,80 @@
+{
+  "date": "2026-09-16",
+  "run_ids": [
+    35033671140
+  ],
+  "generated_at_utc": "2026-09-15T23:08:00.781919Z",
+  "tracked_count": 17,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "CATL gets China approval for battery deal in consolidation push - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818141",
+          "published": "2026-09-15T03:42:21+00:00",
+          "reason": "The article reports that China's solar industry has seen top companies 'lose billions of dollars after a rapid build-out of factories outpaced growth in demand.' It also highlights that Beijing has warned battery makers against 'destructive price wars that have damaged solar and other renewable-energy industries' and suspended construction of new power and energy-storage battery projects pending a capacity review."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SB Energy to sell up to US$500 mil in shares to Japan investors as part of US IPO - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818109",
+          "published": "2026-09-15T01:42:36+00:00",
+          "reason": "The article reports that SoftBank Group-backed data center developer SB Energy is raising capital from Japanese investors to build AI data centers and power infrastructure, with OpenAI holding roughly US$5.5 billion in warrants and Nvidia investing US$1.5 billion. This directly illustrates Japan-linked AI infrastructure exposure and direct ties to OpenAI."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's factories rev up but slower consumption highlights deepening economic imbalances - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818128",
+          "published": "2026-09-15T02:52:39+00:00",
+          "reason": "The article reports that China's retail sales rose only 0.4% in August (slowing from 0.6% in July and missing expectations), citing 'sluggish consumption' and 'weak household spending' that weigh on domestic demand, directly undercutting the claim of strong performance in China's consumer and services sectors."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's August retail sales miss forecast while investment slump deepens, piling pressure on Beijing - CNBC",
+          "link": "https://www.cnbc.com/2026/09/15/china-august-retail-sales-industrial-output-investment-exports-.html",
+          "published": "2026-09-15T02:01:00+00:00",
+          "reason": "The article highlights that China's retail sales grew by only 0.4% in August, missing forecasts and slowing from July, alongside an acute domestic imbalance between 'strong supply and weak demand', contradicting the claim of strong performance in China's new-economy consumer and services sector."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "AMD 1Q26: How Far Can It Go",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
