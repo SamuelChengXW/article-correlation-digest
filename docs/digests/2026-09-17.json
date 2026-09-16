@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-17",
+  "run_ids": [
+    35160340055
+  ],
+  "generated_at_utc": "2026-09-16T23:07:15.563734Z",
+  "tracked_count": 17,
+  "findings_count": 6,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dovish outlier Nomura boosted Fed-hike forecasts for two reasons - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/16/dovish-outlier-nomura-boosted-fed-hike-forecasts-for-two-reasons.html",
+          "published": "2026-09-16T06:10:34+00:00",
+          "reason": "Nomura notes that 'the market is pricing more than four hikes for the Bank of Japan' and Nomura itself expects 'three more by the BOJ', directly supporting the outlook for further rate hikes in Japan."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+          "published": "2026-09-16T00:22:00+00:00",
+          "reason": "The article reports that the Bank of Japan is 'likely to raise rates to 1.25% at the end of its two-day meeting on Friday' with 89% of survey respondents expecting a 25 basis point hike, indicating that rates had already reached 1.0% and the tightening cycle is continuing."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan August imports jump as oil prices lift costs, exports stay firm - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/818284",
+          "published": "2026-09-16T01:50:39+00:00",
+          "reason": "The article notes that higher energy prices are 'fuelling inflationary pressures, reinforcing expectations the Bank of Japan will raise interest rates at the end of its two-day policy meeting on Friday', backing the claim of further rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan August imports jump as oil prices lift costs, exports stay firm - The Edge Malaysia",
+          "link": "https://www.theedgemarkets.com/node/818284",
+          "published": "2026-09-16T01:50:39+00:00",
+          "reason": "The article reports that higher energy prices are swelling import bills and fuelling inflationary pressures, 'reinforcing expectations the Bank of Japan will raise interest rates at the end of its two-day policy meeting on Friday,' supporting the claim that rate hikes remain on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dovish outlier Nomura boosted Fed-hike forecasts for two reasons - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/16/dovish-outlier-nomura-boosted-fed-hike-forecasts-for-two-reasons.html",
+          "published": "2026-09-16T06:10:34+00:00",
+          "reason": "The report notes that 'the market is pricing more than four hikes for the Bank of Japan' and that Nomura itself is expecting 'three more by the BOJ,' confirming that additional rate hikes through 2026 are on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/16/boj-hike-rates-cnbc-survey.html",
+          "published": "2026-09-16T00:22:00+00:00",
+          "reason": "The article states that according to a CNBC survey, around 89% of respondents expect the BOJ to hike rates by 25 basis points to 1.25% amid inflationary pressures and rising real wages, backing the view of an active rate-hiking trajectory."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
