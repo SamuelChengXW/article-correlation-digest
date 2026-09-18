@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-19",
+  "run_ids": [
+    35403941189
+  ],
+  "generated_at_utc": "2026-09-18T23:07:15.573492Z",
+  "tracked_count": 17,
+  "findings_count": 6,
+  "articles": [
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Why Japan\u2019s markets flipped the usual script after central bank rate hike - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+          "published": "2026-09-18T07:19:25+00:00",
+          "reason": "The article states that the Bank of Japan raised its policy rate to 1.25% in a 7-2 split decision, directly contradicting the claim that the BOJ maintained its policy rate in a hold."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Bank of Japan raises interest rates to 31-year high, flags concerns over inflation - cnbc.com",
+          "link": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html",
+          "published": "2026-09-18T03:16:00+00:00",
+          "reason": "The report confirms that the Bank of Japan raised its policy rate by 25 basis points to 1.25%, refuting the claim that the central bank kept rates on hold."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Japan's central bank hikes rates in split decision after US pressure - The Edge Singapore",
+          "link": "https://www.theedgesingapore.com/news/japan/bank-japan-hikes-fastest-pace-1990-after-washingtons-calls",
+          "published": "2026-09-18T08:20:00+00:00",
+          "reason": "The article headline confirms that Japan's central bank hiked rates in a split decision, contradicting the claim that the BOJ maintained its policy interest rate."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Yen slumps to two-week low after BOJ rate hike underwhelms - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818560",
+          "published": "2026-09-18T11:00:27+00:00",
+          "reason": "The report shows that BOJ policymakers pushed interest rates to a 31-year high of 1.25% rather than keeping the policy rate unchanged."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Jati Tinggi bags RM73 mil data centre-linked job in Selangor; its third contract win in a month - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818565",
+          "published": "2026-09-18T11:33:08+00:00",
+          "reason": "The article details Malaysian contractor Jati Tinggi securing a RM72.84 million contract for power transmission to a data centre landing station, corroborating the claim that data centre projects are a primary structural growth driver for local builders."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Binastra shares eke out new record, analysts raise outlook after results - The Edge Malaysia",
+          "link": "http://www.theedgemarkets.com/node/818484",
+          "published": "2026-09-18T02:42:53+00:00",
+          "reason": "The report highlights Malaysian builder Binastra tracking toward record earnings backed by a RM6.7 billion order book and expanding into high-growth data centre and renewable energy projects, directly supporting the claim's outlook on earnings execution and key growth drivers."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
