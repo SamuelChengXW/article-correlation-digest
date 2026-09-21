@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-22",
+  "run_ids": [
+    35665497928
+  ],
+  "generated_at_utc": "2026-09-21T23:09:39.192101Z",
+  "tracked_count": 18,
+  "findings_count": 7,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "CATL sees limited impact from China\u2019s new battery tax on orders - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGU5OVNpXzRBUDlDQzhRZ3UwdWpxeGxycnBSTDlxVmJoTEZtYzNKa21RRXFTTk5kM0U0MDFkNkdMSXdVblplNnNBRFVrWnBfQk80bkNmSFlRLUpzZHFpYmFVa1JObUdmR2xwUVpsWHNmV3Z3X2F6MFhnZVYzZ0oxZHE4dHl1ZUJmcEZKZm9iVENDVEVoQkFGLUdnZWhydTh6ei1B0gGjAUFVX3lxTFBIZTk5U2lfNEFQOUNDOFFndTB1anF4bHJycFJMOXFWYmhMRm1jM0prbVFFcVNOTmQzRTQwMWQ2R0xJd1VuWmU2c0FEVWtacF9CTzRuQ2ZIWVEtSnNkcWliYVVrUk5tR2ZHbHBRWmxYc2ZXdndfYXowWGdlVjNnSjFkcTh0eXVlQmZwRkpmb2JUQ0NURWhCQUYtR2dlaHJ1OHp6LUE?oc=5",
+          "published": "2026-09-21T05:39:00+00:00",
+          "reason": "The report notes that leading Chinese battery maker CATL sees limited impact on orders from China's new battery tax, demonstrating resilience in China's new energy equipment manufacturing sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Extreme weather upends sunshine patterns in major solar markets - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVnppSFNaSDJLaFNnaTFRY1h4TnZmSUF3LWJmdDBGbkJabmJyUXNnQU9QQ0UwMEUwQnJ2UkU1bDBtMkZIa3lnOTJwV0lPVzR6NXN3cFFWcmJSaURMbzRaNjJxYUw3UUtuOS1VaTNTYnpqREtOTEdneFZ2ZnF6TTVaUjV4TmZFOXNqWlIyUXgyNk9Ma2NRYXE5Q2d4S3paQ2R3TGpLdUNOQW5iNTRLSEtZRjVlSF9nRTNvUTV3STNZN3hxYWVR0gHKAUFVX3lxTE52U3l3YUZaQnA1OVZNcEhFdWt0Y3h1alZ0RDlLeW5jUVFIblJRcHg3REhBMTVxSHBQM0pWbEVuSkRLbDNHdmZYRUNxR1R2UTRGQmNTcHNqTF9MdEgzUGYzenFOMkZVOW9zblFCUXJHN3dmRlVVV0gxZlQ1d1d3aTMwdzRrcDRUMGFZMzBySWdGakVmclhlck16V0NfVnk2Z085WllCU1RMbDZqUkNVNVRhSTZleGV3TFNfQ0MwckNNTDQ3VXFOem1QNWc?oc=5",
+          "published": "2026-09-21T01:20:48+00:00",
+          "reason": "The article reports that extreme weather is disrupting sunshine patterns in major solar markets, which poses operational and generation risks for solar energy providers."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "CATL sees limited impact from China\u2019s new battery tax on orders - theedgemarkets.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5QdkNHdUJ5MHJYbjF2S0JxSkRkRVNvMlpVclk1OVJKaXVRNGl3RXd5aEsxc2xBUHRzdk9HOHVnR1lZNUJ6dkh6Sl9jZGZVS0lsX3NV?oc=5",
+          "published": "2026-09-21T05:40:11+00:00",
+          "reason": "The report indicates that CATL anticipates minimal disruption to its order books despite China's new battery tax, supporting the view of durable demand in China's new energy ecosystem."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Opinion: Beyond financing healthcare: Building a sustainable healthcare model for Malaysia - theedgemarkets.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13enNNT0EtSmJFaHZ6LXYzWTJINUVZVmpnb0FjVnRPOFluaG1JUkpXVzFqUFhBa2t5UTJCazdfYWlLdW55c0l1U2NBQnlVUmFDTkE0?oc=5",
+          "published": "2026-09-21T09:37:30+00:00",
+          "reason": "The opinion article focuses directly on building a sustainable healthcare model for Malaysia beyond mere financing, discussing systemic challenges and structural pressures in Malaysian healthcare."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SoftBank said to seek over US$11 bil in junk bonds for OpenAI bet - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNng5ZzV5ZVBFa2JvdmhTOWVuMTk1Q3BPcDZTNTluNUJIWU1iZkxiQzNXYkxfek5ENUxoZHRHZElUcGtaMHVEQ3BxTE1oNU8tM013MXprck1rNFBQaVF1WVcxWUlBdHRyQ0dGNVY4QWhkTUx4MkNvTDJuTVd1cGVmUW9sRXAxZUhWNHRCdDFabS1XMWY2N2V4d2ZtUElGRk9DY29yTUR4RnU0OWZrellQU2ExNGM4a0XSAbwBQVVfeXFMTmVNQkxFLTFoSEJvS29KeHI3WkNIQ1hHSGt3Q1ZZclJtX1plWDBSTzZtUG5HSGtXMlJuc2hNeWg5OFE0dXFBWnFTdEhyUXZZZjdUUktoYzQ5WEsyMU5mQ2dXT1haTjRhNWlhRVNnQTE5cHhqUTdBai1Bc2JXTHM3QWRBbGZWZWpYc0pKUUQxS3BidUxHNTZJUU9qcF93WnRxNVlXSFNaWXl1Ul8wdDFBQm1FQTNCU3l0NXU4aVM?oc=5",
+          "published": "2026-09-21T08:42:38+00:00",
+          "reason": "The report highlights Japanese conglomerate SoftBank seeking over US$11 billion in junk bonds to finance an investment in OpenAI, evidencing Japan's direct exposure and financial route to prominent AI infrastructure and developers."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SoftBank said to seek over US$11 bil in junk bonds for OpenAI bet - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZU1CTEUtMWhIQm9Lb0p4cjdaQ0hDWEdIa3dDVllyUm1fWmVYMFJPNm1QbkdIa1cyUm5zaE15aDk4UTR1cUFacVN0SHJRdllmN1RSS2hjNDlYSzIxTmZDZ1dPWFpONGE1aWFFU2dBMTlweGpRN0FqLUFzYldMczdBZEFsZlZlalhzSkpRRDFLcGJ1TEc1NklRT2pwX3dadHE1WVdIU1pZeXVSXzB0MUFCbUVBM0JTeXQ1dThpU9IBvAFBVV95cUxOZU1CTEUtMWhIQm9Lb0p4cjdaQ0hDWEdIa3dDVllyUm1fWmVYMFJPNm1QbkdIa1cyUm5zaE15aDk4UTR1cUFacVN0SHJRdllmN1RSS2hjNDlYSzIxTmZDZ1dPWFpONGE1aWFFU2dBMTlweGpRN0FqLUFzYldMczdBZEFsZlZlalhzSkpRRDFLcGJ1TEc1NklRT2pwX3dadHE1WVdIU1pZeXVSXzB0MUFCbUVBM0JTeXQ1dThpUw?oc=5",
+          "published": "2026-09-21T08:42:00+00:00",
+          "reason": "The article states that Japan's SoftBank is seeking more than US$11 billion in junk bond issuance specifically for a major bet on OpenAI, substantiating Japanese corporate exposure to leading AI foundational players."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Softbank Group launches over US$10b in bonds for OpenAI investment, term sheet shows - theedgemarkets.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94bkRfQzJmbTd2cV94NVRlem9XTjZpR01sWmFsQ0ZqUkVXZ0lqVzY5MFlhZDNwMENPZkNxYUZCc3N3ZS1jTVpzcUJBWEhwQ2lhY3Rn?oc=5",
+          "published": "2026-09-21T02:00:43+00:00",
+          "reason": "According to term sheet details reported, Tokyo-based SoftBank Group launched over US$10 billion in bond offerings specifically designated to fund its OpenAI investment."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund"
+  ]
+}
