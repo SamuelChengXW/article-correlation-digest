@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-26",
+  "run_ids": [
+    36199247630
+  ],
+  "generated_at_utc": "2026-09-25T23:06:05.496626Z",
+  "tracked_count": 18,
+  "findings_count": 6,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Growth minister says Japan has exited reflationary phase - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSUFhNUNNMGhScEVMQUNwdmQycXp4cnRkWklmMnBsTnJMbnUtZ3RzNWxDeDM2UU45d2szSnlzYk9jeXd5YVVyTURaRUNBZ0x0T2kxMjdac2ZBMlJJYndKMWsyd0hyd3dfcHlWNHhOZWVPVHc1d2RjX2V0OVNweTJLRzhPZUxnMjdRSlFuczVEUnV1eEw4NUxveXhINWFxNUFHNWhaeVZ6RdIBpwFBVV95cUxPSUFhNUNNMGhScEVMQUNwdmQycXp4cnRkWklmMnBsTnJMbnUtZ3RzNWxDeDM2UU45d2szSnlzYk9jeXd5YVVyTURaRUNBZ0x0T2kxMjdac2ZBMlJJYndKMWsyd0hyd3dfcHlWNHhOZWVPVHc1d2RjX2V0OVNweTJLRzhPZUxnMjdRSlFuczVEUnV1eEw4NUxveXhINWFxNUFHNWhaeVZ6RQ?oc=5",
+          "published": "2026-09-25T05:53:00+00:00",
+          "reason": "The report notes that Japan's growth minister declared the country has formally exited its reflationary phase, affirming official macroeconomic perspectives on Japan's economic normalisation."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan has raised rates and bought yen. Here\u2019s why strengthening the currency remains difficult - cnbc.com",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9HbnhudzRHZ0F6T1dJZGJMNEtHQ19mbXZYdmpjYy1kRGtpQTR4ZFFWOFFGNUJEWjJHM0tqVzUwdDdleDBFbFp0Mk0yWFpMZHM2YkczQ19IajNfaDV1X2gwVVlfMU1jMWotNXlUQW52Q3l6bU1iYXdWMGpR?oc=5",
+          "published": "2026-09-25T22:00:14+00:00",
+          "reason": "The article highlights that 'Japan has raised rates and bought yen,' corroborating that monetary authorities have enacted interest rate increases as part of policy adjustments."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Healthcare stocks enter 2H with strong earnings, but limited upside ahead - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmhldnZrQ3F6WmJmSVZDU3dSU2VuUGtEeU8wQWJvTjczcjgwWEhjVk0tNjJnWXVYZlFIN0hLVDRwS3pucDQwOEJpQWF4YjJPTU9iSEJJOXlnaEcyVkVoeUN3QmQweGVEc2NjNDlVa3AzTktleW5jdW4xWXBtOWF2bUJTYUdDdUQ3U1g3TVRTNDhLRlMtRkhnMU9qTlF3d0NyNlJyRENNV21iX0tUdFRHS1VaOERSdw?oc=5",
+          "published": "2026-09-25T03:30:00+00:00",
+          "reason": "The headline indicates that while healthcare stocks entered 2H with strong earnings, they face 'limited upside ahead,' directly dampening expectations of expanding opportunities."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oracle Japan shares surge 7% after record fiscal first quarter, bucking selloff of U.S. parent - cnbc.com",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zQjZwVGhKUXNUSndKSnk1N1hjT0lFdnpXbGtVcTVsVktQZUpyaG1oNXZlanZta2dNWHFYY0hZY25EMHk2T3R3Q0RxdWFfRGRadTFTaWVvMHFVeHNjMi1sM2R2STdBRklNWEVHWHFjTU9MVWPSAXhBVV95cUxQdFZjQndmTDlMSjBqQWFtbkdCMVk2c0dVVjMzb0N6SGNueUxfVm94QzdnQS0tOTVjd3plUTBXZFVxY2otY3c5ZkgxeGxscDlqLTlrWVBoLXFoN2NoOEE2WFNYSW9KMk5Lc2kxVWtYcWdXWmhXbHhwWXI?oc=5",
+          "published": "2026-09-25T01:56:00+00:00",
+          "reason": "The article reports that Oracle Japan's shares surged 7% following a record fiscal first quarter, illustrating strong financial performance in Japan's enterprise and AI-related digital infrastructure space."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Japan regulator is boosting scrutiny of AI data centre financing - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEVsdXYtNWpDaGlRdFM2LWVoTEZoSFJUUXVNeTN4SF9WcXhtZVl2eXdKOGdTSkdPQVY4M1pLWmJxS05RajFDMnRtTjJLN2U4MzcwMnl5ZTB3cmN4TVFRbFFRZWo2bWtrWW1KcGNobXg1ZHQyb3ZjWUpPc0Jpa1VfZkxlMDk3THhUYUJZZUlHa3lZWVptQlZPTTNSVXZVdTlvejhz0gGoAUFVX3lxTE9meHBqS0xyZUZjbzVaWlFzVFk1cUU2NmtlcWd1aHM5ZTFMUzlwaW9DQVhCN19JNlNYS1BWSlpXX2RMWl9wNS1PQXh3V2JOUGtFTmJZeDc4X3JvZllva0J2b3hBLXFseks2SUc4TkNyY0Q0ZDRMT3d6Zk83c3VqMWNTWjcxUTdibW5UckdSaFBVWGpTYmtaMkxmU0stdEF0T2YzMGRKbXA5QQ?oc=5",
+          "published": "2026-09-25T08:06:08+00:00",
+          "reason": "The report states that Japan's regulator is 'boosting scrutiny of AI data centre financing,' signalling regulatory hurdles and risks facing Japanese AI infrastructure expansion."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice September 2026: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/390600",
+      "claim_summary": "The global healthcare sector represents an attractive tactical investment opportunity for the remainder of 2026. The Manulife Global Healthcare Fund is highlighted as a preferred vehicle to capitalize on this sector's projected performance.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Healthcare stocks enter 2H with strong earnings, but limited upside ahead - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmhldnZrQ3F6WmJmSVZDU3dSU2VuUGtEeU8wQWJvTjczcjgwWEhjVk0tNjJnWXVYZlFIN0hLVDRwS3pucDQwOEJpQWF4YjJPTU9iSEJJOXlnaEcyVkVoeUN3QmQweGVEc2NjNDlVa3AzTktleW5jdW4xWXBtOWF2bUJTYUdDdUQ3U1g3TVRTNDhLRlMtRkhnMU9qTlF3d0NyNlJyRENNV21iX0tUdFRHS1VaOERSdw?oc=5",
+          "published": "2026-09-25T03:30:00+00:00",
+          "reason": "The article headline indicates that healthcare stocks face \"limited upside ahead\" heading into 2H, directly contradicting the view that global healthcare offers an attractive tactical investment opportunity for the remainder of 2026."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
