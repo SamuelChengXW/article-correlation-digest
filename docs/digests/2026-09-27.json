@@ -1,0 +1,45 @@
+{
+  "date": "2026-09-27",
+  "run_ids": [
+    36278073145
+  ],
+  "generated_at_utc": "2026-09-26T23:04:14.632107Z",
+  "tracked_count": 18,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Battered bonds draw support from falling oil prices; stocks buoyed by AI enthusiasm - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVMjN2LUJ1NHM3TkhmVF9nR2NwNlBJQXRLLWc0SGVCbTBNUWtzVGJCM0J1bGtuUkVJZUt1clMxY0lQTEhydUhBZXVTYjBGLVdiQk9n?oc=5",
+          "published": "2026-09-26T00:48:57+00:00",
+          "reason": "The article reports that 'battered bonds draw support from falling oil prices,' directly corroborating the claim that fixed-income markets rebounded as previous energy shock pressures subsided."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?"
+  ]
+}
