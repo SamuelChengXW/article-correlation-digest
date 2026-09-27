@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-28",
+  "run_ids": [
+    36357205239
+  ],
+  "generated_at_utc": "2026-09-27T23:04:11.977036Z",
+  "tracked_count": 19,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s consumer stocks face lost decade as AI steals spotlight - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlF6bFpvR0RBVk9VdmgyeDV3MWRTWFJOdzdSampKei1HTmREd0cwWEZwdEVDRjNWS0MxRGVDYmNTRmxHUE5EMFdwYW44MWMyck1OSkhLdnB4T2xqRjA0cGdxYVVDUnZzcFpabFZnbzJuZkVyS081UHlSNHFFWVZOdXMxWXVqSmpSOUtRNmxBTDJEM3BLMnBvMWJnN1IxNkI3NVhaY2FnbEN3SlnSAasBQVVfeXFMTUpRemxab0dEQVZPVXZoMng1dzFkU1hSTnc3UmpqSnotR05kRHdHMFhGcHRFQ0YzVktDMURlQ2JjU0ZsR1BORDBXcGFuODFjMnJNTkpIS3ZweE9sakYwNHBncWFVQ1J2c3BaWmxWZ28ybmZFcktPNVB5UjRxRVlWTnVzMVl1akpqUjlLUTZsQUwyRDNwSzJwbzFiZzdSMTZCNzVYWmNhZ2xDd0pZ?oc=5",
+          "published": "2026-09-27T01:46:00+00:00",
+          "reason": "The article reports that 'China\u2019s consumer stocks face lost decade as AI steals spotlight', undercutting the claim's premise of strong performance across China's consumer sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China\u2019s consumer stocks face lost decade as AI steals spotlight - theedgemarkets.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Kc2d0LVA5cWlvck5OMEVYVXNzejNHUWdJd3JyaDNaajZKbjdpUWVpM0NxVEZrdldKb1Y2QnRtQjNvTzhueS04ZWFEejRLMDNVOVNz?oc=5",
+          "published": "2026-09-27T01:47:41+00:00",
+          "reason": "The report indicates that 'China\u2019s consumer stocks face lost decade as AI steals spotlight', contradicting the claim of strong performance in China's consumer and services market."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s consumer stocks face lost decade as AI steals spotlight - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmxoazhpVmk5RVd6Mjc4SUlOcE53bVFYaV9rYVBhQ1dVTGFtcUxrR1JXNmNhekZJb200WjA3UTl5R3E1SFlBWDlJRUl0TEZBUld3ckpCclFOZ1pIdXhhQWhoa1Znc0FkNFVnMmUzazg3NUtXRnRqa19NNFJ2djVHWEhpYjd6RU5zMktXSjVkNm9tRE5FS05oSXRWVWx4TDB1YWx0ZWl30gGrAUFVX3lxTE1KUXpsWm9HREFWT1V2aDJ4NXcxZFNYUk53N1Jqakp6LUdOZER3RzBYRnB0RUNGM1ZLQzFEZUNiY1NGbEdQTkQwV3BhbjgxYzJyTU5KSEt2cHhPbGpGMDRwZ3FhVUNSdnNwWlpsVmdvMm5mRXJLTzVQeVI0cUVZVk51czFZdWpKalI5S1E2bEFMMkQzcEsycG8xYmc3UjE2Qjc1WFpjYWdsQ3dKWQ?oc=5",
+          "published": "2026-09-27T01:46:59+00:00",
+          "reason": "The headline 'China\u2019s consumer stocks face lost decade as AI steals spotlight' complicates the claim by indicating prolonged weakness rather than strong performance in China's consumer sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Quill Group, China Mobile International to explore AI, data centres opportunities in Malaysia - theedgemarkets.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00QzktQ3htVUhzZ3ZTZHF3UWlYcTJoQ0NSNTRJRDZjMUp2RUQ3ZlNnYUJIZDVvNFVaV3FPRjB1UWtqR18xWlJFTmc0Nnl0Q2tvTWpR?oc=5",
+          "published": "2026-09-27T04:18:22+00:00",
+          "reason": "The announcement that Quill Group and China Mobile International are exploring AI and data centre opportunities in Malaysia confirms continued investment and momentum, supporting the claim that data centres remain a key structural growth driver."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices"
+  ]
+}
