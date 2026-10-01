@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-02",
+  "run_ids": [
+    36938375090
+  ],
+  "generated_at_utc": "2026-10-01T23:07:52.530919Z",
+  "tracked_count": 19,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ debated faster rate hikes in September, government pushed back - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNQXpTalNxaEdocVFyZGRmczVvMk9aTl8xQWwyZ3Y5VklTYXVIQmlTWjQ0VFFwcVpsVmdGWU1HNEdIaEp6XzNNQjdNRlplTG9wMFdj?oc=5",
+          "published": "2026-10-01T10:16:45+00:00",
+          "reason": "The report indicates that the Bank of Japan debated faster interest rate hikes in September, demonstrating policymakers' active appetite for monetary tightening and policy normalisation despite pushback from the government."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Japan's patchy business mood takes pressure off BOJ for immediate hike - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJVWdhQVFnNXVwV3V0c3VnX2lBTks4SlZseC13OEgzakxaU3pmci1XLU5VYVhlR0dacjdsOHRfOXp5WkVaZzZ2T0hweUZuZlpOelNJ?oc=5",
+          "published": "2026-10-01T03:43:45+00:00",
+          "reason": "The article states that Japan's 'patchy business mood takes pressure off BOJ for immediate hike', pointing to uneven economic momentum that materially complicates the premise of smooth economic normalisation and predictable further rate increases."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund"
+  ]
+}
