@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-07",
+  "run_ids": [
+    37544062684
+  ],
+  "generated_at_utc": "2026-10-06T23:09:07.858364Z",
+  "tracked_count": 22,
+  "findings_count": 1,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Unsure how long this AI bull has? Bonds now offer a cushion at the best values in years - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUtFTWdvTmlyODNodW1pTV9zYTR0d1JWODJnWWpjUENmNHFlM290RldGSUZLblRaY1JsM3JqS0Z0cFN3VUZpTk9SRFh5MGxtZEwzcWJ6X3dkQUZ6aVA3VW16R3UyNkZvV2FIT0Q1MlVISGYwWTJWMFdGb1NBbnl0dkd5TmJIdkpiMU83YWtXQ2s0YTcwQVF2NmJzWS1Udl9LaUUwR1IzWWFVb3RWM1MyUHROMEljMGRDalY1UWdOcVPSAcYBQVVfeXFMT2NrSDRGWUxHS3RiTkxqMUtHR0s5Y3czWFBUQXJUVy1BUzFIRjhOSmtzZGU5OEFVazhqSFVpRllDVy1SLUl0ZDJPN0JKNS1TSDVHQW5DZktQLWNNZUluVWxCUFB5akpMZGN3RXBnejkyVUpfMmhQNnNMaFBjQ2ZKcjJIMTRUa1l4X19Bd1Vzc3FkQzBUYW1nSlk3QUJOM29CSXJtMUhFNlYta0lSaHpwNkgwSEpMOU9jNGpWaEFvNGlaTXBPRDZ3?oc=5",
+          "published": "2026-10-06T11:08:28+00:00",
+          "reason": "The CNBC article states that 'Bonds now offer a cushion at the best values in years,' supporting the claim that bond funds experienced a rebound and offer attractive allocation values."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
