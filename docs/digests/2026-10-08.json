@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-08",
+  "run_ids": [
+    37699685730
+  ],
+  "generated_at_utc": "2026-10-07T23:09:13.650867Z",
+  "tracked_count": 22,
+  "findings_count": 11,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ's dovish dissenter signals support for future rate hikes - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEQ21DX2hKS0dLcjlpQnhpUDBfZDlvLVMwVC1wdHNTRjhGWUR5dWE1UkY3SEVldDZSVFBDZExuRFZjM1h3UzdpR09nOWg5V29FOFJDaA?oc=5",
+          "published": "2026-10-07T02:24:52+00:00",
+          "reason": "The article explicitly reports that a BOJ dovish dissenter is signaling support for future rate hikes, aligning with expectations of gradual hikes following normalization."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "MOH proposes mandatory health insurance for refugees, asylum seekers - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBESVJwOThGVGtzTEFQZ3UzWWpkaEMwanQ0d1AwemRSWjRIRERReE9zaGl0dkN4X1ZsZTRUdkxvdG5XUEJ0TmlQWTYtWTNjdERXZ1hB?oc=5",
+          "published": "2026-10-07T13:01:06+00:00",
+          "reason": "The article discusses the Ministry of Health proposing mandatory health insurance, reflecting ongoing structural shifts and developments in Malaysia's healthcare sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Duopharma eyes biologics, export growth as insulin market share shrinks - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfZzBKdFUtZGNzb0RRZjZRMlF0N0l6S2NZdFNGcDRGaHRJdy0tMzBjOGJWRnhLakdyN3pKS0VpZFRNMXAxTzJCSml0V3B1Qk40ZXBB?oc=5",
+          "published": "2026-10-07T08:00:00+00:00",
+          "reason": "Duopharma is actively eyeing biologics and export growth, which supports the broader claim of expansion and growth opportunities within Malaysia's healthcare and pharmaceutical industry."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ's dovish dissenter signals support for future rate hikes - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEQ21DX2hKS0dLcjlpQnhpUDBfZDlvLVMwVC1wdHNTRjhGWUR5dWE1UkY3SEVldDZSVFBDZExuRFZjM1h3UzdpR09nOWg5V29FOFJDaA?oc=5",
+          "published": "2026-10-07T02:24:52+00:00",
+          "reason": "The article titled 'BOJ's dovish dissenter signals support for future rate hikes' directly supports the claim that additional rate hikes remain on the table and that the central bank's underlying policy stance accommodates future hikes."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "CPO could trade at premium to soybean oil as early as April next year, says Mielke - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OdUhYVkxyNDVEMGhmcllQaGh4bEFGRU1NeFZacExWMFlvbmxFd1B6UEZJaFE4aUlxTWlFSDBsY2ttdFFqMlA0WDFpcW95eklFYnZj?oc=5",
+          "published": "2026-10-07T11:26:33+00:00",
+          "reason": "The article's discussion on CPO trading at a premium to soybean oil touches on the palm-soy spread dynamics mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Development spending in Budget 2027 may beat expectations, says Macquarie - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hemVjS1FzaVhfSDN1dVgxUWJCa2JYaFlEMDcyTnZRN041aVBSTEIxc0xsUHlvU0VVRVNvM2hBZURTSFlRc1c4WkR5S3dETENIQTI0?oc=5",
+          "published": "2026-10-07T09:13:49+00:00",
+          "reason": "The article reports that development spending in Budget 2027 may beat expectations, aligning with the infrastructure and execution themes of the construction sector outlook."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "'Get your house in order': IMF chief's stark warning for France over surging bond yields - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM19vbFNTZUFISENoTHFGNUFWNlFhb2YzMGN3UjZ0MjV4N3BWNFdTRmpEUFJJaHozcWRtYmhkcTVDSUMxV2xzNDl1UVV2UWM3Q3ZsTVVldDVjUy1aOXo0RU0yX29taVV2QmFLa2RiSTdla0haYV90dVhzMlhwaDNrcEJB?oc=5",
+          "published": "2026-10-07T09:57:23+00:00",
+          "reason": "The article discusses surging bond yields and a stark warning for France, contradicting the idea that bond market pressures have fully subsided or that rates are stabilizing favorably."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Home heating oil prices are soaring \u2014 and users' winter bills could rise 21%, federal outlook shows - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UNHVvaFVKbDdSWGlwbENDdE1vMjEyREVHNW85QUFBWmhGSkJ5b29IVFJQd3VFZ1dqdkRtdXNuUTk0TlhmVDkxVklYVzdGZ1cwMWlnTGVWWWhmR1ExSURkenJjVGZXTzNBYmlKUllWT1V3R3A50gF6QVVfeXFMT0pyNi1Sb20xNlRNOWt4Q3lHSjZCVko0c3ltU25zcWFPdFFEQlQtaVpvZm1USUdUUmJPZ0pCOU5QSzN6THZ5VGNYWnJXUGIwdXhvY09WREFTbHFmSFktbWlvQkw4TUVLV2FhdVo3azRkVjJWUUNiQk1ybkE?oc=5",
+          "published": "2026-10-07T12:35:01+00:00",
+          "reason": "The article notes that home heating oil prices are soaring and winter bills could rise 21%, indicating that energy shock pressures are persisting rather than subsiding."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Surging oil, high US yields drag emerging Asian shares to steepest fall in a week - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55bUU0TllpUmpDcG5fX01WT1NpT2xVSjR1R1dsUGl0NF9Za1F5SW1WMHFFdGFqWEVobVNFSXRhU3FwNjhodW5lYmNpb3YyR1o5cDVv?oc=5",
+          "published": "2026-10-07T08:20:52+00:00",
+          "reason": "The article cites surging oil and high US yields dragging emerging Asian shares to steep falls, contradicting the premise that energy shock pressures have subsided."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Fed officials see another hike coming, but no sign as to when, minutes show - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUkc3RnFQUWZoam1MOFQ4MG85elpQcFIzb0VlajVQSlZXQXhFUHJlaHI3RGlXd1hOODRxRDNfV1YzZFNJakxNMzRiRzRNZkZqdWUxVG1WWWRVSUhMdUFZQ3BhUV9OR2cwdXFTVzhGc19XOGdBSWwxaUF3MEthSkxzRDlFTlRoVTBnLUQ3SlZVSEhYNWFEOE55TGN2djlkRG1JcWN5V3hNOV82eEVkaEJR0gG0AUFVX3lxTE9hS2JuRWZra2ZHZWc2YU9kMU9zYUN3a0FwcmtDbm9pclJiS2puN1I0Zkh6WVdQUmNEbFNDVmxPQ1ZFRURoZlRsVTh6aEl6bE5lUEc1ejNSM2hxdXdhVVNHVjU5eXhsTGx0UkI4Q3VGdXFLRVF5bXQzd1pUdmNBX09acGxwZDJEYk40X3ZzeEdvV3ViMlU1WmtaNHhvZzI2NDNpSmctZmNfdmtfcVVsdlIydnNXdA?oc=5",
+          "published": "2026-10-07T18:00:37+00:00",
+          "reason": "The article mentions Fed officials seeing another rate hike coming, which contradicts an environment of subsiding rate risks."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "CNBC Daily Open: AI rally defies bond market rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTa0lMRzRlenFiX2xZOU9sYkdvcVpSaWk2OG5lWktXVExWY3Rsbml3eExEcGtCb1BNTGd0UkRNdTlBZHNXVE1QV1JjNmRuRjYxdEFUYk5YSkNXa0NvN1poLUZMVUk5V2dwVkpFREhNa1ZnTl9waU8zeENoTnJCd9IBgwFBVV95cUxPa1o5c0pDMUhPTmhfenRINmxkanBEV2E4Z0pOaFQ4a3JSeEl5U0ZEZXJKYmo5ajF3bTg3RXM5b2xVaFJVWmY5M3JkOGpXZHM1bmNXUDJqNzdqQVdnQTloRWlab3ZOZGNkVTM0akhqMGFRRmdEWW1OTTRkTGN5LWN6dGpLYw?oc=5",
+          "published": "2026-10-07T06:28:35+00:00",
+          "reason": "The article explicitly refers to a 'bond market rout', directly conflicting with the claim that bond funds staged a broad rebound due to subsiding pressures."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
