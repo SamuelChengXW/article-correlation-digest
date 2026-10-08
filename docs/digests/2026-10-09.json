@@ -1,0 +1,289 @@
+{
+  "date": "2026-10-09",
+  "run_ids": [
+    37856936176
+  ],
+  "generated_at_utc": "2026-10-08T23:11:16.302564Z",
+  "tracked_count": 22,
+  "findings_count": 25,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Bank of Japan sees broadening inflationary pressure - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14RU5NUVZuMXp3SjNETFRucER4VUtQM3JVY3Z5NktwV0tSemNtUjdKMHFUWGRFbTgwUllxM0k4Wld2Tm5yQk5xRlNCaGtLVXRtVWVR?oc=5",
+          "published": "2026-10-08T05:54:52+00:00",
+          "reason": "The article's title notes that the 'Bank of Japan sees broadening inflationary pressure', which aligns with the claim that the BOJ's policy moves reflect growing economic normalization and confidence."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SD Guthrie, DNeX, Batu Kawan, MKH, MISC, Exsim Hospitality, GDB, Cyberjaya Education, Life Water, MTAG, UWC & Al-\u2018Aqar Healthcare REIT - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYVl4Zm9VVzRQWFQ1ZWlEMXZLelRhM3Q5dHFvMnVvcFE2VmpMbndpZXJjdlN2ZldVMVlrQnNORW5lVFdyZHp1c3FtazAwMXRwZzRv?oc=5",
+          "published": "2026-10-08T16:05:51+00:00",
+          "reason": "The article mentions Al-\u2018Aqar Healthcare REIT, pointing to active corporate developments and capital financing within Malaysia's healthcare property sector, supporting the idea of private healthcare expansion."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Al-\u2018Aqar Healthcare REIT lodges sukuk programmes with combined RM3 bil limit - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04RnAxNGZaVUNDc1dvck9MVXdtVHpndWhCMUhUSF9pUlU2bWhOYzZPdHhIYUlUbml6Rmd4RmhfUmVIcVRMNUoxT3FfWUNfZVRBdFJj?oc=5",
+          "published": "2026-10-08T14:21:33+00:00",
+          "reason": "The article reports that 'Al-\u2018Aqar Healthcare REIT lodges sukuk programmes with combined RM3 bil limit', indicating strong financial maneuvers and expansion activities within Malaysia's healthcare real estate space."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Malaysia builds a new \u2018Silicon Island\u2019 to house its AI ambitions - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HSkRzZFV4Q24tQ1ItQi1zY1lXbVF3eHcxbFlyaXpOY05MYm9VNENiRVhGZ1NtelIyVUZobDEwa1BUSGVSYkNtRHI2cDZfOExKX3pF?oc=5",
+          "published": "2026-10-08T01:59:34+00:00",
+          "reason": "The article's discussion of Malaysia building a 'Silicon Island' to house its AI ambitions supports the broader regional and global narrative of advanced chip infrastructure exposure."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SK Hynix\u2019s flash memory unit said to pick banks for US IPO next year - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGVYQ3NYM0F1a3hDVGlFZlBjMzJDQTBsQ3Z5WTctOXZpTWhmdXhFcC02bFBucnZDYlJncHBoZDVVc1AwdkJzTnZpVEZGdjNqTVBkdUdTcDlGTk9nSTJLZDEtRFVTU08yMjNVSnZDdmFOZ21FUG5UQmFKM1B1ekpCaGJHaEo2MUpyVng4SXl0Zk9jRzNyT1FOMVdXcmxvVDFsdzBhYQ?oc=5",
+          "published": "2026-10-08T09:10:10+00:00",
+          "reason": "The mention of SK Hynix's flash memory unit picking banks for a US IPO highlights ongoing robust activity and investor interest in the advanced semiconductor memory supply chain."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SK Hynix\u2019s flash memory unit said to pick banks for US IPO next year - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuUk1Bd0tIeXRvMnI3ZVY1VzRHeURLWlI5S3FfLWE3bjl0cFNhUTlRenk2Wlp5RWJ3cHo4UXc4bkFaTkpuYUh3YjVfS0xYaGhEYVl3?oc=5",
+          "published": "2026-10-08T09:09:50+00:00",
+          "reason": "The report on SK Hynix's memory unit pursuing a US IPO relates directly to the semiconductor hardware and supply chain context surrounding AI infrastructure."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Tencent mulls US$5 bil bond offering as AI push ramps up - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3RwaFU0cHpTOHZzWVVYTnJBX2gzc1BMb0prTUxDVTJCTVFfNXJzY19kN2lYVXNNVzQ3Y1BlQk1RNXJIb1FvZFN0RDB2dWNXRkt2ZllQdDR5NzUtN1prZVJuYmNUdFktcnZDT2NmOHpub3p6VmVISHNHVGRhZHIwVE14Y09Mel9RTHZ2NDJ2TjdhZzFwa0Q3S0s5bmo4QmlCVDJWTkQ5NHVFYllpQ0dWSg?oc=5",
+          "published": "2026-10-08T08:54:57+00:00",
+          "reason": "Tencent's US$5 billion bond offering specifically aimed at ramping up its AI push provides direct context on strong infrastructure capital deployment in the AI supply chain."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOG8tazVEa2hVcWdlYU1pZk53QzNMLU1lVWk4c2U0NFRvMk5IMnJYMWdTZERsSHhkYWo1dkRlczFWcGdwRHJfbFJzQ09kUEo1elE4YVRQZWp0Z3lVbU1MUjJIVV9lbFFHbUxPUlJhUER6NzgwdjVFTHM4UVhGZ3pNd3pR0gGHAUFVX3lxTE9nLWxxNlZwaWJicm9JSVBTT3lHeElLRDJ2QklRT2FkelA0eXZSNDlyRWh6dWlhNFloNzZfOUtid3dmcEJsTGNNcTE5VnhEbURXWWo0UGktcmhXNV8tS1lHYndTellPVm00RmFpeFVLTnBqNENtUUtBdHV2NVdPU0Jnb1A1NnpzSQ?oc=5",
+          "published": "2026-10-08T18:14:54+00:00",
+          "reason": "The article reports that AI stocks sank on an OpenAI revenue report, undercutting claims about unblemished accelerating infrastructure demand and ongoing momentum."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Samsung profit up almost nine-fold with memory chip windfall - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2RQYTZUYmI5YlowcWNUZ2lJUDhpNGpnblR1WFY2dU1UNVhHZU1GQmU0VldjakFhUlI1dHhiUENxeG9xNEFNdFloTVZJYTAzS0wxV09yZngtN1RiZFlFbjFBVUczcDFOTEZkcW5xb1RFODNKc0xzdW5ESmtSbGFnZjRpdVJfb21TeVI2Uk5UcFVPTTBvUTB5TzV0TQ?oc=5",
+          "published": "2026-10-08T05:45:07+00:00",
+          "reason": "Samsung reporting profit up almost nine-fold due to a memory chip windfall aligns with surging demand and rising valuations across semiconductor infrastructure."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nvidia-backed Firmus said to close books as IPO struggles \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVTU0UTkwWmlRaGhnWm5BTlZHMGd2Um5TZGZMRmtmOVlwOS1uWGNmYnB2RW5QVE8yV0Vtb3VGdFNjU1ZPWFE4QzNCQjlMSlNtSjFCeGpTUTlnTmlFb3pPcHhRaWl6RVRvQTRrQm0wU3g0YmhlMjBtS1pTVG94eDlLVTRhTTBvTlhGNTlBMDg2QjhmeFlaeC1JbFR5V2RKY2I2NWo4OU5B?oc=5",
+          "published": "2026-10-08T03:12:00+00:00",
+          "reason": "The report that Nvidia-backed Firmus is struggling with its IPO and closing books points to cyclicality and headwinds in the broader AI investment ecosystem."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Nvidia-backed Firmus said to close books as IPO struggles \u2014 Bloomberg - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aYWhpalRKVGlSTkh0WTgwTHJPanpxanRZdFdDbXFZRFZyUlRpams2NGNQQkE1a2VTRmo2OXB3RmRlX2R1VFJhVE1CM1NmWHlWdGZZ?oc=5",
+          "published": "2026-10-08T03:15:37+00:00",
+          "reason": "The mention of an Nvidia-backed firm struggling with its IPO points toward headwinds in funding and sentiment within the AI hardware space."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Samsung flags US$80 bil profit on AI boom, highest quarterly for any tech company - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QcDdhVWlqdGhZSDN2NTllbzhJQnZIU2JNMmJHbU8xVEFHVm5JZHktcldYU1E1WmFUMWQyWENvT0h1dHBWLWdISUdTY3JLS2RKUFFR?oc=5",
+          "published": "2026-10-08T01:06:30+00:00",
+          "reason": "Samsung flagging an $80 billion profit driven by the AI boom confirms strong underlying fundamentals for hardware and chip demand supporting AI infrastructure."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "After a yearslong slump, China's real estate market may be set for a turnaround - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYkxTRldIelVTeFlBSnh6TFcycXFxU0liX3pyVjZJaFMzN0FRVmp6ZG1rNlJ5Y1h1bFdRbjdPcHF3RUxqS2N3MjNhVFZyUERiRGF1Q2NONXRzZkNkenZEd29aQWxKZ1NGcWU1cmpINFRCSm01cERlQVZyQ1ZDbEFGX005TlE2WDBnTE9zbUtnTERqZUtfQWstbmVFcmpPZnfSAaQBQVVfeXFMTkhHTWQzQ1h2VTMxczVjSFRuMnpuaElQLXJrYzhuelRDem1EejBGQkNrcnU2b2NvenFsTXotLWQxRnJLRmplNElOemF0Sl90a2NvbVZNdnZreXRIekg1UDdDR1Q4cWQ4YTNDdzl0akJxWWI0czd0dlBmUEdJNmJVY3dQdXFFaEQ3TWYtT1RVZEFUQzNVVFM4SUM0VE40TXZQeTFpQW8?oc=5",
+          "published": "2026-10-08T09:25:35+00:00",
+          "reason": "Indications that China's real estate market may be set for a turnaround provide supportive context for domestic Chinese consumption and services-oriented economic sectors."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Selangor water constraints may slow 2027 data centre construction awards \u2014 BIMB Securities - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jZmRPbEZQLU1KZzlHcTA2SFYtc1dNcVJKZnJfTmxqN3hPT3BTNHpmTElOWWhqTHpGWTNMejFjQUI5Qk9YZEpSU3RndEh6N1JFNTFr?oc=5",
+          "published": "2026-10-08T02:39:08+00:00",
+          "reason": "The article discusses potential water constraints in Selangor slowing down 2027 data centre construction awards, which complicates the sector's execution and data centre growth driver."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Options traders start calling bottom on bond rout after 'bullet bid' 10-year auction - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZFBWSE1DckdyMHZhMXAyLVBpdHBUbjU4RXdkeXRtUEJsTHdORlBPbzJxbV9ydU9JemVKMVEtZUtBa2VlMDR1VnJ1UjF0N1pGN3lUSWxLc0l6b09YUll5Wk96X2JMXzhPVFlhSUhaeWEybnI1Sm1KU1NCUkpGT3VaWTVsTXZiYjR1M0I5VG1ZZmo2Skxyd0dldS1vZHFWM2h0VmNFa1hOSmQydUdoOEhYNURsNFNzQ2stRE1n0gHAAUFVX3lxTE04dE9pRzFRME54R2pCYzY0dVBqWGFtMFVlTDhlMGh4WXNKblpjU205NDlIQ0FCczc2NERmNkRjMi1HN2Ewa0h0ZmpDT0FvaXR3V2gtQ0pfLUhvV2NMQzVGSDFGYTQ4cW5BcjliRVNqT2hTY0Jlam11Z0pKc2hTQVhzM3Z6bWR2ZnY1MDktMG4ySDBsU2FQMWJPTm5yM1RjN1VTcXEyeEhMYkdLV3B2QnI3WERTREtBTExPNDJiVmpacQ?oc=5",
+          "published": "2026-10-08T13:29:52+00:00",
+          "reason": "The article's discussion of a 'bullet bid' 10-year auction and options traders calling a bottom on the bond rout aligns with the claim that bond funds staged a broad rebound in 2Q26."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Ray Dalio warns the stock market's cushion against rising bond yields is shrinking - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBHZ2RmTEVIR040SlByRGJBSHI2bU5LYV9GSjMxYjd0b2Rla2tadmJ4c0hqT2RtR2J3bEx6WE1ZZS13UW1BVE9UcHlLMktUQmJPX3NlUnhZTEZNWnhQUHJjT0J1QW1RSm1kd19PeTk2YTFpdlHSAXhBVV95cUxPOExNdndXTlBHTWozRXlmeUY1OEFLaU53MDBsR3RyWVY1YXVvVkNWRm85V0hXa3RWeVE1LU1jZXUyUDBUcnpaMTl5Nm9aTTN2ZUlyUHNBazBNT0RzQW1oMlFJQUJQaTRYMlVNZ0NBRmtCemEtU1J6NC0?oc=5",
+          "published": "2026-10-08T11:04:05+00:00",
+          "reason": "Ray Dalio's warning that the stock market's cushion against rising bond yields is shrinking highlights ongoing interest rate risks, complicating the claim's narrative of optimal stabilization."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Singapore bank shares tumble as yield surge threatens earnings - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeVNsaE9PNWtLc3VHRzd6N1JlT2pwRjNaQ3BxdzBCZkVOT1JPcmZVdW43VUl4eWtkQ1ZHLTdUdTJ4VnRhLXctbjZocVRtWWhGaVFwUC1UajVyQm1vSG1Za1Q0NGNfbjJMckY5QVVEbnAwY1dzMkcyV3J3dDFnQ1lTSFZUU19LSUNGSDgzVEJRV3RhRDYzekN0T19rb05aT0Y4b0Vxb21tdGY0b0ZXZW5ua1Nlbw?oc=5",
+          "published": "2026-10-08T10:07:36+00:00",
+          "reason": "The report that Singapore bank shares tumble as yield surge threatens earnings points to continuous interest rate and yield pressures that complicate the claim's stable outlook for bond and credit allocations."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "RBI signals further rate hikes as price pressures intensify - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOFdnNlZiSkF3QkJMODZobDBQYl9pUDFJNzd1eko0ZEFsQWJISmFya2tNT29wdXFUclN4VElKTHBZRDRlYjk1SkRzS3drOHhZbE9FanRzTlc2MFZxWl9yNUhxXzBFYzN0a0Y1ZlF0TUJ5ekFuN2JsWGpkV2pUM2tlOFhGQWpqTmQ5eGUzWGcxeVpxZ25xOXF4ZHZHVDdLS2tsNnprWlZCYw?oc=5",
+          "published": "2026-10-07T23:08:25+00:00",
+          "reason": "The RBI signaling further rate hikes due to intensifying price pressures directly underscores persistent interest rate risks noted in the claim."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Most Fed policymakers see second rate hike before year end - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16WGE2UUxkQXFMaXk5QUtXUmlmUDFQZ2ZubTktYTJHU0VBTmVFYXlFdHB4ajdBSEUxU3hWcHhybXVpM0lZSHhVVElLSUxVUGk1cTRF?oc=5",
+          "published": "2026-10-08T07:09:11+00:00",
+          "reason": "Expectations from Fed policymakers regarding a second rate hike before year-end reinforce ongoing interest rate risks affecting fixed income markets."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nV016TlVYUUlsNUNkSDVBaExxQnljQjE5N09hZDBZMlZ3SWpUUjlPWVRaYVk1VHNxeW1JdmxMVkFYMUNjXzNuSGFxcDB6Wm5rYWpoX3cwLUlFMkIzSE9Oamp4VTRHd3c2UWNoY0tMSGNpLWRWSEh4LXJR0gF_QVVfeXFMT1RHelpkMjVlSDdmLXk1OFV3Y1BvV2YwY0l6M01GLXYwNTRsQ3o2Z25qQU1ISE1NcnlnemxDN0hNaWM2aWVBd2FBZ016dWtGOWI0eGVucS1MbWh0VzVBQ0xlRktRZjRMQkdJSS1mR1lWOEZ0OGVSdkFPSmxCWl9rSQ?oc=5",
+          "published": "2026-10-08T01:46:00+00:00",
+          "reason": "The article reports that oil prices jump due to Iran tanker attacks and threats to U.S. Gulf production, supporting the context of geopolitical conflict and supply concerns surrounding the crude market mentioned in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Saudis in talks to formalise Hormuz shuttles in fight for market \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUYxZTBKZU5nWDJ1dEEwUTMtRUpGLWVNam5mekx6ZWJtbzFiT0JDQlA4aUlETzZTY3BURVAwRGVWSXZoV0dqakx4WUFfS2pLLVNjajhVVl9PbFpINVRYYXJtR1RXQy0zV3FQWVpZM3BtTnlvcWE3ZTl0MnZXQzl2M2U2UzF3R3A5OVE0VVpKMW9Pa1FHSHVMR3FJNFpCdEF2dE5vTFphakEwamNw?oc=5",
+          "published": "2026-10-08T12:01:38+00:00",
+          "reason": "Discussions on Saudis formalising Hormuz shuttles reflect ongoing tanker and transit security issues in the region tied to the broader conflict context."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil gains on report Trump may order Iran strikes before midterms - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHBhbk1rdUNtem82ZFcyMU5TMXNCcEFzMk54YmsySUJGMTVxUHdyVU8ySk10dmd4Y2FDWkM3M3RlbXF1NnpMZzFsNVlxOVNoRTNNM0FNSkhmdTFCLUx3eXJlWFRfVFRrZUhLcFI5TnBGSmwwZDFKMmpfRnA1elZ0ZFplYkRyaEc3Q1hJZ1dHMmFlWS1faGxIekJNcHdXbEdHZ0E?oc=5",
+          "published": "2026-10-08T02:30:54+00:00",
+          "reason": "Reports that oil gains on potential Iran strikes relate directly to the geopolitical risk factors affecting crude prices cited in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Asian stocks drop as oil stokes inflation worries - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVl9WdHN1anF4YTZhbi05cGJfZTl5NDhabThRMWRuQkdQc0xsOW5yWjZROU5VdVVOSFgtdXJteWMtYVYyVV9TODlqUkhvZG5NWDktcl9WVWdxWF9OU3d6VlVWUDJBdHpsQ0NEaUg2Wm5DbXpBa2F0NWJuWVZ6Tjd3V01LMTFYdHYxaVN2clpxT2JFU3M2SHNN?oc=5",
+          "published": "2026-10-08T01:38:16+00:00",
+          "reason": "Asian stocks dropping as oil stokes inflation worries supports the broader macroeconomic effects of elevated crude prices mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+      "fsmone_url": "https://www.fsmone.com.my/article/397060",
+      "claim_summary": "Micron's price target has been raised to USD 1,761 alongside a reiterated BUY rating following record quarterly financial results and elevated guidance. The thesis posits that surging AI-driven demand for High Bandwidth Memory (HBM) and enterprise SSDs, combined with constrained memory supply growth and expanding customer agreements, will sustain earnings expansion and moderate the traditional cyclical downturn.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Samsung profit up almost nine-fold with memory chip windfall - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX2RQYTZUYmI5YlowcWNUZ2lJUDhpNGpnblR1WFY2dU1UNVhHZU1GQmU0VldjakFhUlI1dHhiUENxeG9xNEFNdFloTVZJYTAzS0wxV09yZngtN1RiZFlFbjFBVUczcDFOTEZkcW5xb1RFODNKc0xzdW5ESmtSbGFnZjRpdVJfb21TeVI2Uk5UcFVPTTBvUTB5TzV0TQ?oc=5",
+          "published": "2026-10-08T05:45:07+00:00",
+          "reason": "The article reports that Samsung's profit jumped nearly nine-fold due to a memory chip windfall, supporting the claim of surging demand and profitability in the memory sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Samsung flags US$80 bil profit on AI boom, highest quarterly for any tech company - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QcDdhVWlqdGhZSDN2NTllbzhJQnZIU2JNMmJHbU8xVEFHVm5JZHktcldYU1E1WmFUMWQyWENvT0h1dHBWLWdISUdTY3JLS2RKUFFR?oc=5",
+          "published": "2026-10-08T01:06:30+00:00",
+          "reason": "The article details Samsung flagging an $80 billion profit driven by the AI boom, which aligns with Micron's thesis regarding elevated demand and strong financial performance in the memory market."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
