@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-13",
+  "run_ids": [
+    38319821583
+  ],
+  "generated_at_utc": "2026-10-12T23:11:53.989659Z",
+  "tracked_count": 23,
+  "findings_count": 14,
+  "articles": [
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "LAC Med bags RM20m imaging equipment supply contract for new PJ medical centre - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBBTXBpOEJwUEFaZDQxUTJSc05pNUpxQVl6SHNZVjAzd3NoSmYtNzAzTkdHbDVDREo1Z2g5WDAxcjhFQ3QxLTQzVXI5VF9RTG5YazZj?oc=5",
+          "published": "2026-10-12T13:16:01+00:00",
+          "reason": "The article reports that LAC Med secured a RM20 million imaging equipment supply contract for a new PJ medical centre, reflecting private hospital expansion and procurement growth."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Plantation firms face higher wage bill from minimum wage hike \u2014 analysts - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HYjBtamZXVXRhNDFiV1JuLU1qT0J0RE1OTE1ncG9lWXNtcUJRelAwY01BMlA1bUdRdTJjT25UZGthRExpaEpoLXFwSFFNeVlfamNB?oc=5",
+          "published": "2026-10-12T06:31:58+00:00",
+          "reason": "The article highlights that plantation firms face a higher wage bill from a minimum wage hike, which introduces cost pressures not mentioned in the neutral CPO price and structural constraint overview."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "MN Holdings bags RM294 mil job to build power facilities for a data centre - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yQ19xdEU2cVlkVV9KS2dkaXdYd08xMzNEM1RTN0RiWGtuVlNTZVVjOGZKa0EzQ1FVQ19BTlpIQkhreU1kZmJ3QzgzSXV6dlpGX1dF?oc=5",
+          "published": "2026-10-12T12:52:39+00:00",
+          "reason": "MN Holdings bagging an RM294 million job to build power facilities for a data centre supports the claim that data centres remain a key structural growth driver for the construction and engineering sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "IJM bags RM1.23 bil contract to build AT&S semiconductor manufacturing facilities in Kedah - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zVXJFUFNqRmVqOHIyWmx1eDY4bGlEc0t3U1VaaXlDX0RFX3pKel96ZWFEOGRGYkZndHZ5Nm10U2hneGU2ZU11aVB5UXRZN1ZIazFJ?oc=5",
+          "published": "2026-10-12T12:13:35+00:00",
+          "reason": "IJM winning an RM1.23 billion contract to build AT&S semiconductor manufacturing facilities aligns directly with the 'Execution Year' theme where major contractors translate large awards into major construction execution."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Higher rates could be needed to avoid 'inflationary mindset' taking hold, says Fed's Hammack - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iRWdUXzU4TE1qSExlakQ2Nk9qM0ljX2tRaXg2d3ZhdG56Vmc4TTJqdGMyQmE2aFNQT3l1eHRlb0tWdWgtbWJOXzk2OXJoUlVfU05TaU5TRy1QOXlVQlNpcjAtdkFPRFFiajBIOU9DY3ZEcWUwMDJWdWx30gF_QVVfeXFMT0RHU1ZWNllmUG93MHhmemF0dzQ3VHRvX2JYcGV4RmxrMHNvRnotcEZZanBJYTdjemxLS1pnNDRLZEloYXpqeEp6ZHQ0X01ZQkN1a0JtWEpXdjNqUVdsZWE2X2M2Q1dwQjFsMk8wQUw1UzllTmJmNFZHcHFzQ01rVQ?oc=5",
+          "published": "2026-10-12T17:08:43+00:00",
+          "reason": "Fed's Hammack discussing that higher rates could be needed to avoid an 'inflationary mindset' aligns with the claim's emphasis on persistent interest rate risks."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Goldman upgrades stock and bond markets on strong earnings growth, little recession risk - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpcmxadmthV3lUbDR2bi1DMlNKZFZfTzNzUnFzRnU0NVgzR0d2dEkwSXFvaFVUdzRpU3R6TG5wUTZhUjBtMThBdU9NUVZycmt0VXpGUndRc3FOa2xCRzk2YWtzbGdOaVVGdTNkSDIzR1lNb0ZfeE4tWVRwMA?oc=5",
+          "published": "2026-10-12T13:31:13+00:00",
+          "reason": "Goldman upgrading stock and bond markets on strong earnings growth matches the positive rebound narrative for bond markets in 2Q26."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "India\u2019s retail inflation jumps to 5.54% in September, above estimates - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKZXdKREQ5MXktcDhlM25EcjQ3LTBrdXU0NVZONGFiTy1lN2ZTY1VSZ0ZYdjhJczAzWUg3djI1UWd1WmdiWFZFX0pYRVFRTDFqUGhjM3pGNklZV0NycUd6Rl9ieGt6Ykh4ODlnVFVndW8wYjdFVHBFclBPcjnSAYIBQVVfeXFMT2RpQTgwSEw4anhQb0lnTE83cF9FYzZTc3Q3bno2eGJ0b0FxbENpckx1cXFrUEdJMkJfMnB4NjgxTEk1ekViM3VZNWNsZERRZ04xSjVTOWhSVlZwS3JhZlBVQlVZUkw4UU11eDEtSE1IZjZWV1V6a3FQaFBTZUF0dmxFZw?oc=5",
+          "published": "2026-10-12T10:36:23+00:00",
+          "reason": "The report that India's retail inflation jumped to 5.54% in September highlights ongoing inflationary pressures that complicate the thesis that pressures from earlier energy shocks have subsided."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Trump turns to Russian diesel ahead of midterms, but analysts see little price relief - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcFl4S0gwdXdZaUNzbVJJU1Z6dm9lbkw4ZWMyS3hidWJPSF80bFRxZkJKREtONUFaeWNwQ2VuQTNUUlA0UVJoUzVGRlhhOEN0a2gyNEM1LUhGRWJEX2Fub2RpUXVZZkVxN09Mc0xzVHU5NFNQNmxZRWpUYVptd0JVMWlpZUYtb0dTV2fSAY8BQVVfeXFMTjQwLXBVMkx1V2JsVmFyVWNwNjhXZFpyR3l2V091T1dFSWprZ19IaXRUb1NOSDA5djJEWHJPZU44OUNCNkNGcEJKODB5ZDVYcmpuaGpIRkYxdVlrLVpQOEFmbGJGUXpwT1hYN0NJaVRoeG1mZTBjT0FONWRvRDl3U3ZRTXNrbHl5VkRTdmYxb2s?oc=5",
+          "published": "2026-10-12T09:29:58+00:00",
+          "reason": "The report that analysts see little price relief on Russian diesel contradicts the notion that earlier energy shock pressures have fully subsided."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "India inflation hits two-year high, backs RBI tightening - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaHZkNk9tQ2J1U1ZheGhSa3BlLU51VFFwUTJfaVhDVlkzNHlrdi1iVkkxb21hQlpVMWN1YVlQRkNfTXpIcTk5RFFxLWpiQmJ3UXB5RzRYczVMUWFiRGhndXdwLUJrN3VjQmlmN1FiZmRaRk0xc2hiNE5rdHlTeTZPdWpUTTVibDJhMDVrV3M0SjJCX2N6X1R6MExLOXJwMkdC?oc=5",
+          "published": "2026-10-12T09:49:28+00:00",
+          "reason": "India inflation hitting a two-year high and backing RBI tightening underscores persistent macroeconomic rate pressures that complicate favorable bond market outlooks."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China coal prices at three-year high with little relief in sight - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRc291bUVWcERVNkMwTjFKenN4SEFiLXJvbkJXZmh3eU1sZnM2VGNhRGJ5c2N3a095bTdiNXdlaUFQMDRsMGZkcWhmQVE5SV9EWllz?oc=5",
+          "published": "2026-10-12T09:20:09+00:00",
+          "reason": "The article reports that China coal prices are at a three-year high with little relief in sight, which contradicts a bullish outlook centered purely on the rapid transition to renewable energy."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Brent tops $106 after deadly Saudi airport attack, Ukraine says Russia violated energy ceasefire - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUkdVMXVPN1BzRFlhOVdNQkFTU3hkRW1WOUdtNERzSnNDNkhRd29jTXhRZ0xvSUZWQVpCUUd1b29CWEpHYWtmaVFRbXR6bTUtaTlaODhKd0I0YVhub3BjRDJ0Uks1VzhpUzRSbkE4Y2N1X19CR0tpOHEtXzNMY2JOY1pPOHZTU2PSAYwBQVVfeXFMUDJ2R2cwNjhmemExeXRWRFFPb28wM0ZpVjVkQjRZYnBDS0QzVDUtME94REtVZFBlYkM5dUNmUzNIWTNhR0lvUTZDZVlfSjAyWW05OHhkRzNQX0ROczVnSTQzeWpSTko1Uzlra2RUNFFXRUV3QVU2T3pSOG42Y3lOaTNqc3plZTJGdmRZcmQ?oc=5",
+          "published": "2026-10-12T02:16:00+00:00",
+          "reason": "The article reports that Brent topped $106 after a deadly Saudi airport attack and energy ceasefire violations, contrasting with the specific claim's figure of Brent retreating to ~USD84.4 as of August 2026."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13QTZoaTlodU9YOXF3Y19pVTFOc0tZYVFVZGRHcjZFbHFaRTdZcXRXZ1pGZURWYUJFdWR6c2VmUmZUaWo3OGd1MzlMbFhtckthbUlDQg?oc=5",
+          "published": "2026-10-12T01:07:15+00:00",
+          "reason": "The article reports that oil falls on hopes of a Russia-Ukraine energy ceasefire boosting supplies, aligning with the thesis of fluctuating oil dynamics and limited broad upside."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow: Up 43%, is NOW still a BUY?",
+      "fsmone_url": "https://www.fsmone.com.my/article/392820",
+      "claim_summary": "ServiceNow (NOW) maintains a reiterated BUY rating with an upgraded price target of USD 161 following a 43% rally, supported by its ability to monetize AI capabilities within enterprise software. The core thesis projects further valuation re-rating contingent on concrete financial evidence emerging by 3Q26.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Intel, Broadcom CEOs warn capital crunch could become AI's biggest bottleneck - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSUlaRUJHQWVtcE9QajhJcGlUR29iN3VuTEhZajk3VXh0ejdrdnRBY3JYSjFkYjVMNFJaZW9Jc0tmSU53R3d3YkY5OFV4RXlnT29MMFVDaWYzazVac3dkV201cjg2SFZ1U19CSlo1aUpKYUQxdkNnMkJMNWdGM2h6STczemZfaVpSM2NkMXZHTlIzZkhIX0tLNHVXQm1CazhtTFRXVndB0gGrAUFVX3lxTE9oZHFvczdjeF8wNDB1MDJGMEItSFhEcVlvdkNvSi0xV0s0RVNJQl8xS0NzbUhwaUlsYV85dzcwMWxuRXhtWmQ1ZVF3bEZDekZaaDV6VTlkRk5QUGxfaXJOV3ZqdkZOanVmOUhyZWtHd0xNaEhHNXpqSGR5a19FbVJRLV9oSWs0VzdOSFlpWmtWYmk1X0IteWE4cFllOWdFQ3dJRzNJaUhhcVZwWQ?oc=5",
+          "published": "2026-10-12T08:27:52+00:00",
+          "reason": "The Intel and Broadcom CEOs warning that a capital crunch could become AI's biggest bottleneck complicates the bullish thesis regarding continuous enterprise software AI monetization without infrastructure constraints."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Secondary market around AI buildout driving loan growth, says RBC's Gerard Cassidy - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMEVnYkxyRkpmYXlHVzdNbjRNNVI3M3NWdkZib05aVjZPRnlrTEtNcmZDUHg2bWIyV3RRNUIzT2NxU05fUGVPN3BFTXAzbDk4elVrSGpYTmRHaGI2aHhXOGcxZElvQjAzeWRWa3hHREJNWWN3UHRFSVNoTHdFd0ZacDdmbXVfWlVMUTlwVkZfNTJrazBkUWNNRXo2TUc3bEUyd3FBcy1KbVRWdGFwejdfS3hHYWpyNC1aZTBjWWp5cEY?oc=5",
+          "published": "2026-10-12T22:03:19+00:00",
+          "reason": "The article's mention of loan growth being driven by the secondary market around AI buildout complicates the claim that loan growth is generally moderating across the sector."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
