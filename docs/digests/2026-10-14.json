@@ -1,0 +1,146 @@
+{
+  "date": "2026-10-14",
+  "run_ids": [
+    38481502288
+  ],
+  "generated_at_utc": "2026-10-13T23:10:17.271426Z",
+  "tracked_count": 23,
+  "findings_count": 10,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "BOJ to lean against back-to-back rate hike in October \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdV9rNDZ3ekFSZThyYVZlUjRXQ0dTQW5wTG1aRlVmaWNnOW1xdkg2VGV5bUtQdW9oeGkyM3VOR05RMmN0cVZzT0E3VWlzZEtfSkdxczJWdjRsOHpUcV9WSjJJSG5vWVpadFRKXzJyV0ctbk1LUVhOdHVDTEdHaG00Z2NYMXowYlpLRGhzSVJ5RUdmVVJmMk9lU3RfenU1YTVE?oc=5",
+          "published": "2026-10-13T10:03:05+00:00",
+          "reason": "The report indicates that the Bank of Japan is leaning against a back-to-back rate hike in October, materially complicating expectations for immediate and continuous interest rate increases."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "BOJ to lean against back-to-back rate hike in October \u2014 Bloomberg - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NelBnaGsxZjlXV05SLVRfU2k1M2JtZnp1U1loTjJ1b3FrTWxhVXVGMU9jMXZMXzNJT0RWLXBaWUNEU1VBQ3Z6anJWM3FqUjBRcnBJ?oc=5",
+          "published": "2026-10-13T10:02:19+00:00",
+          "reason": "The article reports that the Bank of Japan is leaning against an October back-to-back rate hike, undercutting the momentum for near-term follow-up rate increases."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0R3MzLWZDb0c5WENORXZfVkFUN0hEQlB5dXdlVGdpMkMtU0NOT2ZpWUU0WlkxdjRnaGFBbU0xS2lsYkJzbXpBd1VBd3dnWmd5eExJLQ?oc=5",
+          "published": "2026-10-13T01:20:48+00:00",
+          "reason": "The report states that Japan's wholesale inflation remains elevated, which keeps alive the prospect and market view of further Bank of Japan rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "BOJ to lean against back-to-back rate hike in October \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdV9rNDZ3ekFSZThyYVZlUjRXQ0dTQW5wTG1aRlVmaWNnOW1xdkg2VGV5bUtQdW9oeGkyM3VOR05RMmN0cVZzT0E3VWlzZEtfSkdxczJWdjRsOHpUcV9WSjJJSG5vWVpadFRKXzJyV0ctbk1LUVhOdHVDTEdHaG00Z2NYMXowYlpLRGhzSVJ5RUdmVVJmMk9lU3RfenU1YTVE?oc=5",
+          "published": "2026-10-13T10:03:05+00:00",
+          "reason": "The report indicates that the \"BOJ to lean against back-to-back rate hike in October\", which supports the claim that the Bank of Japan maintained its policy interest rate and held off on immediate consecutive rate increases."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ to lean against back-to-back rate hike in October \u2014 Bloomberg - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1NelBnaGsxZjlXV05SLVRfU2k1M2JtZnp1U1loTjJ1b3FrTWxhVXVGMU9jMXZMXzNJT0RWLXBaWUNEU1VBQ3Z6anJWM3FqUjBRcnBJ?oc=5",
+          "published": "2026-10-13T10:02:19+00:00",
+          "reason": "The article states that the \"BOJ to lean against back-to-back rate hike in October\", aligning with the claim that the central bank kept its policy rate steady rather than hiking in consecutive meetings."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0R3MzLWZDb0c5WENORXZfVkFUN0hEQlB5dXdlVGdpMkMtU0NOT2ZpWUU0WlkxdjRnaGFBbU0xS2lsYkJzbXpBd1VBd3dnWmd5eExJLQ?oc=5",
+          "published": "2026-10-13T01:20:48+00:00",
+          "reason": "The article reports that \"Japan's wholesale inflation remains elevated, keeps alive BOJ rate-hike view\", supporting the claim that underlying price pressures persist and keep additional rate hikes on the table."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice September 2026: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/390600",
+      "claim_summary": "The global healthcare sector represents an attractive tactical investment opportunity for the remainder of 2026. The Manulife Global Healthcare Fund is highlighted as a preferred vehicle to capitalize on this sector's projected performance.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "J&J's 6% slide on an imperfect quarter is a gift to prospective buyers - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkdFUmR0ZGpIdlZFclFCSjRpbkF2ZlBUUExicTBPTVJCMnJfdnk2NjBxTUdJTUw3S1IxcGZ6NEtsVDhJN2NqVVNNb09MdEpUc0x2OXFsT3diRDRGQnJDSURyQXpIMmVKa0JrQnZsOE0wMlJxN1RRZmgyMEMxSlNjcjFMd0FFTXVYUHgtTFZPX3hwM0IyTEVUXzZ0NFhNWlUtMXNLb1J3VGM5VjNoaFlIOHpIOHVXNVB3cFpRYkYzWEIyWUU?oc=5",
+          "published": "2026-10-13T17:44:27+00:00",
+          "reason": "The article states that Johnson & Johnson's 6% post-earnings decline serves as 'a gift to prospective buyers,' supporting the claim that pullbacks in major healthcare equities offer an attractive tactical entry point."
+        }
+      ]
+    },
+    {
+      "title": "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+      "fsmone_url": "https://www.fsmone.com.my/article/397060",
+      "claim_summary": "Micron's price target has been raised to USD 1,761 alongside a reiterated BUY rating following record quarterly financial results and elevated guidance. The thesis posits that surging AI-driven demand for High Bandwidth Memory (HBM) and enterprise SSDs, combined with constrained memory supply growth and expanding customer agreements, will sustain earnings expansion and moderate the traditional cyclical downturn.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Micron sinks, other memory-linked names dip for a second day - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNckowaE5BVEtNWm9RQkFrSWVMc0MzVzNHNFBubU9hWlJQM0gteG50U1RFWjdsU2w4RnJYemd0ZnIxVUhUeWgzd0VFTi1wMkN4bjczYjlib0Q4RXRyMnhmd3FUT1BhaHRsZHhsdUFVRTZUVkNGMG50RDNxTDA1Sm8yQ0Etdk5weDFOcEd6elpMRWhzWlA2Qnp4aDJWNmRCMkHSAaQBQVVfeXFMTjFRUXlfM2otZ1AwbmQ2RDVLQUtnNUJxUGlDS2V2V2owSmc0WGxUVmJINTRrRzhWejBqc1N4S0dNNjlhbnFJSzcyZnpqYWpRcEZmai01QndvdW9sWXBTbXcyWEFzZHA1d0VzWVZVdU1yUE9uaDZBZjFjNGl6aGs1SGFtWmpYS1dTUDZDVWtIOFJNM2xOdng0TE9YTmhsTHhnTk9XTzg?oc=5",
+          "published": "2026-10-13T02:08:00+00:00",
+          "reason": "The report indicates that Micron 'sinks' alongside peer memory-linked stocks falling for a second consecutive day, conflicting with the thesis of sustained earnings expansion and price-target optimism."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s CXMT claims memory advances ahead of Samsung, Hynix - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNm1wZmhaQnA5Qks1OUJlY3dSbXZzZVV0UWlSZ1lhS01ER2Y0R2Z0ZDg3S0phR21LSi1JSjdMVDFLOGEzU2VjTER1dVNpN1dQdGJfcVUybk9obG8xdzhqLXI2V2dEUnNIU0RTeWd4R1BZQnBMZ2xqdjlySzRENzhVWHlZTUF1eHozR3lCV3hlcXdRc1JkQk1wYm05SmIyZw?oc=5",
+          "published": "2026-10-13T10:36:36+00:00",
+          "reason": "The article reports that China's CXMT has claimed memory technology breakthroughs ahead of Samsung and SK Hynix, directly challenging the assumption of constrained global memory supply growth."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Why this little known Chinese chipmaker has caused a global stock rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBER25wam92VXFxTzlFXzJhWWdYaFlUSjNrc2Vpb3Fhc29XQzkwdE4zd2lZWVEydENfa0RJOEVKdU9EZFB1all2SGZBVGp3ZHFtM2lIajZKY3RiMTFBUm1vX3NDTE9peGNnVzI5YlNjb2kwZ9IBd0FVX3lxTE0wc2d1T3Mzd3R5ODVBU0tOT0RUSHNrNF9jdVVSbGhmcjhuMXh1ajVubWl0WVNQTWdRV0FKWW01V0dhYkJURlVmcExTTllqSnRrWVhCNEFKdHJLZ05kQms1S0dlaWkyNW1rVk5OSUJGel9NNWZudkZV?oc=5",
+          "published": "2026-10-13T12:41:56+00:00",
+          "reason": "The article reports that an emerging Chinese semiconductor manufacturer triggered a 'global stock rout,' highlighting acute market disruption and downside volatility in Chinese chip equities rather than a stable tactical upside opportunity."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars"
+  ]
+}
