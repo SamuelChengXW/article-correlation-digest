@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-15",
+  "run_ids": [
+    38651370944
+  ],
+  "generated_at_utc": "2026-10-14T23:07:57.284907Z",
+  "tracked_count": 23,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China solar giants shed another 40,000 jobs last year as overcapacity persists - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yXzN6WXVQZFE3NzJKd1RvM1VUMGQ5OENfbUVHZnJtM0dadEFNZ0pLUW1idXVIazFtaUs0R3cwSm9Nckt0M3EyRG5YNDNNaG9NTXE4?oc=5",
+          "published": "2026-10-14T08:45:19+00:00",
+          "reason": "The article reports that persistent overcapacity has forced Chinese solar giants to cut another 40,000 jobs, indicating continued severe headwinds rather than a strong performance in China's renewable energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "IHH said to join race for TPG\u2019s Malaysian hospitals - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPb3VTaFAyVkgzaTRiWFo3U21WODkwaElNSlRqcmFUQlRmRG41aTFYZ2RtVm5ndkxTY3dmZ0txM200YXVBcXVvN3FxenZ3SjN4LWtTazE0cmM1TWZPQVl0UG81WHpwbTE1MnNmUzRra3JHWUlobXpYT3lBdjF2NVk2ZUo0TVJiV050a1FWaQ?oc=5",
+          "published": "2026-10-14T12:36:45+00:00",
+          "reason": "The report indicates that hospital operator IHH is joining the race to acquire TPG's Malaysian hospitals, substantiating the claim of private hospital expansion and active growth moves in Malaysia's private healthcare market."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Twenty-seven data centre projects worth RM226b greenlit by task force \u2014 Digital Ministry - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAtMnpxb0xLbEloZU5PbzFwZ0sxN1A4UDNUem1odTJyYU9MWE9wZlhxd1h4LVE2R2pWdWJlYW9SZ3BON2prOU1paTVaTDEzSnhOV2Fz?oc=5",
+          "published": "2026-10-14T15:20:40+00:00",
+          "reason": "The report indicates that 27 data centre projects valued at RM226 billion have been greenlit by the Digital Ministry's task force, corroborating the claim that data centres represent a primary structural growth driver for Malaysia's construction and infrastructure sector."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars"
+  ]
+}
