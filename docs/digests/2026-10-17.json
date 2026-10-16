@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-17",
+  "run_ids": [
+    38979029417
+  ],
+  "generated_at_utc": "2026-10-16T23:06:53.010892Z",
+  "tracked_count": 23,
+  "findings_count": 5,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Ueda \u2018can\u2019t tolerate\u2019 underlying inflation further over 2% - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmM0YzlKaTlEUmx1SkktcXpVbFFUdno1Sy1KSHZvUHB4RFg3VmMtS0tzV05hSVlReXFXWHZaWHNKTl8wUlJUWFVoR0tOem9FeU1VSGJqVHpFWmx4dzRMcVhQZlZ5cC1SOWM2VFF5UVljWldpNy1TRlRpVWYzak5QNU5tOWJMVllwdXZCTTVUX0xsRlFFYmdadWdKZDExN0VQNnRNVUhINkhTR2s?oc=5",
+          "published": "2026-10-16T13:55:51+00:00",
+          "reason": "BOJ Governor Kazuo Ueda indicated that the central bank 'can't tolerate' underlying inflation persistently remaining above 2%, signaling sustained monetary tightening and supporting expectations of further interest rate hikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Ueda \u2018can\u2019t tolerate\u2019 underlying inflation further over 2% - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbjN0dmpLakxMUHpTU0RidTMtY3lrb3pFakhsVlExRGhtLXdlcVVSVE9Ybnljb0RwcS1yMk1qUjl2MGxCZEpLeldWSTRDa3E2blB3?oc=5",
+          "published": "2026-10-16T13:55:31+00:00",
+          "reason": "Bank of Japan Governor Kazuo Ueda stated he 'can't tolerate' underlying inflation running above the 2% target, affirming the central bank's hawkish posture and the likelihood of subsequent rate hikes as economic conditions normalize."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japanese insurers are poised to bring money back home - gradually - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9WTG82OGFRLTJuNjJXY2dwUGRiR2xrOVBFZm44dlpxaWJNSmRLWUtNNmtSeC1uYjNJVnJaekY0V191cGJLa1NHaDhMU3FsSzlDR2hn?oc=5",
+          "published": "2026-10-16T02:57:50+00:00",
+          "reason": "The report highlights that Japanese life insurers are preparing to gradually repatriate capital back home, driven by domestic interest rate normalization and rising yields following the Bank of Japan's rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Ueda \u2018can\u2019t tolerate\u2019 underlying inflation further over 2% - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZmM0YzlKaTlEUmx1SkktcXpVbFFUdno1Sy1KSHZvUHB4RFg3VmMtS0tzV05hSVlReXFXWHZaWHNKTl8wUlJUWFVoR0tOem9FeU1VSGJqVHpFWmx4dzRMcVhQZlZ5cC1SOWM2VFF5UVljWldpNy1TRlRpVWYzak5QNU5tOWJMVllwdXZCTTVUX0xsRlFFYmdadWdKZDExN0VQNnRNVUhINkhTR2s?oc=5",
+          "published": "2026-10-16T13:55:51+00:00",
+          "reason": "Bank of Japan Governor Kazuo Ueda states that he \"can\u2019t tolerate\" underlying inflation running further over 2%, supporting the claim of a hawkish policy posture and willingness to implement additional rate hikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Ueda \u2018can\u2019t tolerate\u2019 underlying inflation further over 2% - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SbjN0dmpLakxMUHpTU0RidTMtY3lrb3pFakhsVlExRGhtLXdlcVVSVE9Ybnljb0RwcS1yMk1qUjl2MGxCZEpLeldWSTRDa3E2blB3?oc=5",
+          "published": "2026-10-16T13:55:31+00:00",
+          "reason": "The report highlights Bank of Japan Governor Kazuo Ueda stating that he \"can\u2019t tolerate\" underlying inflation further exceeding 2%, aligning with the claim of a hawkish stance keeping further rate increases on the table."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars"
+  ]
+}
