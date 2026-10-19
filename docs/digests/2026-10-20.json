@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-20",
+  "run_ids": [
+    39338788643
+  ],
+  "generated_at_utc": "2026-10-19T23:07:21.746957Z",
+  "tracked_count": 25,
+  "findings_count": 6,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ chief says underlying inflation 'quite close' to price goal - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoa1VKNi1PamRqSjhaTDQ4Mmx4bmZjbWNkdDJCZE5TLVpmZ0FYZ1FYZzhNN0RDRlZrNHlfMUE2Q2daMkJWN1JzUXNiZWxleDZzUVEtUg?oc=5",
+          "published": "2026-10-19T06:12:02+00:00",
+          "reason": "The BOJ chief noted that underlying inflation is 'quite close' to the central bank's price target, supporting the view that economic conditions are normalising to justify policy rate increases."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "IHH Healthcare to acquire Afiniti Wellness for Gleneagles Hospital Johor expansion - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KNXdZck9CSXl1ODZzSEtDaFJSTzBVVEFadEQ2OW0taXdTSml5VDlyZXpMQ21SMXVnNkJDQ05fcWlUUFppVFBwRHhYWURJS2xPM1ZJ?oc=5",
+          "published": "2026-10-19T10:45:24+00:00",
+          "reason": "The article reports that major private healthcare operator IHH Healthcare is acquiring Afiniti Wellness to expand Gleneagles Hospital Johor, directly exemplifying private hospital expansion in Malaysia."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ chief says underlying inflation 'quite close' to price goal - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBoa1VKNi1PamRqSjhaTDQ4Mmx4bmZjbWNkdDJCZE5TLVpmZ0FYZ1FYZzhNN0RDRlZrNHlfMUE2Q2daMkJWN1JzUXNiZWxleDZzUVEtUg?oc=5",
+          "published": "2026-10-19T06:12:02+00:00",
+          "reason": "The article reports BOJ chief stating that underlying inflation is 'quite close' to the price goal, supporting the view that the Bank of Japan sees underlying price trends progressing toward its target and keeping policy normalization on track."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Jati Tinggi bags RM30 mil data centre power job in Johor - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lUUY0cWVUS1RfaXVmZXBFY1ZDcXJWbnhwWURfN2FGNEdCQ3pRbXhSRUtVdmpsZEdfMjR5a0l5VlFxalk4QlJPeWV4bmMyNmlTalkw?oc=5",
+          "published": "2026-10-19T12:27:27+00:00",
+          "reason": "Jati Tinggi secured a RM30 million data centre power job in Johor, directly supporting the claim that data centres are serving as a key structural growth driver for Malaysian contractors."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "GDB bags RM119m subcontract for flood forecasting infrastructure project in Sarawak - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1aGtGdGoyRWhfLUZxdnZSN3ZNX2xXeWhsaDFWTkU2a0ExV2F0UnU3cDJQZlJ4MVhHRzZDeTBYTDJBcllNb0tKM0tGWTI3OVVVTm1J?oc=5",
+          "published": "2026-10-19T11:02:14+00:00",
+          "reason": "GDB secured a RM119 million subcontract for a flood forecasting infrastructure project in Sarawak, confirming ongoing infrastructure contract awards and project execution in line with sustained government infrastructure commitments."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Govt drafting law to regulate data centre growth \u2014 Economy Ministry - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kNUpGMGFnUXdUbk5sbTA4MTFqd1Q4UFdoTU85b21MS3VYalp1UjhsR2NxTUgtZlRLRHZZMDZzd1NRZ3lKSlIzU3lNdmxKejJmVldJ?oc=5",
+          "published": "2026-10-19T10:54:15+00:00",
+          "reason": "The Economy Ministry is drafting legislation to regulate data centre growth, which materially complicates the claim that data centres will continue to serve as an unconstrained structural growth driver."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund"
+  ]
+}
