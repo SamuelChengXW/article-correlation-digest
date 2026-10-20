@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-21",
+  "run_ids": [
+    39512079905
+  ],
+  "generated_at_utc": "2026-10-20T23:13:01.911101Z",
+  "tracked_count": 25,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's CATL 3Q profit growth slowest in nearly two years as competition intensifies - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNSXBMWWRJSHp2cTFiTl8tUDVsU3A3YWQ1QXJ1QTRRdGdfZkk4ODdvbTJoRWpydE1SZS1vMGtVXzFiV1FGQ1NaQnc0blRKc3NURjQw?oc=5",
+          "published": "2026-10-20T12:49:11+00:00",
+          "reason": "The report highlights that China's CATL experienced its slowest third-quarter profit growth in nearly two years amid intensifying competition, signaling earnings strain within a dominant constituent of China's new energy industry."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Gamuda signs agreement with Perak government for 1,500 million litres per day water supply scheme - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lSWltbmozRjFKRGg3aXlqcFU0WnBGSEstQnhhWF9Md2hoalhoY1YzR3M0N293WXlrWTJjcjFNWHUwdUZKbHh3ZVJtM2JKUjVqZG9J?oc=5",
+          "published": "2026-10-20T11:27:12+00:00",
+          "reason": "The report highlights major contractor Gamuda securing an agreement with the Perak government for a 1,500 million litres per day water supply scheme, illustrating ongoing domestic infrastructure execution and order replenishment."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice September 2026: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/390600",
+      "claim_summary": "The global healthcare sector represents an attractive tactical investment opportunity for the remainder of 2026. The Manulife Global Healthcare Fund is highlighted as a preferred vehicle to capitalize on this sector's projected performance.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "The healthcare sector is getting a safe haven boost. This one stock is headed for a long-term breakout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNODdfWm1wUTFBUU1uVE5GV1hHOFhfZDFFN0xjcFFwbTJGel9RY2xMZmp6NXROd0N4dldFLVlrcUF0ZG1tbHJaT3RNMmVXZm8yQndfblR3V0ZVN2YwTkoyVkVHR2gtc2ZGVmVHNWpZQ3l3bEFWQWdab243Z2p0Qm1zSjRpTmViTlo3OWdoV2JySXdOMnF3Q2ljWWQ1N3Y0cTAzanB0ZXRFaGZrT2pydjRpQXduSmw2bmMtaDZUeHZia3VFTFVHMVhRUmVEeV9MZWg2SFpBbQ?oc=5",
+          "published": "2026-10-20T18:25:50+00:00",
+          "reason": "The headline reports that '[t]he healthcare sector is getting a safe haven boost' with a stock positioned for a breakout, corroborating the claim that global healthcare is an attractive tactical investment."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BMm5ISmplcUtod2txVlV0ajlNUHFPanpRa09GWnBMdjdOaUFCSTZOUXk2SnVNclplakZrckJWZDZTYU96Z3pKTVZieUZiVXkwM3Fza0FibjVLaGhBR2dNMUVwNW1yTllMZlI5R1N6ek1MZXI5OXfSAXtBVV95cUxOMTd2ZFNDSGNCclhSb3lSYl9MdnVtZ3BiYlp6VFQyZUpNR25oNFlsYnRnMThxWmJTZ2tWd3BGWV9PWGFSdHMzMFotTmNpbUFuQzZLaVdkOTJtSmxHeEpLdFcyU013c1dUMktXNWt4blRDZFYzeEk2VkF6WVU?oc=5",
+          "published": "2026-10-20T06:25:26+00:00",
+          "reason": "The report that the 'U.S. bans DeepSeek from government agency systems amid AI rift with China' demonstrates escalating geopolitical restrictions targeting Chinese artificial intelligence firms, which materially complicates the tactical investment case for China's technology sector."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund"
+  ]
+}
