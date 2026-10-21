@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-22",
+  "run_ids": [
+    39690488630
+  ],
+  "generated_at_utc": "2026-10-21T23:15:11.179876Z",
+  "tracked_count": 25,
+  "findings_count": 18,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Ex-official expects Japan's central bank to hike rates every quarter - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdGQnlxVWpTTUpQU2pyT3ZheGo4ekJZUW9DNjdWX1Uza0VMU2ZpRElnTGZRaTl6aDl3Unhmdzg1dEh4a0Z4ZUFWZVdMTWh2eG9pT2Qwek1VSFZGUURvUjJZcU85eXlTb2lyUllKaTM4VW5kd1VsTi1BVVJqdHVVbGtPdHVmcUpzMWhVNWx2cXQtd3BrTmUyeE1qN1RiQUZxSFluLVk5amoxYlZn?oc=5",
+          "published": "2026-10-21T05:42:33+00:00",
+          "reason": "The article states that an 'Ex-official expects Japan's central bank to hike rates every quarter', supporting the outlook of further gradual rate hikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Bank of Japan's Himino signals readiness to raise borrowing costs - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtM0ZvdzJUV1hkQWc0VHhYQmw0d2tTUlczM2VVR09oSFh4R0NHcG1VTnJ3V0Y0dFE5RVhEcUpxYl8wdjlEM3RJRUFFbFZIMEUtd0FhYg?oc=5",
+          "published": "2026-10-21T07:02:49+00:00",
+          "reason": "The article reports that the 'Bank of Japan's Himino signals readiness to raise borrowing costs', reflecting ongoing policy normalisation."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Ex-official expects Japan's central bank to hike rates every quarter - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWFloUXJSQXlpa21lcVFjb3VKYVJDV0FGTnFHekdjWnp0SFJoalNVbm9fQS1DTmw4OGk1UGp1blUyQ0xId1dIMHhVdFRpQjROb01B?oc=5",
+          "published": "2026-10-21T05:41:32+00:00",
+          "reason": "The article notes an 'Ex-official expects Japan's central bank to hike rates every quarter', aligning with the claim of likely further gradual hikes."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Sunway Healthcare, Sunway REIT extend deadline for acquisition of Sunway Hotel Seberang Jaya - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15V0ZNYWlWbWtGVlRySUUwdFo0MmVkQlpiNlRBbXNwSS1QNXVwNW9HalBxUWJ3V0Z1TE1xUUNSbDVjVlJXMTVxMlRCams1WURwaTdv?oc=5",
+          "published": "2026-10-21T11:24:10+00:00",
+          "reason": "The title discusses 'Sunway Healthcare, Sunway REIT extend deadline for acquisition of Sunway Hotel Seberang Jaya', directly demonstrating private hospital/healthcare expansion activity in Malaysia."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Ex-official expects Japan's central bank to hike rates every quarter - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZHdGQnlxVWpTTUpQU2pyT3ZheGo4ekJZUW9DNjdWX1Uza0VMU2ZpRElnTGZRaTl6aDl3Unhmdzg1dEh4a0Z4ZUFWZVdMTWh2eG9pT2Qwek1VSFZGUURvUjJZcU85eXlTb2lyUllKaTM4VW5kd1VsTi1BVVJqdHVVbGtPdHVmcUpzMWhVNWx2cXQtd3BrTmUyeE1qN1RiQUZxSFluLVk5amoxYlZn?oc=5",
+          "published": "2026-10-21T05:42:33+00:00",
+          "reason": "The article's title notes an ex-official expects Japan's central bank to hike rates every quarter, aligning with the claim that additional rate hikes through 2026 remain on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Bank of Japan's Himino signals readiness to raise borrowing costs - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAtM0ZvdzJUV1hkQWc0VHhYQmw0d2tTUlczM2VVR09oSFh4R0NHcG1VTnJ3V0Y0dFE5RVhEcUpxYl8wdjlEM3RJRUFFbFZIMEUtd0FhYg?oc=5",
+          "published": "2026-10-21T07:02:49+00:00",
+          "reason": "The article title explicitly notes that Bank of Japan's Himino signals readiness to raise borrowing costs, supporting the claim that rate hikes are still on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Ex-official expects Japan's central bank to hike rates every quarter - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWFloUXJSQXlpa21lcVFjb3VKYVJDV0FGTnFHekdjWnp0SFJoalNVbm9fQS1DTmw4OGk1UGp1blUyQ0xId1dIMHhVdFRpQjROb01B?oc=5",
+          "published": "2026-10-21T05:41:32+00:00",
+          "reason": "The article title states an ex-official expects Japan's central bank to hike rates every quarter, which supports the claim that further hikes remain under consideration."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "ES Sunlogy shareholders vote for regular tie-ups with Kerjaya Prospek - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE04emtsSVIyVmtFcjJEV1I5Nk9oWFJ1QWlTREl1SmVQRXRmZFVNRWxHcHdLd3hNVkw1MFBNcXJTZUtCenhtb1RfbGNPNHpzcXA3X3dV?oc=5",
+          "published": "2026-10-21T11:19:08+00:00",
+          "reason": "The article mentions shareholders voting for regular tie-ups with Kerjaya Prospek, a major contractor, supporting the strong business activity in the Malaysian construction sector."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "CoreWeave\u2019s market confidence erodes as bond yields spike and stock sinks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVgxcDF1U3FhT0VtZ19VY1NvclVqTHA3ZDk5UGNFX3BodHJ2VVpRMEhpT3ZmNlRLYk5iZDBIMlU0WW51SjEwcmJsWE9EcXZsTlJBdFNKZ3dlSm9nUGRCM0g5SDFCRk9ERE03WWpPLUdndDNmVUdBZ1ZNYkNubzZsOV95Nzk4bWVKQjRrb1JHSXBkdXM3N1BwdXUybUF4di1hRTNQdEx3c0M?oc=5",
+          "published": "2026-10-21T21:12:29+00:00",
+          "reason": "The article mentions that CoreWeave's market confidence is eroding as bond yields spike, which complicates the positive narrative of a broad bond market rebound."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Rougher waters for REITs amid surge in government bond yields - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55YkFvS3FSZ0pEbHlVR0lrdTgtaU5IOUgxRDRKTnpZbWNCSlFQNHpXVzVKV2FqRURfMkNLZWtqdllxNDFMWWowazd4U29oYkJLbFFv?oc=5",
+          "published": "2026-10-21T06:00:00+00:00",
+          "reason": "The article highlights 'rougher waters for REITs amid surge in government bond yields,' which contradicts the claim of a smooth bond market rebound and favorable conditions."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices mixed as traders assess Middle East developments - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMGJ5Y1pPUDFBa2J6dUEwc0RnYmVRWnNFQmhTNjhsa1ItUVBFZG14cGVzTU1kZ205RDN4Mmcyd1pzQjRJNGl6N2F1Nng2WlBGSWVZd2JBSXVYWmFNTnpZRWxBZTVqUmdaVFNRRUEwczJtcC1PcnhDSkN3RXU2eWllNlZGcFQyQzVzaXA3V09PTXYwVVAx0gGaAUFVX3lxTE95am5EZGd5cEZod2RCX0FMZTdIOE1paDJvTUQ2OERsckxsYVZON19rZ0JWbTZYWDhVZXlqU0dNRm0ydlp6dUVxQkcwU1VtbWFRWE9kRk5PLUNubG9MSWF5anBIQThhQ0FKS0UzaHVRdXRRN0V2Nkl2SFVHV05JaThJZFlMT2tsY1ZxdUxDUUJZRFBpN1hHSjJ2TkE?oc=5",
+          "published": "2026-10-21T05:27:19+00:00",
+          "reason": "The article notes that oil prices are mixed as traders assess Middle East developments, supporting the context of ongoing volatility from geopolitical conflicts."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Gold steadies near one-week low as oil-driven inflation fears grow - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZ2JnT3FMZnJMV0tnSk5uelg1LV80ZmVnMUlxZlY5UnRzXzFDa3V4M01KM2dXTzhXNXFDQ1ZueHRKeF81eF9JQlNJeWhXLWwwWGxHSGNFYVVETE9vUUVwVUVENHN3aEt5NFVHcWkzamxUbEVvRXVTOWRpSUJkaHZNT0xlTEZxS0pRek04SWlRT3RpMDZLUDRNaVhNMFhtaDI5b3B5eNIBqgFBVV95cUxPUkhsQlNkclM5NUFNcXJWd1paMmpwNFJKTEFEWlN4TTZ6X0JaS3RhMFRwWU01TjB6bzN2STh2azh2OHI5bHJ1Zk1qS1U3VTZkZXRZdGN0SUlyQkFvbEFPNURvbUlTcVBOVjdKQi01NGtFbVdTeFdSWS04MlR4Qm1fTDdMSjFjejdzR0xSeXExM2d2MUtCWm4yUDFnSUEtN2N5Y251OWJCb0xJUQ?oc=5",
+          "published": "2026-10-21T03:54:00+00:00",
+          "reason": "The article mentions that gold steadies near a one-week low 'as oil-driven inflation fears grow,' which reflects lingering effects from high crude prices."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil rises as deadly Saudi attack fans Middle East supply fears - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeEV1aXdwSElHOFhFeHlTaVZ6ZkoyYURuMEN6Z0ZvQ2piWHUyZmtyMkhfbzl2WkpXbHdrb1JQUVd3VE50eE91N3U2RGZkbmlqd2E1UDZqbGxFS2swLWl5UUx0Vzhpc3JYTjdZTWJDbnRGaVJ2SmZETEpNT0ZOYmVEdHVRWWxIbVcwV1dNSThsQ2hiZnBkNzlXVG00dFNJbEVnNWZjUnZXNC0wNFk?oc=5",
+          "published": "2026-10-21T22:29:39+00:00",
+          "reason": "The article states that 'oil rises as deadly Saudi attack fans Middle East supply fears,' aligning with the claim's discussion of geopolitical supply risks in the oil market."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcWItYk1rbU5vTkxmU3RpelV0RVY2cC0wYXVXZ2paOUtOSy1FQ2s2Vnd5M29QZ0lobE1Za3ZGSjVHU1dYNWxoREttc3RhSmRIalBRcTlMcmZxbTd6V3hfb3VmbU11Q2V3MHY0SFNhZ2ZxLWsyVkROal91N0FKZFR6bTI5RTA5SGNEU25STHVB0gGTAUFVX3lxTE1jY2ZtVWd5N2ZubDkwcG1NUzVwSzh0RHNKcFd2ek16amJ2MVlialdzT2tzTE5uTWo3d3ZfcTdZVDFqeVMyTUNPZEc2ODNsQl9MdVBZTkJTaDg0Tm01cUdLTF9MWmRveTI4WW9VODFnN2dHZ3cxbC05V0VGQlVlNl9Td0RvT3VMOWFDaUM0MzdLLTNWdw?oc=5",
+          "published": "2026-10-21T13:30:57+00:00",
+          "reason": "The article's discussion of major investment banks like Goldman Sachs, JPMorgan, and Morgan Stanley dominating the AI stock boom aligns with the claim's expectation of selective outperformance in investment banks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Southeast Asia\u2019s digital lenders face a profit test as online economy grows - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcktzNkp5LWI5NHJ6aHB0TktlOHlHUkNPMm5ZVXhodEV5dDlFNDBMeXluVXlmcXE1RG9EemUxYkp6ZmYtTHhLTU0yX0RSMEQ5LUxOTW5zdHBQN2RuYjBOeU84NVNPUXIxUjAwcnJJLThuRXcwSmZjSnA1MkZSNEt4Zm5VY0xNNU5UaUNleWxlbFJfVHM2dnd3WjJqWGpnbWszbEZ2M3d5TXlZZ1JjY0ZlZ1ZQMkJQRjlCNkdETTNIUDh5TTN3MGRsb3p0QU9wUU0?oc=5",
+          "published": "2026-10-21T04:19:08+00:00",
+          "reason": "The article highlighting that Southeast Asia's digital lenders face a profit test supports the claim regarding moderating growth and challenges in banking margins."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "AI's spending boom faces a 'gut check': Who can actually make money? - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpOHVScndndXRPX2J5QjhlVHhFczZsV2UzQXU1a1VIVGhFNklNd1pXVklPZzBFX3RHckdmMVRUMnJzdXp1dy1VQk1LdkRlLUVSYlZlMWc0NUEzSWs5RThXZ3U0VUhXdElHTVlWZtIBckFVX3lxTFA0QkJwZUVCVWpfcjdSZ21UcW9WWFBtSkJtcTFTT3JVRExKYTgzdjJCamFaMUJlWFkzbXpfcnNlcHotZmhDSnZQRm9hYUt4VXMyOGtVa2E5REw5bXpwaHYzWGw5NnRUMnhFWEdLMTdRRkNBQQ?oc=5",
+          "published": "2026-10-21T01:02:00+00:00",
+          "reason": "The article's focus on AI's spending boom facing a 'gut check' and questioning who can actually make money complicates the claim of strong underlying chip demand justifying an attractive outlook."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Super Micro jumps after positive preliminary results top estimates - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVp3M3BOSHJBVGJQdTlva2Z6NUV3ZkVNRXJHVmdHb2NiOVJjRmhoaDBxcW9EeDM4LUxkZ2haU2pJUXM0b3FTalFzY0hETFc4U0FaVVpLNzhELWdKVUY5UEJDMklNSExDcG5XVVpsLVNwLVBNX3FKM295WThwaGhHeWR5U3czMktpWjNMbWZUbm1WVWZhOU1fVmM2R0gxUVhFanhwZlU0d2Z5RVR6b3c?oc=5",
+          "published": "2026-10-21T14:12:01+00:00",
+          "reason": "Super Micro jumping after posting positive preliminary results that top estimates supports the claim that underlying chip and AI-related hardware demand remains strong."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Nasdaq 100 climbs as SpaceX results fuel AI trade - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNm0tcG1zazJEVmNmeUNxR2tyclVlZ0hxSHd0YTczZW9yQXRVaXkxQWM1VExiV2xYZ0pRem5hSnlDSHVsVGI5Q0IwRktoZ0JkaUdkNWhHeExnZHNYTGhtaVdIc2FKdE9VUmwxLTdjREgxM285QTk5aVBBSmRvaVBwd0p0R0JwbmtXZ1BjQUkyMTZBU1Nvamp0bW13?oc=5",
+          "published": "2026-10-21T14:28:57+00:00",
+          "reason": "The Nasdaq 100 climbing as SpaceX results fuel the AI trade supports positive sentiment surrounding the broader AI and tech sector underlying the semiconductor outlook."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: United Great Dragon Fund",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
