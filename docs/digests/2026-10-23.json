@@ -1,0 +1,426 @@
+{
+  "date": "2026-10-23",
+  "run_ids": [
+    39868896848
+  ],
+  "generated_at_utc": "2026-10-22T23:15:40.125508Z",
+  "tracked_count": 25,
+  "findings_count": 38,
+  "articles": [
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Final Trades: Zscaler, ServiceNow and Spotify - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWFsNWR0WFZnczZIdjVGWnBRSnlZYWdwSVdsM21STFFXREFGOEhnczFNdnhmZG5uT21ERkxnN1REV24wcGdpN3k3aG5RV0VQMDNIMG5zY3E5VU0xUFc5MG9RZk9INzRhN2hPOEtWUkg3b0xXY3FGQ3dkWDN2b2tQWmFXV1F4MjhrRlJmNzIxQQ?oc=5",
+          "published": "2026-10-22T16:40:56+00:00",
+          "reason": "The article explicitly lists ServiceNow as a subject of market focus alongside Zscaler and Spotify, reflecting ongoing investor attention to its market position."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Sellers are back in tech, while bear market grips Chinese stocks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVhLd280Zkh5SUhrN3NKZm1hbi1sdVdtZWpjdXBzTW5RaHNZSDdxZWN6THpqa0VMbnRUOUxYRUdZZjZ5VDU3a0pHMjVDT2tXNnpqZ01TQS1tNmtCRnk1dTczeVlqUkVEcUxzN3ZSSEhYcElKdllQOV91VncwMFpzUlVoNjJtVWZHYTVDZEN4dnVRRGtiR01IZ05sSWlhYjNTQlHSAacBQVVfeXFMTTRnSXJqcUxmcndqY09xelgxOVVyVGIyMWF2YnRQS2VqRUV4QWQtVGNSSXZqbHE2VnBHOHNkM2pJQ2R3TFFtaG1pOVdnZGVnaC0yR1QtMmtCbUpFVXMxYUItczU0aXQweTBVSElvWVU2SHFPVDFvRy1ucEkwdGh6MVRZRWZCT0xaMjZTelJFaldPV1ZSS1ZJQW5oeHlhTFVjYVE3UTZrMkU?oc=5",
+          "published": "2026-10-22T11:45:44+00:00",
+          "reason": "The article states that a \"bear market grips Chinese stocks,\" which contradicts the expectation that China's new energy sector and related ETFs will perform well."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+          "published": "2026-10-22T03:30:00+00:00",
+          "reason": "The article reports that \"China's stock market sinks into bear territory as CSI 300 extends 10-week rout,\" undermining the bullish thesis for Chinese equity ETFs."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnpHYjFFT2R2VTd0Z0RoenNaWWxJTF8yZlBLQkdpRFJycnBBd2FOd3pHd3hWdTR6cWJZODZvYzFYSDRZLWxHUS1hLUtqYjBmaF9RVXhsU1A1bTFaOUJYNlNsUjFCcWxpWmRRcEpxT2ctNHhWdXZXREFlNXRURDJQVNIBhgFBVV95cUxOeTkxTjZCd1RvNmtJaE9TQkdXM3dCSmt1Mm1CN2x3cUdFTTBFQ0J2RVpQQUQ1QWxZZVhMUVVOZElhUGtOU09hd2F5MkhuV1lzZEIxVkY5WHR0VzlhX1BqZXNPRHNRcVNBbE1YTS00eXlWVnB4ekVSVjRYR3hoVmNjUWRVQ3NRZw?oc=5",
+          "published": "2026-10-22T00:47:00+00:00",
+          "reason": "The article highlights that \"Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump,\" supporting positive sentiment for Chinese market assets."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen jumps as oil, AI and France worries rattle markets - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQR09RQTZfM2hsY0RpVU4yREwyRVFmeHMtX2RDSmltRTFyV29zeTZ5aFZhWXNsenF0ZnpBeU5VbUFTNWE1RjJ1UEJnS1pGT01rOUhGVFhtcXFQSktHMjhZMzI2ZUdQVTVsWlptTXpYc2VzYjRCSDhLQW5MSC1RdWl2azJYbkdZNEdjWXdZM0RxbXdpNU3SAZgBQVVfeXFMUHhSN3NaaF9pREhTTWUyMmppS015cXI4S3E5MEd6ZjBBRExGUnNuMEh4ckhlNmFhempXb1JRV3YxTHFfZ3BQSzlhVlh3ZlhHcTRIYzM1Wmo0ampNVEFGOUdPNm80c2NVRUpmSUFpQzhVWV9tYXdtQ2EzTWhkeGJlTW9CdGZVaFAwRzhvOUpOVVhCSjh5R29pWTg?oc=5",
+          "published": "2026-10-22T04:32:42+00:00",
+          "reason": "The article reports that the \"Yen jumps as oil, AI and France worries rattle markets,\" indicating currency volatility and shifting market dynamics related to interest rate expectations."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Singapore dollar gains on yen as carry funder, analysts say - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOU9CR2g1bUpIV3FYZUlucDM0WjZhNm1sTHBMNVQzZ1JpSkl6Wm9ZVXEwM1FFVTdDOVFXcnVOZVhRWkVFVEFFbnppc2pjXzFnUHpzbDcwNnVIUkNNUnlEX1hnbTZtQTNYRFBuX1dGRm1uQkRxZWtOeUtwNy1fV3ltbWprLUJjS0EtbjJHY205enVLVmRjTWEwVGk2UUI2eEJuOVln?oc=5",
+          "published": "2026-10-22T04:10:19+00:00",
+          "reason": "The article notes that the \"Singapore dollar gains on yen as carry funder,\" reflecting the impact of changing Japanese monetary policy and carry trade dynamics."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Singapore dollar gains on yen as carry funder, analysts say - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16SXR2NGpNMzY3ZnVfdkZENG95NmdZQ1h3Q3RucGxFOXZoNlFfcXkwM1BlcjkzaGFtZ1gxNHhjUjAzNEF6SjFsX1Z4NHZXd24tYWJn?oc=5",
+          "published": "2026-10-22T04:10:16+00:00",
+          "reason": "The article confirms that the \"Singapore dollar gains on yen as carry funder,\" acknowledging ongoing adjustments in yen-funded positions."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Cover Story: Budget 2027 Highlights - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UV0JsVGVqdS1rdTNPMXZac1FXUDV5eHRCeWFWRHQyMkFibWRDY3JZUXpVaTBfVi1LYnIyN1g0WndSOHFZS3lVempWQUpWd3RkODRN?oc=5",
+          "published": "2026-10-22T06:00:00+00:00",
+          "reason": "The article covers \"Budget 2027 Highlights,\" which includes fiscal allocations and policies affecting the Malaysian healthcare sector's growth and operational environment."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Cover Story: Regulators and industry leaders\u2019 take on the budget - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZRmF1QVlzT25zcVlrOUtLMkRaMV9nc1pqNjA2bmlpMl96QjhVandWRHlfbk9zWWdDRWY3WUJrUV9SV1pRMGNyMnozTU9CT3VFQTlv?oc=5",
+          "published": "2026-10-22T06:00:00+00:00",
+          "reason": "The article discusses \"Regulators and industry leaders\u2019 take on the budget,\" providing context on regulatory and financial frameworks influencing Malaysian commercial sectors like healthcare."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Cover Story: More money for households, tougher calls for investors - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vdXBGR3R5U2daeXNwb1FNMGtOWElrbHNQQUY5aUZEM0kyb0J0aGhxX05GeE1pRGFPT3IxZnlYdWh2RldRdFhqWXFqaHdvc2dYeS1B?oc=5",
+          "published": "2026-10-22T06:00:00+00:00",
+          "reason": "The article highlights \"More money for households, tougher calls for investors,\" which relates to consumer purchasing power and healthcare spending pressures in Malaysia."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Sellers are back in tech, while bear market grips Chinese stocks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVhLd280Zkh5SUhrN3NKZm1hbi1sdVdtZWpjdXBzTW5RaHNZSDdxZWN6THpqa0VMbnRUOUxYRUdZZjZ5VDU3a0pHMjVDT2tXNnpqZ01TQS1tNmtCRnk1dTczeVlqUkVEcUxzN3ZSSEhYcElKdllQOV91VncwMFpzUlVoNjJtVWZHYTVDZEN4dnVRRGtiR01IZ05sSWlhYjNTQlHSAacBQVVfeXFMTTRnSXJqcUxmcndqY09xelgxOVVyVGIyMWF2YnRQS2VqRUV4QWQtVGNSSXZqbHE2VnBHOHNkM2pJQ2R3TFFtaG1pOVdnZGVnaC0yR1QtMmtCbUpFVXMxYUItczU0aXQweTBVSElvWVU2SHFPVDFvRy1ucEkwdGh6MVRZRWZCT0xaMjZTelJFaldPV1ZSS1ZJQW5oeHlhTFVjYVE3UTZrMkU?oc=5",
+          "published": "2026-10-22T11:45:44+00:00",
+          "reason": "The article reports that a bear market is gripping Chinese stocks, which directly contradicts the claim of strong performance for the AHAM New China Tracker Fund."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+          "published": "2026-10-22T03:30:00+00:00",
+          "reason": "The article states that China's stock market is sinking into bear territory as the CSI 300 extends a 10-week rout, conflicting with the idea of strong fund performance."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese stocks enter bear market as tech slumps, policy hopes ebb - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmRLRWttNmNqYVFtdXlDYVdyOFFiNjNfa1hOOUdoN3BpUVVUYlcwN0U5blNxamNQQUZXQzB2WHg0TDN2bTV1SGdONFR4a1ZuMmpmWVRNdWdvZ3JESUZncUl3Y3JUOGo0N2t6a2hfNnVrWkVVT1lKVFVfNXg4RDBpQTlEUG50MkhTUjNTQjBZcG1iUk50dVZfOWY1Mkx2ckJVeHFv?oc=5",
+          "published": "2026-10-22T09:11:00+00:00",
+          "reason": "The article reports that Chinese stocks are entering a bear market as tech slumps and policy hopes ebb, contradicting the claim of strong performance."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese stocks set for bear market as AI trade, policy hopes fade - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52b1V3ZWM4SHg1X012cm1Sel9pb1BGY0RzRHdRQVdCVzBYdXJRa2JMbndPVXR0OWtJMTZkUEtFTDlKNmNLUXNvdEVpaXpfOUtiTXBr?oc=5",
+          "published": "2026-10-22T04:27:57+00:00",
+          "reason": "The article notes that Chinese stocks are set for a bear market as policy hopes fade, undercutting the claim of strong performance in Chinese sectors."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "IJM said to have bagged K2 data centre construction job - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTndoYTRkRF9rNnNBSnUwRGhmbTdmUkwyQURIWm90cjJOVnM4bGZtMkdLdmw3eE9fbGZULThZcFphVGVpX0plbm4xaEQwLW9pSDF5LWdzaGZGR0Y2a0VuZDdOUm9oWmJtZlFCZGRtZjFjTGFDQzhYNHNsMjVCQ1FVbUxEWEtwZXFzSTdBeVllbk1FWkhHNUgxOEN0U2lwSUdzeWE1RUtSVndfa0NmakRtR2JGRQ?oc=5",
+          "published": "2026-10-22T05:13:15+00:00",
+          "reason": "The article reports that IJM has bagged a data centre construction job (the K2 data centre), which aligns directly with the claim that data centres are key structural growth drivers for the Malaysian construction sector."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "US 10-year yield falls below 5% as investors flock to safe havens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3JVM3BkdTFsV0xuSU9xbVpvdnRKN3NPRk5JNVcxSzZDZEhIRzV3bFdyYUZMcERxbUpyQU5qT2NOVUtpZzV4RUJZWGs5c0tlQ243WXg2MG1yR3QyZHNCd29kWlhrcmxVY2pBZ2pBN0gxQXB4S2V3MWRLTXhJSGpVMUQ5RDNuUFZlNzg0N1U0ZW9tOU1lcGhHcXhhUGROQ1psOUxWUmhPR0ZKQTFoZnhkMUE2SDAzVy1Y?oc=5",
+          "published": "2026-10-22T16:35:07+00:00",
+          "reason": "The article reports that the US 10-year yield fell below 5%, supporting the discussion on bond markets and interest rate dynamics mentioned in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "US 10-year yield falls below 5% as investors flock to safe havens - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13QXdOZGk0amJ5RGJxRmRJdElxR05HNk1uZnRlbHY4XzRMNm1Ba2VKN1hDLWFXRExGTThYb2tMQVM1a2hRSGRjMzlKUHhKUHB6Q0JV?oc=5",
+          "published": "2026-10-22T16:34:39+00:00",
+          "reason": "The article confirms that the US 10-year yield fell below 5% as investors sought safe havens, aligning with the bond market context in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnpHYjFFT2R2VTd0Z0RoenNaWWxJTF8yZlBLQkdpRFJycnBBd2FOd3pHd3hWdTR6cWJZODZvYzFYSDRZLWxHUS1hLUtqYjBmaF9RVXhsU1A1bTFaOUJYNlNsUjFCcWxpWmRRcEpxT2ctNHhWdXZXREFlNXRURDJQVNIBhgFBVV95cUxOeTkxTjZCd1RvNmtJaE9TQkdXM3dCSmt1Mm1CN2x3cUdFTTBFQ0J2RVpQQUQ1QWxZZVhMUVVOZElhUGtOU09hd2F5MkhuV1lzZEIxVkY5WHR0VzlhX1BqZXNPRHNRcVNBbE1YTS00eXlWVnB4ekVSVjRYR3hoVmNjUWRVQ3NRZw?oc=5",
+          "published": "2026-10-22T00:47:00+00:00",
+          "reason": "The article notes that sovereign wealth funds' China and Hong Kong investments surged 190%, providing broader market support for investments in the region including sectors like renewable energy."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Brent crude tops $113, highest level since May, after Trump hints at action on Iran - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjhnTDQ4QTM5cWtlRjN1MXFlOU5yQVlVd3F0M0pDNExkV29mV1duQUpSUjFiaXFuajRkNHRSc1EtaTBzemJOUElXbDhYUTRnSWlrdm1TRUxtQXEwdjM3blp5QnlVOFZJWnAyYjY1dTRwX3UycVZoMHJIWFZaUEZJNnRn0gGHAUFVX3lxTFBBRTI0YmhMaFkybjlPdGczT3I3cVlXX2xLcktrcjJEUVNueUY3QmNldksyRjFaWGtvUm1KUjVua2VibWMxcU5FWHpBakZCSWt2MXhUM0ZYd1FJeE1sLUtwREJ2Y1lldkxOdXZ6UGFqS2pwUksxZS1YLU1XUFNsTzBBMUJwRXAydw?oc=5",
+          "published": "2026-10-22T05:12:19+00:00",
+          "reason": "The article reports Brent crude topping $113, which aligns with the claim's mention of Brent crude spiking above USD115/barrel."
+        }
+      ]
+    },
+    {
+      "title": "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+      "fsmone_url": "https://www.fsmone.com.my/article/397060",
+      "claim_summary": "Micron's price target has been raised to USD 1,761 alongside a reiterated BUY rating following record quarterly financial results and elevated guidance. The thesis posits that surging AI-driven demand for High Bandwidth Memory (HBM) and enterprise SSDs, combined with constrained memory supply growth and expanding customer agreements, will sustain earnings expansion and moderate the traditional cyclical downturn.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y?oc=5",
+          "published": "2026-10-22T13:12:38+00:00",
+          "reason": "Nvidia's Jensen Huang states he sees no sign of a memory glut, supporting the thesis of sustained high demand for memory components like HBM."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Huawei gets US$2.3 bil offshore loan as chip spending soars \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalY2TGZnS1FwSEZCZ1pFSzZOdFFOcDcxQ044M01IYmo3aHRCSk9mMElYVVkzMWN2WFgzZmNpS2hjT0VRb0dxSlRBMGg5UEFEM0gzenlWUm5vSmxYdDdzZkNZYVdvSmZESkdNNVV1eXZYdHY5OGlpNXZJX1VUNGsxYXJxYUdLWlFXeEVMU2hFekJsZHd4bHdMUFR2TGtLX2pNYTQzXzNpOVZRLTJXZ3c?oc=5",
+          "published": "2026-10-22T08:06:53+00:00",
+          "reason": "The article reports that chip spending is soaring and Huawei secured a large offshore loan, aligning with strong demand trends in the semiconductor sector."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Sellers are back in tech, while bear market grips Chinese stocks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVhLd280Zkh5SUhrN3NKZm1hbi1sdVdtZWpjdXBzTW5RaHNZSDdxZWN6THpqa0VMbnRUOUxYRUdZZjZ5VDU3a0pHMjVDT2tXNnpqZ01TQS1tNmtCRnk1dTczeVlqUkVEcUxzN3ZSSEhYcElKdllQOV91VncwMFpzUlVoNjJtVWZHYTVDZEN4dnVRRGtiR01IZ05sSWlhYjNTQlHSAacBQVVfeXFMTTRnSXJqcUxmcndqY09xelgxOVVyVGIyMWF2YnRQS2VqRUV4QWQtVGNSSXZqbHE2VnBHOHNkM2pJQ2R3TFFtaG1pOVdnZGVnaC0yR1QtMmtCbUpFVXMxYUItczU0aXQweTBVSElvWVU2SHFPVDFvRy1ucEkwdGh6MVRZRWZCT0xaMjZTelJFaldPV1ZSS1ZJQW5oeHlhTFVjYVE3UTZrMkU?oc=5",
+          "published": "2026-10-22T11:45:44+00:00",
+          "reason": "The article explicitly states that a bear market grips Chinese stocks, directly contradicting the tactical opportunity claim for Chinese tech equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+          "published": "2026-10-22T03:30:00+00:00",
+          "reason": "The report notes that China's stock market is sinking into bear territory as the CSI 300 extends its rout, undercutting a positive outlook for the asset class."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnpHYjFFT2R2VTd0Z0RoenNaWWxJTF8yZlBLQkdpRFJycnBBd2FOd3pHd3hWdTR6cWJZODZvYzFYSDRZLWxHUS1hLUtqYjBmaF9RVXhsU1A1bTFaOUJYNlNsUjFCcWxpWmRRcEpxT2ctNHhWdXZXREFlNXRURDJQVNIBhgFBVV95cUxOeTkxTjZCd1RvNmtJaE9TQkdXM3dCSmt1Mm1CN2x3cUdFTTBFQ0J2RVpQQUQ1QWxZZVhMUVVOZElhUGtOU09hd2F5MkhuV1lzZEIxVkY5WHR0VzlhX1BqZXNPRHNRcVNBbE1YTS00eXlWVnB4ekVSVjRYR3hoVmNjUWRVQ3NRZw?oc=5",
+          "published": "2026-10-22T00:47:00+00:00",
+          "reason": "The article mentions that sovereign wealth funds' China and Hong Kong investments surged 190%, supporting the thesis of growing interest despite recent market slumps."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese stocks set for bear market as AI trade, policy hopes fade - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52b1V3ZWM4SHg1X012cm1Sel9pb1BGY0RzRHdRQVdCVzBYdXJRa2JMbndPVXR0OWtJMTZkUEtFTDlKNmNLUXNvdEVpaXpfOUtiTXBr?oc=5",
+          "published": "2026-10-22T04:27:57+00:00",
+          "reason": "Chinese stocks are reported to be set for a bear market as policy hopes fade, undermining the tactical upside case."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese stocks enter bear market as tech slumps, policy hopes ebb - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmRLRWttNmNqYVFtdXlDYVdyOFFiNjNfa1hOOUdoN3BpUVVUYlcwN0U5blNxamNQQUZXQzB2WHg0TDN2bTV1SGdONFR4a1ZuMmpmWVRNdWdvZ3JESUZncUl3Y3JUOGo0N2t6a2hfNnVrWkVVT1lKVFVfNXg4RDBpQTlEUG50MkhTUjNTQjBZcG1iUk50dVZfOWY1Mkx2ckJVeHFv?oc=5",
+          "published": "2026-10-22T09:11:00+00:00",
+          "reason": "The piece confirms that Chinese stocks have entered a bear market due to tech slumps and ebbing policy hopes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Chinese quant fund Lingjun draws US$300 million from overseas investors - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBNcXVBUXowU2pJajlFWGQ0clFYaXFETHVnNFZNcFlBOG1RcXB3amU3YWtmckl2bFpEeE5uTUh0QnlNUDE0V1l2T1lZaExXeWx4NHpZ?oc=5",
+          "published": "2026-10-22T06:30:29+00:00",
+          "reason": "Chinese quant fund Lingjun draws US$300 million from overseas investors, showing continued capital allocation interest despite broader market headwinds."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese stocks enter bear market as tech slumps, policy hopes ebb - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmRLRWttNmNqYVFtdXlDYVdyOFFiNjNfa1hOOUdoN3BpUVVUYlcwN0U5blNxamNQQUZXQzB2WHg0TDN2bTV1SGdONFR4a1ZuMmpmWVRNdWdvZ3JESUZncUl3Y3JUOGo0N2t6a2hfNnVrWkVVT1lKVFVfNXg4RDBpQTlEUG50MkhTUjNTQjBZcG1iUk50dVZfOWY1Mkx2ckJVeHFv?oc=5",
+          "published": "2026-10-22T09:11:00+00:00",
+          "reason": "The article states that Chinese stocks enter a bear market as tech slumps and policy hopes ebb, which directly contradicts the claim that China A-share Information Technology represents an attractive tactical opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese stocks set for bear market as AI trade, policy hopes fade - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52b1V3ZWM4SHg1X012cm1Sel9pb1BGY0RzRHdRQVdCVzBYdXJRa2JMbndPVXR0OWtJMTZkUEtFTDlKNmNLUXNvdEVpaXpfOUtiTXBr?oc=5",
+          "published": "2026-10-22T04:27:57+00:00",
+          "reason": "The article reports that Chinese stocks are set for a bear market as the AI trade and policy hopes fade, undermining the claim of an attractive near-term opportunity in Chinese tech."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Sellers are back in tech, while bear market grips Chinese stocks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTVhLd280Zkh5SUhrN3NKZm1hbi1sdVdtZWpjdXBzTW5RaHNZSDdxZWN6THpqa0VMbnRUOUxYRUdZZjZ5VDU3a0pHMjVDT2tXNnpqZ01TQS1tNmtCRnk1dTczeVlqUkVEcUxzN3ZSSEhYcElKdllQOV91VncwMFpzUlVoNjJtVWZHYTVDZEN4dnVRRGtiR01IZ05sSWlhYjNTQlHSAacBQVVfeXFMTTRnSXJqcUxmcndqY09xelgxOVVyVGIyMWF2YnRQS2VqRUV4QWQtVGNSSXZqbHE2VnBHOHNkM2pJQ2R3TFFtaG1pOVdnZGVnaC0yR1QtMmtCbUpFVXMxYUItczU0aXQweTBVSElvWVU2SHFPVDFvRy1ucEkwdGh6MVRZRWZCT0xaMjZTelJFaldPV1ZSS1ZJQW5oeHlhTFVjYVE3UTZrMkU?oc=5",
+          "published": "2026-10-22T11:45:44+00:00",
+          "reason": "The article notes that sellers are back in tech and a bear market grips Chinese stocks, contradicting the positive tactical outlook for Chinese tech ETFs."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China's stock market sinks into bear territory as CSI 300 extends 10-week rout - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWmt2MnVkcmdCNXBPMzNIaHJwWlFIV2J2SU5pNk52MENwNi10dW56Q2duNHZBc181R1BQeXBQNlQwSzY0V2RSWlR1U3k4OFdRMDJyR25tTEVveUVCNWl4d08tVXhZY3BKTmFVNXA2V3BNMGpjSmxUZ09SOGtFc29MS1Fn0gGHAUFVX3lxTE9JbzZ4T01zVW93dG8xM0Q1TUtoU1hCYWVULTVQX285THphbnRNYWdvVVp5Wml4VDBGSlBHUFdEZFlHOU1TSWZFR1ZXUFVJVl9xbDRGeTBjUUkzY21fTVp4ZXpTSW9rdDBNNUZlY2QzMll0VGtyM1lVYnNFM0JoVFlhZ3NvX3pjRQ?oc=5",
+          "published": "2026-10-22T03:30:00+00:00",
+          "reason": "The article states that China's stock market sinks into bear territory as the CSI 300 extends a 10-week rout, contradicting the claim of an attractive investment opportunity."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Sovereign wealth funds' China and Hong Kong investments surge 190% after a bruising slump - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnpHYjFFT2R2VTd0Z0RoenNaWWxJTF8yZlBLQkdpRFJycnBBd2FOd3pHd3hWdTR6cWJZODZvYzFYSDRZLWxHUS1hLUtqYjBmaF9RVXhsU1A1bTFaOUJYNlNsUjFCcWxpWmRRcEpxT2ctNHhWdXZXREFlNXRURDJQVNIBhgFBVV95cUxOeTkxTjZCd1RvNmtJaE9TQkdXM3dCSmt1Mm1CN2x3cUdFTTBFQ0J2RVpQQUQ1QWxZZVhMUVVOZElhUGtOU09hd2F5MkhuV1lzZEIxVkY5WHR0VzlhX1BqZXNPRHNRcVNBbE1YTS00eXlWVnB4ekVSVjRYR3hoVmNjUWRVQ3NRZw?oc=5",
+          "published": "2026-10-22T00:47:00+00:00",
+          "reason": "The article notes a surge in sovereign wealth fund investments in China and Hong Kong following a bruising slump, providing factual backing for buying into beaten-down Chinese markets."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "EU nears market securitisation reform in bid to unleash billions - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4MUY1Um5iM2dvUGxXbzdMalpoSTRXVjZuT3puWGtta29aX0VEWEJZbUt6X1p4VnBpNUpCNWhYbi1WV2JCbHNZOGVkaVR1amsybjgw?oc=5",
+          "published": "2026-10-22T02:39:07+00:00",
+          "reason": "The article discusses the EU nearing market securitisation reform in a bid to unleash billions, which aligns with financial sector developments and regulatory updates relevant to global financials."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia's Jensen Huang says he sees no sign of a 2029 memory glut: 'You can always use more' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPT2F6ekhMbjE1SFdLRUhlWE5xVnlBVE80VmVCaldMMXhhQzB3dGxuTDdGbXNhakQ3cUhCWFpidWdkdUFxcDE2WDlwVlFlWFpOOUY1Vk5OMDdFRGdNbTM4NkhSRm93bE9rQW1RVEQzSXB6LVRMM0QtdmJxWDhxVFVqV0Zkay1EMFXSAYwBQVVfeXFMT2ZPbWM0aDdnNUxPTFRhSGxBTkFCQlI1c3R2MGtlQWdCdWRvTEZ4amw3MW40NTVIQU5JRVRGSDlsbTRTaW1wc1dZQWgwLUl4MVd4THZxTVk5Z1Zzd1lhbFFtSjYzbXF6RzEyTkxVRV9mTzQ4LUlsbDJnQ0E5dFJHMW1mNVZWc1VMeWJTT1Y?oc=5",
+          "published": "2026-10-22T13:12:38+00:00",
+          "reason": "Nvidia's Jensen Huang states he sees no sign of a 2029 memory glut and that 'you can always use more', directly supporting strong underlying chip demand data."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "US 10-year yield falls below 5% as investors flock to safe havens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3JVM3BkdTFsV0xuSU9xbVpvdnRKN3NPRk5JNVcxSzZDZEhIRzV3bFdyYUZMcERxbUpyQU5qT2NOVUtpZzV4RUJZWGs5c0tlQ243WXg2MG1yR3QyZHNCd29kWlhrcmxVY2pBZ2pBN0gxQXB4S2V3MWRLTXhJSGpVMUQ5RDNuUFZlNzg0N1U0ZW9tOU1lcGhHcXhhUGROQ1psOUxWUmhPR0ZKQTFoZnhkMUE2SDAzVy1Y?oc=5",
+          "published": "2026-10-22T16:35:07+00:00",
+          "reason": "The article reports that the US 10-year yield falls below 5% as investors flock to safe havens, contradicting the claim that surging bond yields were driving declines."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "US 10-year yield falls below 5% as investors flock to safe havens - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13QXdOZGk0amJ5RGJxRmRJdElxR05HNk1uZnRlbHY4XzRMNm1Ba2VKN1hDLWFXRExGTThYb2tMQVM1a2hRSGRjMzlKUHhKUHB6Q0JV?oc=5",
+          "published": "2026-10-22T16:34:39+00:00",
+          "reason": "The article notes that the US 10-year yield falls below 5%, which contradicts the premise of surging bond yields driving weekly semiconductor declines."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Huawei gets US$2.3 bil offshore loan as chip spending soars \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalY2TGZnS1FwSEZCZ1pFSzZOdFFOcDcxQ044M01IYmo3aHRCSk9mMElYVVkzMWN2WFgzZmNpS2hjT0VRb0dxSlRBMGg5UEFEM0gzenlWUm5vSmxYdDdzZkNZYVdvSmZESkdNNVV1eXZYdHY5OGlpNXZJX1VUNGsxYXJxYUdLWlFXeEVMU2hFekJsZHd4bHdMUFR2TGtLX2pNYTQzXzNpOVZRLTJXZ3c?oc=5",
+          "published": "2026-10-22T08:06:53+00:00",
+          "reason": "The article reports that Huawei gets a US$2.3 billion offshore loan as chip spending soars, providing direct evidence of robust underlying chip demand and spending."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Huawei gets US$2.3 bil offshore loan as chip spending soars - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyWElKeXdVWFdweDN4bEx1Zm9pUEJibVNVU0g3dWgwNERYVjJoVUhkWlcwMUVHYUE2NXVlU2pyOTk4ZGJ6TEpaM2txZGZzSVlDUGlB?oc=5",
+          "published": "2026-10-22T08:05:19+00:00",
+          "reason": "The report highlights that Huawei secured a US$2.3 billion offshore loan as chip spending soars, supporting the thesis of strong underlying demand and investment in the semiconductor space."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Q&A Series: United Great Dragon Fund",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund"
+  ]
+}
