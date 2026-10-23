@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-24",
+  "run_ids": [
+    40037114380
+  ],
+  "generated_at_utc": "2026-10-23T23:21:53.368588Z",
+  "tracked_count": 25,
+  "findings_count": 17,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan core inflation in September surges to its highest this year at 2.1% - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFNlTGc0TGJVaWQxSVFaSzhDazF4WHFhWHBLZ0hrX2NnWGpiYU1MYjZ0ZjJsYUU0SV9fRzVXWHJDby1VZy1vMFU2cUoyb1l3VkI1MVlaZXZCd0tzSFhGLU55cmt0ZnNPSnhka0RpS1UybU5PY3VWdGtmbi0wdUlqbHJLdU7SAYoBQVVfeXFMTW1kam8yWHpZU0lZYkNfYnI5QWwyd2k1a1RXV0RaaXNEemZhckM2T3FCYXlPaXRhS1J1LVJwSzhjT2lvMGxheVdtdVk1aWN4WDhOMjN0VFd2dllpVHJpMmpJU05iUkNBdlpzVER3N0Nob2JzUHhHZlpHWGVLTmswVllYNkF0Zkw5clJR?oc=5",
+          "published": "2026-10-22T23:37:13+00:00",
+          "reason": "The article reports that Japan's core inflation in September surged to 2.1%, which supports the context of economic normalisation leading to the BOJ rate hike."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ub2VQZEd4WjA1OG5mQy10VmFmMmRSc1RvS0haX1F4QnN6cjdudzRIbW00V0RRTV9nV3M5bjN3eHY3S2hKM1NDdkpFNDZBVjRKLVZZ?oc=5",
+          "published": "2026-10-23T01:45:59+00:00",
+          "reason": "The article explicitly states that Japan's core inflation exceeds the BOJ target and cements near-term rate hike chances, supporting the BOJ policy normalisation claim."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan core inflation in September surges to its highest this year at 2.1% - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcFNlTGc0TGJVaWQxSVFaSzhDazF4WHFhWHBLZ0hrX2NnWGpiYU1MYjZ0ZjJsYUU0SV9fRzVXWHJDby1VZy1vMFU2cUoyb1l3VkI1MVlaZXZCd0tzSFhGLU55cmt0ZnNPSnhka0RpS1UybU5PY3VWdGtmbi0wdUlqbHJLdU7SAYoBQVVfeXFMTW1kam8yWHpZU0lZYkNfYnI5QWwyd2k1a1RXV0RaaXNEemZhckM2T3FCYXlPaXRhS1J1LVJwSzhjT2lvMGxheVdtdVk1aWN4WDhOMjN0VFd2dllpVHJpMmpJU05iUkNBdlpzVER3N0Nob2JzUHhHZlpHWGVLTmswVllYNkF0Zkw5clJR?oc=5",
+          "published": "2026-10-22T23:37:13+00:00",
+          "reason": "The article reports that Japan's core inflation in September surged to its highest this year at 2.1%, supporting the Bank of Japan's core inflation projection at or above 2%."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan's core inflation exceeds BOJ target, cements near-term rate hike chance - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ub2VQZEd4WjA1OG5mQy10VmFmMmRSc1RvS0haX1F4QnN6cjdudzRIbW00V0RRTV9nV3M5bjN3eHY3S2hKM1NDdkpFNDZBVjRKLVZZ?oc=5",
+          "published": "2026-10-23T01:45:59+00:00",
+          "reason": "The article states that Japan's core inflation exceeds the BOJ target, cementing near-term rate hike chances, aligning with the claim that additional rate hikes remain on the table."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Data centre spending to more than double to US$2.1 tril by 2028 - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tN2ZqcjNUejBvZHBSRjN0eFB2V0ppVy1fWXFXNnlpazB6RFp4bVRiaEJkb2tMT0tZcEM0Tm52V2lZaWJxU1Y4cS11RXJSU1kzRHdB?oc=5",
+          "published": "2026-10-23T15:11:35+00:00",
+          "reason": "The article discusses data centre spending more than doubling to US$2.1 trillion by 2028, reinforcing the claim that data centres remain a key structural growth driver."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+      "fsmone_url": "https://www.fsmone.com.my/article/381902",
+      "claim_summary": "ServiceNow's 2Q26 financial results validate the company's enterprise AI monetization strategy amid resilient software demand, though profitability faces headwinds from compressed subscription gross margins and execution risks surrounding the integration of its AI Control Tower.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AI monetization story is alive and well, says Gabelli Funds' Belton - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTzAyR1ZCVThwclp4MWRRTzNNYnhoeDJMcDk2cTB4MzFJdFpyVWxKYkxZOUFEU2NKWTZMdnFjR2s0ZVNpU0xUUWJuZkQ2WktmWGZmVTVsOFpPR3VQQnNZdVlrQnVkOG9Nb2U3ZW9HTmZnM3NxSFN0b1NrUjJoSUZnZ0NmQkNzTm51Z2Q4Y3gyUlozMGZHSG5wTF9CVXV3emlXSXUta2xTck5rdWtS?oc=5",
+          "published": "2026-10-23T20:21:35+00:00",
+          "reason": "The article's discussion on the AI monetization story remaining alive and well supports ServiceNow's enterprise AI monetization strategy."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "US stocks fall as oil rally keeps a lid on Treasuries - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ1B4VGVpaWtQYmEwTGJuNkdydmUxcTJiV05sRU51TVZFeEpLT0pLSVM5eHRFNzltR2FGRzNLLXJHMXVmU0p0dzdRbVdIRXNyOU9NNmFTVU9yQTQ4X2poelNoXzM3YVd5QUtRR3ZyaDNZY2RhQnlRZ3VsZE4xUzZuV09HYVVwZENIUDFzMTlCVVpmX1NXNDQ2dA?oc=5",
+          "published": "2026-10-23T16:23:00+00:00",
+          "reason": "The article reports that US stocks fall as an oil rally keeps a lid on Treasuries, indicating ongoing pressures from an energy shock and rate headwinds rather than a smooth bond market rebound."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "AI tech fears push global credit spreads to 17-month high - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVEhXMWw0Y29iZlJZM1cxZ19VRmp5YVQ2dENxX0RnNXVodlcxUFRfbEZQRGtDT3hXa204Y05IVHl3QkJwQmVKZ2ZJci03cUd0TUh6MTRLaDl3NEVBLWNYc1B1c2JBQ2g0dDV1M0JXQjh0UnhMX0l6WHNvNGxxRzZFOGRHd3RoQVJza0VTWmNQZzB0Q1lUQUwtVWE2cWJaY0ZTb1NaOExsaE9WMno2cnhSa3B5TQ?oc=5",
+          "published": "2026-10-23T12:03:49+00:00",
+          "reason": "The article states that AI tech fears pushed global credit spreads to a 17-month high, contradicting the stability implied for investment-grade credit and bond recoveries."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "AI tech fears push global credit spreads to 17-month high - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55S1laY0FYcExJM3RjeWFsR3dwUkxXeU8ycXZVV1J5UnI3VDhRbUVDM0xFRHEtQ1M0ejNtNzV5dXF6QVcyTGg2TXFFQVRzcjhoYlJn?oc=5",
+          "published": "2026-10-23T12:03:21+00:00",
+          "reason": "The article notes that AI tech fears pushed global credit spreads to a 17-month high, conflicting with the favourable conditions cited for bond funds."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSVBHUDhjeG5sQkpOblUzQm9hSTdWRkduWHJwNXdibUgyM1FHNEtJeFpnWEVQclk1czRKV2hLbHNGS2FYem5sRzJ0N0sxakctZld4QmN4UnozQ2h3ZGFBcE1NZDdESDVRTkVQSTRVMUdxbUtHTnk2anV6Z3h4cmtmOU5COXTSAYoBQVVfeXFMT1RHRzc0UlM1VlFlakxiSU51Mk9FTXNoYndtX2tpb3RNQVNRQ1J5dGs2YnFYQUFxa0I3UUV4OHNkZFBRTVhGcjJ2SWpuQldna1VuM2VqQngyMHJXTW1YWXlPbUY4UE9CZklMbFdwQzdiMGlhS0xteVoydTEwNGlKdzhDSFRKQnZiNXJR?oc=5",
+          "published": "2026-10-23T09:02:44+00:00",
+          "reason": "The article reports that Brent crude oil topped $116 as tensions swelled in the Middle East, aligning with the claim's mention of Brent crude spiking above USD 115/barrel in April 2026."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow: Up 43%, is NOW still a BUY?",
+      "fsmone_url": "https://www.fsmone.com.my/article/392820",
+      "claim_summary": "ServiceNow (NOW) maintains a reiterated BUY rating with an upgraded price target of USD 161 following a 43% rally, supported by its ability to monetize AI capabilities within enterprise software. The core thesis projects further valuation re-rating contingent on concrete financial evidence emerging by 3Q26.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Calls of the Day: SpaceX and ServiceNow - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNEVGRkk3a0Zkd1pYbFc5a1FFbHJlMG5taHYzcDhuX2RVM1ZBRGJlZzlySk55TnZNV20xdjBscC1HZDQwNlBWQ2oyQW9iay1JNHRNcWdFRVJhN1k2TmgwbTlKM1hkWjd1MDJsV2ZtOXdHb0tfNVpVd2J1Rkw4Q1hObTNFdVRnWmhU?oc=5",
+          "published": "2026-10-23T16:41:03+00:00",
+          "reason": "The article specifically references analyst calls regarding ServiceNow, corresponding to the reiterated BUY rating and upgraded price target discussed in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Here are Friday's biggest analyst calls: Nvidia, SpaceX, CoreWeave, Deckers, Unusual Machines & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlE5Q0stSFpOZE5TQXJUN2VoeFRYREdtUDN6OHI1Q3N1R3o3bFNQZm0ta01LSDRGeEhwMm9nR2pSRHJWa0d3cUdiTVpkZThtNndsUmpkLUpkbzVsdkFQcFVoT3o2amF6bVc4dlQ1OWM5b0FzWExlNXFueUZ5ZkRyWXdlYUV3WXVMenVaWW9TSnIxWXZ0MGJrMjdvZG82NWs?oc=5",
+          "published": "2026-10-23T12:15:45+00:00",
+          "reason": "The article highlights major analyst calls featuring ServiceNow alongside other key equities, supporting the market attention and valuation thesis mentioned."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China said to tighten scrutiny of listed company spinoffs \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeWNDZHEtbFJNQzMxbF96cktpV1Ytc2QyR3gxNTY1QzhPRTFsR1NucTFaUFdKNTZxcDJrUHlqcjVWbXQ2STlpZnVTUVBGNlNEeDNMdzBqQ0lBMG9BS3Q5SHo0bjhURVBlNWdXWEh6TkN2dXRDM0t5Tk1LQThrUnB3aGxONGoxckVwZHIxcF8zMkdselJmdWM3VUV1TWVWdlJkcFpqNTlhLWk?oc=5",
+          "published": "2026-10-23T02:56:51+00:00",
+          "reason": "The article states that China is tightening scrutiny of listed company spinoffs, which complicates the regulatory environment for Chinese equity investments."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China's US$150 bil AI model stock slump shows no sign of easing - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeEVtM0tzc2dxcVVmVG1Qb2VobnE2NzgtTE82RzZ4aG52TzFLZWpiOFM3QlRvZ0dsZkRINmNmSDhwSmJsNXRTWE52cjM4dU0yRFEyckZpdXYxVXlDZDdMUUk0a1R4VjBJQmZmbERWUGVRQjZBQl9ZQ21CaHdSUFFSRXQwVm1FR2NRSzJRYUdtOTNZTDQ5WjZHQjNMSDh3dm1CLU9pYg?oc=5",
+          "published": "2026-10-23T03:13:19+00:00",
+          "reason": "The article reports that China's US$150 billion AI model stock slump shows no sign of easing, undermining the thesis of a compelling tactical opportunity in Chinese technology equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's US$150 bil AI model stock slump shows no sign of easing - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jbk1jT2JSanJmQy0tR3d1ZmpNQkxCWXdCdHd1Y3c3SlotazhVYTR1aG9qX2NZYUV5Ump4TjQ0SUVZQ3ZjYWdZOG1BWWJmVmtQVTFz?oc=5",
+          "published": "2026-10-23T03:11:08+00:00",
+          "reason": "The article states that China's US$150 billion AI model stock slump shows no sign of easing, contradicting a positive near-term outlook for Chinese tech equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China said to tighten scrutiny of listed company spinoffs \u2014 Bloomberg - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VaHdzT2tINjN6ZlpmRUtCakIxM2FPQ1JIbjlzT0p6R2pCRkxPdTFGcTlDeEJqNXN0X25Gd2Z6UXVJNFlFaWN1N0l0TkdKYjE0cFAw?oc=5",
+          "published": "2026-10-23T03:00:37+00:00",
+          "reason": "The article notes that China is tightening scrutiny of listed company spinoffs, presenting regulatory headwinds for Chinese equities."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Citi wins licence to set up fully-owned China securities unit - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1UU9OT2NBQ0VLX3o2RDdWY21Ia0tlWllsQnpNX1NfbEE1c3RpaTBkRWpZc3praUx3VUwxQWV2dkZZUzgzYlZYcFB3Y0E5dTFWcEZZ?oc=5",
+          "published": "2026-10-23T09:23:57+00:00",
+          "reason": "The article notes Citi winning a licence to set up a fully-owned China securities unit, reflecting ongoing financial sector engagement with China."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund"
+  ]
+}
