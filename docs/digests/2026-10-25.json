@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-25",
+  "run_ids": [
+    40140919358
+  ],
+  "generated_at_utc": "2026-10-24T23:14:19.526795Z",
+  "tracked_count": 25,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Stocks fall as oil rally keeps a lid on Treasuries - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVXl2SjNNbGxXTVNCX2hBWmd2dEZtWGJlNjFpYVI5ZElDdEhtSnVYbkFSMlZNaDZjN1Z1eEFIYVdaWl9JYS1EYnB3UUVGMGJSTy0xTndlTXF4ald1bVRzaW1BYnl3eFU5NnNHb1hHLW9TYm1PUll0NkxXdEh4aUVsQ09kajFsUmgxYk1Cc1JUN2F4VlQ4ODY4RjlwSQ?oc=5",
+          "published": "2026-10-24T01:45:32+00:00",
+          "reason": "The article states that 'Stocks fall as oil rally keeps a lid on Treasuries', which contradicts the claim that bond funds staged a broad rebound as energy shock pressures subsided."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Stocks fall as oil rally keeps a lid on Treasuries - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqaDZuWF9RNEhqWUdkREZGbE12YWJhamVfTmhvNUVJc2tRdWQ3M1VBQ1E2VDJuZklHODBLRlRGMHg2R3FzbXNSUE1VNi0yMmk4cUY0?oc=5",
+          "published": "2026-10-24T01:41:26+00:00",
+          "reason": "The article headline and content regarding 'Stocks fall as oil rally keeps a lid on Treasuries' contradict the narrative of easing energy pressures and a broad bond fund rebound."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QdIBuwFBVV95cUxQWkFsODZMbW1ZMjhwOXdUcHFSZ01La3kteUFsVXBPVWV1RnRqVzRmLXZZOXZpWklDTk52T3k4ZGkwbHduZHJkdW9rYjhEbXBPLWFiZURiNmt1UUdyaUpqdS1kS1lXTjRJWnA2N0Z4UlR3NnJhUkNyZ3RYMGF4VTRfWDg3emVCWEZ5R1dYcFk3RXc3RjRqQXNhMG82MlR4d2RaNFU2OUNxQmVJcU9OOTNyaXluSjI0N1d6WFg4?oc=5",
+          "published": "2026-10-24T11:00:01+00:00",
+          "reason": "The article discusses Nvidia's role as an AI financier facing market hits and tests, which reflects market skepticism over AI funding mentioned in the claim but complicates the positive demand outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQUFnNnBmeFFYOGM4WGYtQjlTaTNpcWhhdDZVbnFYZHRyb29fOUE3YV96eENvNE1haVBuNWJVOG0zdVZMYktYMkkzaFZrWmRlZHR5am94b0RPVEtVTXV1MzRPOHNRVmpWS1NVYmpRTmk3YlFzRGh3OEczWXlUZjJvUVV2UDdFbjhCQ3JaOW8wZkEyaEZEaEtkREs0U2VQXzUxUW94NDhRYnp6d0RXbGRmZHJwd2YweDA3ZW9VT2ZQOXZPM2c?oc=5",
+          "published": "2026-10-24T16:11:39+00:00",
+          "reason": "The article reports that AI funding fears are rattling Wall Street and forcing portfolio adjustments, which aligns with the skepticism described in the claim."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF"
+  ]
+}
