@@ -1,0 +1,105 @@
+{
+  "date": "2026-10-26",
+  "run_ids": [
+    40242766318
+  ],
+  "generated_at_utc": "2026-10-25T23:14:22.114768Z",
+  "tracked_count": 26,
+  "findings_count": 6,
+  "articles": [
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Sinking profits turn China\u2019s US$3.5 tril stock rout into trap - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEhxbnY1RWtQOVBRMGtyaTB5aHhfWWV3Rmc5VjJDQkw3UW8tRWlkajVVZVN3VHhrSkhpU3hpbXBValpCZVpwbzJWblhQVEcyNFVNeWFhRDlWVFEwb2Y4MmVoaTRtSFVwWG45aTJpNFNpd0E4OHpPd185cHZ3SExKVlU4WUtYTnpJdE01OHlhdmxaaEhsem9rOGN3SlpTdw?oc=5",
+          "published": "2026-10-25T02:18:59+00:00",
+          "reason": "The article states that sinking profits turn China's stock rout into a trap, which contradicts the claim that China A-share Information Technology represents a compelling investment opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Sinking profits turn China\u2019s US$3.5 tril stock rout into trap - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNGF3eEJZby1FaUpwX1lsNlZZZ3ZCdlp3dFdObTVyNGZUNzBnY1dYdmx2WVZldFpKMFJNSk1KMVE5Q2kyZDNqM1htbDBIRURMYktv?oc=5",
+          "published": "2026-10-25T02:23:07+00:00",
+          "reason": "The article discusses sinking profits and a US$3.5 trillion stock rout in China as a trap, contradicting the bullish claim for Chinese equities."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Sinking profits turn China\u2019s US$3.5 tril stock rout into trap - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaEhxbnY1RWtQOVBRMGtyaTB5aHhfWWV3Rmc5VjJDQkw3UW8tRWlkajVVZVN3VHhrSkhpU3hpbXBValpCZVpwbzJWblhQVEcyNFVNeWFhRDlWVFEwb2Y4MmVoaTRtSFVwWG45aTJpNFNpd0E4OHpPd185cHZ3SExKVlU4WUtYTnpJdE01OHlhdmxaaEhsem9rOGN3SlpTdw?oc=5",
+          "published": "2026-10-25T02:18:59+00:00",
+          "reason": "The article reports that sinking profits are turning China's stock rout into a trap, contradicting the idea of an attractive tactical investment opportunity in Chinese equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Sinking profits turn China\u2019s US$3.5 tril stock rout into trap - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oNGF3eEJZby1FaUpwX1lsNlZZZ3ZCdlp3dFdObTVyNGZUNzBnY1dYdmx2WVZldFpKMFJNSk1KMVE5Q2kyZDNqM1htbDBIRURMYktv?oc=5",
+          "published": "2026-10-25T02:23:07+00:00",
+          "reason": "The article discusses sinking profits and a US$3.5 trillion stock rout in China, undercutting the claim of an attractive investment opportunity in the region."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Goldman cuts Kospi 12-month target by 25% as AI trade unravels - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEhpVk5ydDJ5anhBYUVlY0FORWZPM1Q3T0RnUW5pTUtoMkY3eWI4NExFUXBpUXlNNVFPWWpGS1hRS08wNXVIYXMzVGJCMFJmRkpldlVseHZEZjM5UWJlZXNYcmJBVzRkamNVLVkydXdUY0F4WllWNF9tNnVYcVRYbE5LWHhlS1JYWUZ6cW5rSjFRd1NkS3B0NTI2NFRDUjQ?oc=5",
+          "published": "2026-10-25T09:16:04+00:00",
+          "reason": "The article reports that Goldman cuts its Kospi 12-month target by 25% as the AI trade unravels, which contradicts the claim that chip demand and the semiconductor outlook remain strong."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Goldman cuts Kospi 12-month target by 25% as AI trade unravels - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51SGc2bGdxSXJXTWc0NEJwRnVCVkhCQ3I1eGNFcjlpb0RvSjJackxiNlRROGxhYTduaktfWEFJV0tDaVJWWjlEazZUaldtVkhzODRJ?oc=5",
+          "published": "2026-10-25T09:18:51+00:00",
+          "reason": "The article highlights Goldman cutting its Kospi target by 25% amidst an unraveling AI trade, contradicting the positive investment outlook for semiconductors."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund"
+  ]
+}
