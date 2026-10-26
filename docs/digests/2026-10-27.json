@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-27",
+  "run_ids": [
+    40416672407
+  ],
+  "generated_at_utc": "2026-10-26T23:14:16.190578Z",
+  "tracked_count": 26,
+  "findings_count": 12,
+  "articles": [
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "As AI becomes more fractured, one names stands out: AMD - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMG10RmFpYzBjQ1JEV0tMQkFpSGZGdE5ja28yTVZzRjRxMHB4Yi13TFlfSmFVRWVfaFpzOW1aaFhoTHpieHpodnRHZlo3RHJnUjBJeFNieGt2Q0g5RHYwdVFVVVhTQ1NFVkQ0Y0cwMlZBb19iamhoZVEtZnNxdUhDVHVpN0pQOEVCMHRINzlHaGhIbGF5OVo3dlZ4c9IBmwFBVV95cUxQMG10RmFpYzBjQ1JEV0tMQkFpSGZGdE5ja28yTVZzRjRxMHB4Yi13TFlfSmFVRWVfaFpzOW1aaFhoTHpieHpodnRHZlo3RHJnUjBJeFNieGt2Q0g5RHYwdVFVVVhTQ1NFVkQ0Y0cwMlZBb19iamhoZVEtZnNxdUhDVHVpN0pQOEVCMHRINzlHaGhIbGF5OVo3dlZ4cw?oc=5",
+          "published": "2026-10-26T19:38:17+00:00",
+          "reason": "The CNBC article highlights that as the AI trade becomes more fractured, AMD stands out, supporting the claim about AI infrastructure demand and its prominent market standing."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Soybeans hit two-month low as Lula\u2019s win lifts China trade outlook - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY3VYN2JLajlUNTdMaHY5VzdzSVBzcVdhYnVxN29oTk9PdWYyVHdrR20wdzE1QzJNS3I2b0JnUTluSmZRNy0wRHdYRE4zWWdVMXFodnBCQ1dZbHNyd19aVU5ZcEphY1ZsVUJyTkFxbi15dWVISmJQdENNLWFKSG1MRkw1OEVfRkxMWHNoaG1Wb19vODkyODFYMlY0eEIzYmZ0V3lkaV80OWliZGs2RzZkazJB?oc=5",
+          "published": "2026-10-26T13:03:26+00:00",
+          "reason": "The article reports that 'Soybeans hit two-month low as Lula's win lifts China trade outlook', supporting the claim that record Brazilian soybean production (and trade factors) compresses the palm-soy spread and caps CPO upside."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Soybeans hit two-month low as Lula\u2019s win lifts China trade outlook - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKNFFHdl9adWlUN1JhUTdoZVF5Q2hFSktHM2NRWWVpSktYR2x6R0Y2bmNCTnk4TWV6U2dOU3VKX2lzTGJRalhQVk5GWEdWWl9BaHNZ?oc=5",
+          "published": "2026-10-26T13:02:26+00:00",
+          "reason": "The article's headline 'Soybeans hit two-month low as Lula\u2019s win lifts China trade outlook' aligns with the claim's discussion of competitive pressure from record soybean production."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil ticks lower as Saudi defense minister meets with Iran's president in Tehran to de-escalate - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlb3RFQnktc2pYOXZaNjR1cFFxcDVpV2poRDN6X0tJNGhGX2NCX05kSlVtaGNialZPc1E3R3g2LXZuWmpidDRobThNdzROYUFWQkFFUVBnUW9SajI4WEs0UmtiZjhPdWVvUzRlQWtWRmvSAXZBVV95cUxOY0FTdGxTWkFDWFllVFg2SDZiQVVTRWxYY1NXTW5uSmJWVEh5OGEtSjRBajhfLWtlUzRUclBnSUFPTWFPcmI0Yl9NZ3dUY1gzWk90RTY0SDQydDlfbXVGU21UVVU1dmxFb3FyQzR0d2xJUkd1NUhR?oc=5",
+          "published": "2026-10-26T05:18:01+00:00",
+          "reason": "The article reports that oil prices are ticking lower as diplomacy works to de-escalate Middle East tensions, matching the claim's narrative about oil retreating from its conflict-driven spikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil slips from near six-months highs despite supply concerns - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY1JUUUx1UldKWGlQMngzc0VKZHZENk5fWTAzZmVXNWltTy1iT2dpN2NzVW1pM1lrYmIzek5pQlprTF92Tlcwd0VMMG9Lb1l5ckd1NEJEXzFCRDBOanprMmNBWGFTdjNsTXNCcEx3RGlYY0VHa3YwWlJlWXAzNUhGaS1DMnA0SVE3dy03WUw2YkdCTTZuRFZ2UDZLTE95Z9IBowFBVV95cUxNMTRxSnllRC0xZkMxYUpMYk5fQjNCS3ZmbS1aNW9XVndvZ1NBejEwclZoUDFfQXF5SnNnZEptckExSUNzMHRCcE1SYlRxa1RYVUlDNVFyV3BhbW16dFpMU1hZS1NrVFlORHdQNzViYklydHRqWWtNN3ZCT3kwLTN0dVUtc3J4S1dyZzNUS0FsNzN4OGtyUThIOFBRUm11ZW9ocWhR?oc=5",
+          "published": "2026-10-26T04:10:30+00:00",
+          "reason": "The article notes that oil is slipping from near six-month highs despite supply concerns, which supports the claim regarding the pullback in oil prices from earlier peaks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil declines as diplomacy offers hope of Mideast deescalation - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlc5elJ1S1VSanFmM1U4YTVHb0FfTWNtSjNEUkpLNUtTclJZN1VuU2YxRzllZWoyWERVNS1zOEgzdDZRNnpsZG5JT0hHS2F6SWh5bldEVkc1aTRDaE9zNThDUDJGLVJxSGRhTUtPNFhDTjZoRXJOaXpKbUlVRUhaeFNtc3h5UlZQOVVvSE1McU9NXzNTOXcySS1PNlBrR1dmaEtYYktn?oc=5",
+          "published": "2026-10-26T22:22:53+00:00",
+          "reason": "The article discusses oil declining as diplomacy offers hope for Mideast de-escalation, aligning with the thesis of oil retreating from earlier conflict-driven spikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil declines from six-month high as traders assess Mideast risks - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZlRuZ2NhaVZjMUJwVmEyQ1JOVmwtUktYVTRPaGlZd1NMX0xWNHlfbm5UbV9WcmZoaHZLOGpZTjRNaFdLQlhzQkxKbjZJUlF2ZXh3Q29EdWFFNWszWFRvR0RQZ1BDNzhhY2RnQ2NFVnhNSzJadTRnazYxS1BuVUVSYk5qanZmOU1nUmUtQVFwTllJcUdtdjd2OWVlRmFjbzhoNGpmMFRtTQ?oc=5",
+          "published": "2026-10-26T03:34:28+00:00",
+          "reason": "The article reports that oil is declining from a six-month high as traders assess Middle East risks, validating the price trends and market sentiment mentioned in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Stocks under pressure before earnings, oil dips - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeUFjWE1sdE41dGhoMk9hR2k5YzFIUHRmenZZbTRmODNaXzNmdUZmMEZtYlpzTVM0V2lOZ2JNQnlSQ082OTZQcjJoSHVSTzZiWW1BY0pId1FReVNQeDE1QlJ4ZUkxZDhCUjZGSnBjY1RRcklVU3JISFhFLURIcl9EQXBFSzBrbWtETG5iV2JkVHNhQkY3bTlV?oc=5",
+          "published": "2026-10-26T01:40:25+00:00",
+          "reason": "The article mentions that oil dips while stocks remain under pressure, consistent with the broader oil market environment described in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "IEA chief does not expect energy markets to return to pre-war levels in 2027 - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QRVVrNXBRbFpLQjZ5U011T0E0ODg0bjJaUVJwSGxvOFZsUmd1UG9Obm5ld3VBa0pfaFJQSTFjNk5aVF9nQWd5eE9hOWVhUXdwVXJR?oc=5",
+          "published": "2026-10-26T05:12:44+00:00",
+          "reason": "The IEA chief's perspective that energy markets will not return to pre-war levels supports the ongoing structural energy supply tightness referenced in the broader sector outlook."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow: Up 43%, is NOW still a BUY?",
+      "fsmone_url": "https://www.fsmone.com.my/article/392820",
+      "claim_summary": "ServiceNow (NOW) maintains a reiterated BUY rating with an upgraded price target of USD 161 following a 43% rally, supported by its ability to monetize AI capabilities within enterprise software. The core thesis projects further valuation re-rating contingent on concrete financial evidence emerging by 3Q26.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "CoreWeave rout sends warning sign to rest of stock market - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa2NmdkRHX0hkMlk3aFVUUkpCa3dxZHBHN1BHdVFsZXd6Qm9CMWJTYTF4WHFCbTl5S09SelhIbmlUNmdZWU5JWHBDcE16c01LT2V3b1RtN1VCQk9ZN2RKd05OYWc3MDBSaXdHTldqSlhEVTBMVFdrRC1KME5oZjQzVWxtVkZBWjRUdUdkdGx6MmUtUzZEMG1UMEtnbFhEQWZa?oc=5",
+          "published": "2026-10-26T15:14:54+00:00",
+          "reason": "The CoreWeave rout sending warning signs to the rest of the stock market contradicts the bullish enterprise software and cloud valuation momentum claimed for tech-adjacent equities like ServiceNow."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "CoreWeave rout sends warning sign to rest of stock market - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VZkFHVldKUVk2dmdXTVhCUHZLWllvUUJLTE9ZTnVoeGh6UVV6SWs3dkRJSXF0MTVmelIxM2hzaWFrVklsWE91RnFMczlDUUVzajVN?oc=5",
+          "published": "2026-10-26T15:09:27+00:00",
+          "reason": "The CoreWeave rout sending a warning sign to the wider stock market contradicts the thesis of smooth, unhindered valuation re-ratings and bullish momentum in high-multiple tech and software stocks."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "SpaceX agrees to US$40 bil chip-financing deal with Apollo - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObUc5bkdjX0toa2prd3V5MldXb3AzU0ZEa3BHbnBlNG5DVXk2MGVONjFncVlmWHVpNWdLNDBsckg5NkpaVTczbWdtTTVadTM1T2dsVDZvWHBjRXJvbW8wYU1lSDBiZGJ6eWQwTjFqc3M4UWN6VDBDUldVX1hzVlNGUVBEYkp4ekpXaC1ZbVgyVDhjajJLTGRmOUhzOEt6NzdwTHUtbzQ1VTEzV2t5QTNQSA?oc=5",
+          "published": "2026-10-26T13:59:44+00:00",
+          "reason": "The article reports that 'SpaceX agrees to US$40 bil chip-financing deal with Apollo', pointing to strong underlying chip demand despite market skepticism over AI funding."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Q&A Series: United Great Dragon Fund",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL"
+  ]
+}
