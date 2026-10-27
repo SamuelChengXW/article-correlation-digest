@@ -1,0 +1,347 @@
+{
+  "date": "2026-10-28",
+  "run_ids": [
+    40599011387
+  ],
+  "generated_at_utc": "2026-10-27T23:21:32.533433Z",
+  "tracked_count": 26,
+  "findings_count": 28,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Thai cabinet approves US$1.5 bil rooftop solar scheme - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wLVk5NEsxZkxTQjRoRzZzNkJDR1lsdkMtSkFrOXJob0g0VG1OM253WGFpbm5iWWNxclhlSm5YOGFGNC1NMnB6WWxGU0NYVDljWWow?oc=5",
+          "published": "2026-10-27T06:05:51+00:00",
+          "reason": "The article reports that the Thai cabinet approved a US$1.5 billion rooftop solar scheme, which reflects strong regional growth momentum in the renewable energy sector."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeENqdi0taGxhOTNQTjZMMm1zOGl6YXd3QnJEUjYzVF9aRlVPcC13bWFHUUwyVGh6MVJ6dzd4WTZJMGRhZDEzZlVuSERta3l1dUkzR1RhY0ZFTU8wSUhkaEQ2Q1ZlMTRZOU8yOHFxV1pFdmpCYzQ2R2ljMlFhd3BTelR2dHY5c2F4ZTF2RDh2RXZha0xRdkJ3R0NuZXh3cmhBUThvLUxnSXd1ZEZxQUlFQTV3eHhFZ2RYbktSUmZn?oc=5",
+          "published": "2026-10-27T06:17:15+00:00",
+          "reason": "The CNBC survey and reports discuss the Bank of Japan's rate path and ongoing policy normalisation discussions."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ's next rate hike likely in December or January, CNBC Survey shows - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1lyNlF2eFM4RHhRYnk5aEpsNHJiY1hVSzNFT2lBR0h6NTd0T0pUWTNfcjJqYnJVVzB0NU5LNHFadlkyMFNZaHRZM0ZNSXBFWnFBa1BSRkVVdE9HcW41UTFCSGxRYmpxYmRBOUdxQjJSU1RNNlN5X1VjTG9zWldNZnpiVVg0NlZVeHpPNW5STVZwLTRMX0ltRG1CM2RCa0RNcndvVnktVFZkOEhVQ1o4?oc=5",
+          "published": "2026-10-27T02:26:00+00:00",
+          "reason": "The CNBC survey notes that the BOJ's next rate hike is likely in December or January, pointing toward further gradual tightening."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5",
+          "published": "2026-10-26T23:51:07+00:00",
+          "reason": "The CNBC survey notes expectations for the Bank of Japan's rate decisions and hawkish stance regarding economic normalisation."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia, AMD to invest $4 billion in Meta as tech giants deepen AI partnership - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lRlJvNzJPYWpWVDdDUjQwTFZVZC1Ibk54Zk43SEc1LUE0ZXpweFJZcUo2TVYwYTVWcDZrdEVpMFFpeXNIUkU2MTVNa1FXaC1Pdm5yWkhUYlptVVUzbjNuWlZ2NlVVZ9IBa0FVX3lxTFBTQXJKZC1wR0l4eGtlcFlaODVRTGRvWlR0Y3dhZnhMZFFxbzRHSEJ0RjFMNVh3R1h4bnZzaWc0U2JIYWExUlZCRzRNZWlFcF9QcWhiZUFHRWM2VWwzd0lFUGhzSUFVd0lVREtN?oc=5",
+          "published": "2026-10-27T08:40:53+00:00",
+          "reason": "The article reports that Nvidia and AMD are investing $4 billion in Meta, deepening their AI partnership and directly supporting the claim regarding accelerating AI infrastructure demand and hyperscaler deployments."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNqZ2NzUE9INmtUZnp3X1ZXdEExTmFYdmNPdktRZGdCcGlYcmRxMVNXTlFQbElSejk0WjBxcmEzdHhvNjFFQkNJQlRWRHFGMElWcUROUkN3YlhwNXMyLWQybWhyai1DSDV6X1pUYV9tZHg3bERWRlUxWVFZNVJHUndEVnZCQ2NjUkgyTkxNa282UQ?oc=5",
+          "published": "2026-10-27T01:38:00+00:00",
+          "reason": "The article notes that China's industrial profits posted strongest growth driven by a tech boom, supporting the strength in China's new economy and tech/services sectors."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "In China, the AI bubble has already burst - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQzUtbVU3ajRBWWFWeEpWTmpWTlFnUEFxT1NWUzd2ZWVVbjktQUNfVFNQSVpxVTZfTkVDYkIxNWZ1ZXI0VHFZRVVHTzVhSmpnY1I0?oc=5",
+          "published": "2026-10-26T23:36:21+00:00",
+          "reason": "The article states that 'in China, the AI bubble has already burst,' contradicting the positive performance and growth narrative of China's new-economy and tech sectors claimed by the fund."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "China's industrial profit growth picks up amid two-speed economy - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wLTUxWE9HUTRfZGpER2FWN1hpNjdJeGtnT1RlbFFQcHJ1Q3F0YUViZi04QzcyNXBfTTFoM0FDMUs2UkI3ZG1rcllTbWxvb3JxTm5N?oc=5",
+          "published": "2026-10-27T02:17:44+00:00",
+          "reason": "The article notes that China's industrial profit growth picks up amid a two-speed economy, supporting the resilience and growth of targeted sectors."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ's next rate hike likely in December or January, CNBC Survey shows - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV1lyNlF2eFM4RHhRYnk5aEpsNHJiY1hVSzNFT2lBR0h6NTd0T0pUWTNfcjJqYnJVVzB0NU5LNHFadlkyMFNZaHRZM0ZNSXBFWnFBa1BSRkVVdE9HcW41UTFCSGxRYmpxYmRBOUdxQjJSU1RNNlN5X1VjTG9zWldNZnpiVVg0NlZVeHpPNW5STVZwLTRMX0ltRG1CM2RCa0RNcndvVnktVFZkOEhVQ1o4?oc=5",
+          "published": "2026-10-27T02:26:00+00:00",
+          "reason": "The article states that the BOJ's next rate hike is likely in December or January based on a CNBC survey, directly supporting the claim that additional rate hikes through 2026 remain on the table."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5",
+          "published": "2026-10-26T23:51:07+00:00",
+          "reason": "The article confirms that the Bank of Japan is expected to hold rates in a hawkish move, supporting the claim of a hawkish hold."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bank of Japan is expected to hold rates this week \u2014 but stay hawkish: CNBC survey - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeENqdi0taGxhOTNQTjZMMm1zOGl6YXd3QnJEUjYzVF9aRlVPcC13bWFHUUwyVGh6MVJ6dzd4WTZJMGRhZDEzZlVuSERta3l1dUkzR1RhY0ZFTU8wSUhkaEQ2Q1ZlMTRZOU8yOHFxV1pFdmpCYzQ2R2ljMlFhd3BTelR2dHY5c2F4ZTF2RDh2RXZha0xRdkJ3R0NuZXh3cmhBUThvLUxnSXd1ZEZxQUlFQTV3eHhFZ2RYbktSUmZn?oc=5",
+          "published": "2026-10-27T06:17:15+00:00",
+          "reason": "The article reiterates that the Bank of Japan is expected to hold rates this week while maintaining a hawkish stance."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Fed expected to hold rates steady, but Warsh may point way to more hikes - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DeEN1Q0lOYXdvZ1RhMGVYWm5Fcm1jU3ZEWTR4M3lCdXBQdkJ3WkJRS0VKbGFOVkpfUG8tbHFNb05yenRtRnJfMUZLV3hQdFVxZGxmdUI1OWt2d2xfSWRXYWd2OGEzUFIxelJDRnliOVJ6MHNXTk50VDh30gF_QVVfeXFMUFhDd2V2SDNUb0F3OWpneFhXVk90eDlFY2dyNVVLVEVhU2c4Z3d5d211RFBiMWZrUk5ZXzdRc0w3MGEzVTFCV0tKYjFuTWN1aklNRkZJTmJFc0l2VHFMaklvTUFRQWlqUGp2RFhLVklrRGl5NjJGLVVuM0lfTDlaNA?oc=5",
+          "published": "2026-10-27T11:06:22+00:00",
+          "reason": "The article mentions that the Fed is expected to hold rates steady but Warsh may point the way to more hikes, which conflicts with the claim that pressures from rate risks and earlier shocks are subsiding in favor of short-to-medium duration strategies."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "China industrial profits post strongest growth in three months as tech boom widens economic divide - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQenNqZ2NzUE9INmtUZnp3X1ZXdEExTmFYdmNPdktRZGdCcGlYcmRxMVNXTlFQbElSejk0WjBxcmEzdHhvNjFFQkNJQlRWRHFGMElWcUROUkN3YlhwNXMyLWQybWhyai1DSDV6X1pUYV9tZHg3bERWRlUxWVFZNVJHUndEVnZCQ2NjUkgyTkxNa282UQ?oc=5",
+          "published": "2026-10-27T01:38:00+00:00",
+          "reason": "The article reports that China industrial profits posted their strongest growth in three months alongside a widening tech boom, supporting a bullish investment thesis for Chinese innovation and energy funds."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Whirlpool cuts outlook again on lacklustre demand, soaring costs - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUFjS05OM3FyUk9XWm5iZ2lod2tyUGo5NjBNREpnSDdKdGFPV3RDOVNjNFZoblNwVkRfOHdDNWZNemtfUC04STlhWXZZcnpEbU1CaTAzd3lqNktmcnJrN1hyVlFmOGZLcGxUamNqUy1lamNZbjdvSUFKT283S3JYd3hEWkZ6UzFOOWxvUU1lR1ZSQWZtUHJhdjc1U3p1U0tyUHJERm5RM29ZS3N2?oc=5",
+          "published": "2026-10-27T14:57:44+00:00",
+          "reason": "The article discusses Whirlpool cutting its outlook due to lackluster demand and soaring costs, which contradicts a broadly strong performance outlook for manufacturing and innovation sectors."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices fall after Iran supreme leader and top security official discuss conditions to end war - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTRIVG5pYjdLekMyUVZ2N2dyYlVvUjlPX084ZlFPRUQ0MHFXUkFXNGNmVU0za0E5RUdobHNLbG1JYm5ITWd5QjJwYm1obWU2a1RGVVlVaEdqZEtsNXMtMmNsakZwa1EzTXk4cDRRSG0wOUVQQVVXcE9RZXRlM0lQeHhB0gGHAUFVX3lxTE1zcmUxLTRyRjRWZ3BackRuV0lHRTE2RWFsMnJIYzhSYzdwSUwzMEg4ek93U05iMVB2U2tfemIwUnZMRERfdGVkaTFxQVkxYlZ2VmRGejR2N0dkZng2ZDB5QkVlSGxhODV3NFlpRTU0SjFQQUxnVzY0ck8yc1JiUXFaSFZqc2EyTQ?oc=5",
+          "published": "2026-10-27T05:09:59+00:00",
+          "reason": "The article notes that oil prices fell after the Iran supreme leader and top security official discussed conditions to end the war, supporting the context of declining crude prices following the conflict."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil eases on Middle East diplomacy hopes, Saudi attacks keep supply worries alive - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3lid3k0QzVobGVoQkx4OUdmT1c5cjcxUGZndm0xN2pMaFlGMjRpaG9icnhGb2xJU052a2dGOFNRd3lsZVE4blFmUGZIU09JV1A5RG5pSlFXLXhhWUZMOWVqdFpwNmRJbWc2WFdIWk9USk5BYzhPWldna3JkVTN5eVZBR3ptbTBpLUxYaTRTOVUzT1RGV3dLOG0wRlpQNDdndkNIRFkyNkPSAa4BQVVfeXFMTTNIQ3dpcERhbEp2S2tKOXBqTWV4ajZMQldfdHZBQkRPQzZKYl9OVWJKbk14bnJHa0VxUzc2ejlmRXpCaTdZMUI2cERCNDBJNjF6NnFJQmllQmZEQ28zYl8xczhkTDc3Y25jdk16V1dGbG1jNkM1U0NkUzhQZXlIWVAxRGtnVUpnVHVjT3pKQXhsVW9nb08zSzN5RGRvNzFVa3kxSGdxMmU1NE00U1B3?oc=5",
+          "published": "2026-10-27T01:34:00+00:00",
+          "reason": "The article states that oil eased on Middle East diplomacy hopes, aligning with the thesis that conflict-driven price spikes are retreating due to diplomatic de-escalation."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Tech stocks power Wall Street gains as oil falls - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnlVSkJ4bXRWTkRnSFNyUUxGcUZRYUlOdW1jRW1vcW1QYlBqWVl2U0dNMGZZZllxNFk4bEgtLTJsY0c3MGVIZEktVEFjS3IwR2JWd2RhZGVVWXV6NzRUOTg3SFEtbE1TWndGd2Q5d25jUTZ6UTFaQ2NyOFZsRXlPdTFBSWJMYXEzbDFhbFdXUHd5bWVreFRZTA?oc=5",
+          "published": "2026-10-27T16:34:47+00:00",
+          "reason": "The headline and content confirm that oil falls while tech stocks power gains, consistent with oil prices retreating from their earlier spikes."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Aramco contains fire near Ras Tanura oil hub after attack \u2014 Bloomberg - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaFQ5X0xPbW9Ud1l4RzFhUmx1dWVnU1JUbTJXb0ZxWVRoeVFlUDZNamwwb1dzYlk0RUNPYjNkUE9RY0dMd2NCNm9sVzVDdkQzazJ2eEphME5VTm82MldOYnJKLXpLTkRFcjhMaUREeVF0Vm5KOFNvNVFMZVU0OFZzdnRJV1l6WGp1RHZJT216NUpnbkQ2VnhlVTl4dTQwQ3JyUmJnWEtEUUJSeEduQVhjd0FtVVI?oc=5",
+          "published": "2026-10-27T09:47:12+00:00",
+          "reason": "The article reports an attack and fire near the Ras Tanura oil hub, which keeps supply worries alive and complicates the narrative of a stable retreat in oil risks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil declines as Iran diplomacy picks up before Israeli, US votes - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQa2djSnVCUkNqTEdRREFvLS1zRldRTVpIR2IzMmw4S2VDeG9yTWM1OGREeDJqS3FKbVhjeTZmeWlfcDF6TG5YS0hxLWJBSHYxMmxzc0hnUFE1T1NmcjZMTDRDNHBLbTYyemtSLU11R0I0Y1djQjJrSDJFSk5jbDVSbjhpakN1b0VuUlZhdmJtU3VFek5nMUl2TnFrNlA?oc=5",
+          "published": "2026-10-27T05:53:53+00:00",
+          "reason": "The article confirms that oil declines as Iran diplomacy picks up, supporting the narrative of falling crude prices post-conflict."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Tech rally extends to Asia on Anthropic, oil falls - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVZGMXVRaDA5b3ptR2VZMHJ4MlY5WDlIWkJtYkFGVlluYVNlQ29GdGhsUGdMQk9lV3l0YUl3MVUxanRiQUhlUG5pelo4S25QTDN0dGoxMXNWazVNNVhCbXhhZGhnSmpOaUtMbDJLN0tTY1FGbmZJQ1dLTVN1bjR6UDBOZnYwQzNRYXdpdmtB?oc=5",
+          "published": "2026-10-27T01:37:07+00:00",
+          "reason": "The article explicitly notes that oil falls as part of broader market trends, matching the reported post-conflict price retreat."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bonds and Chinese stocks could offer value as scrutiny of U.S. AI monetization grows: Strategist - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnRUbTJYTWVxaG01OG15SjMzVXNQNmN6bGdLczJnR3FNbmdwR2FuZzFtc08ybW41dDZDbGdkR1MyUFhHMEJ1TG9NUFBpUGJ3V1lpSHo2ekIyNVB0TDAzaHFwdXJpRVlxdUlJMnN0NVdXMUNuQnFYS21iMHNiRWJBaF9HeFpiQVplalU5ZEtseXZUTERnaHhTNE9hYzk1cmJuUVdTTVhrVlFHNXFUWGlR?oc=5",
+          "published": "2026-10-27T05:40:56+00:00",
+          "reason": "The article explicitly mentions that 'Bonds and Chinese stocks could offer value as scrutiny of U.S. AI monetization grows,' supporting the claim that Chinese equities represent a compelling tactical opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China\u2019s local governments are saving more, but fear is keeping them from spending: Eurasia Group - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMThPR3ZDUVF0ZWV5YnJRRkJVV1ROVUl2RkpIcXJIbWtuNUY5S2d2Ulljdy1GTDJuVWVWckc5b0w3TERpdDJIWUJvX0FsTVNNYThJRElWOHd4U250RzFKN25DeW0tdkYyLWhKaUN5aEw0WTkxR1RjZjVYSmh4UjM4aVhXQm9xWVpsY2RaR21OQ0RlUVQ3aDdhS3NUUm1CT0V3eWRkODd6bjVPUnRQYVlzZXY0SHlTZWNjN2FlY2QyXy1BX1lJeUJQNW9hbEZnbTQydDdXSjIzb2w4cWVhbWswdk9NS2RHOUZoQTU1UkhiU2JmZWc?oc=5",
+          "published": "2026-10-27T01:33:00+00:00",
+          "reason": "The article notes that 'China\u2019s local governments are saving more, but fear is keeping them from spending,' complicating the tactical outlook for Chinese growth and technology investment."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "In China, the AI bubble has already burst - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQzUtbVU3ajRBWWFWeEpWTmpWTlFnUEFxT1NWUzd2ZWVVbjktQUNfVFNQSVpxVTZfTkVDYkIxNWZ1ZXI0VHFZRVVHTzVhSmpnY1I0?oc=5",
+          "published": "2026-10-26T23:36:21+00:00",
+          "reason": "The article's title and premise stating 'In China, the AI bubble has already burst' directly contradict a bullish tactical outlook for Chinese technology equities."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "In China, the AI bubble has already burst - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQzUtbVU3ajRBWWFWeEpWTmpWTlFnUEFxT1NWUzd2ZWVVbjktQUNfVFNQSVpxVTZfTkVDYkIxNWZ1ZXI0VHFZRVVHTzVhSmpnY1I0?oc=5",
+          "published": "2026-10-26T23:36:21+00:00",
+          "reason": "The article titled 'In China, the AI bubble has already burst' directly contradicts the claim that China A-share Information Technology represents an attractive tactical investment opportunity for the near term."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Tighter margins, higher provisions may drag on Affin\u2019s near-term earnings \u2014 analyst - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xS0hvWnVEaFp1c09yVkVMdDF1ZjBjd2dkcVhMMTlCVnZ5OFRQODNza2dKUzc4dWxKOFgxRGxZemN0NnpmTkRDTS1qNHBQZmhGNU5Z?oc=5",
+          "published": "2026-10-27T03:20:43+00:00",
+          "reason": "The article discusses 'Tighter margins, higher provisions may drag on Affin's near-term earnings', which aligns with the claim that global financials face limited upside due to mature bank margins."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Memory stocks lost their shine despite strong earnings - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0JlbWxNOWRfNWdNUU5Da01kd3hqc1dXRFJDMVRDRWRaekhhS2w2NmQ5cjN1ZHpYclRUOEVjVDExTjI5T3p2dWdOWV9kdS1QVDFSSVVYVGxUZjRnQnJLLUlqd1hGUkc4bENMOE9scDU3OTY2M20zQnVENWtrMDUzZjNUekFReENlZ3BMZ1pxT1ZaMV9Kdm9ndEFGbF9yZw?oc=5",
+          "published": "2026-10-27T13:57:38+00:00",
+          "reason": "The article's title 'Memory stocks lost their shine despite strong earnings' complicates the positive sector outlook by highlighting that memory stocks lost their shine."
+        }
+      ]
+    },
+    {
+      "title": "Q&A Series: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/400440",
+      "claim_summary": "The article presents an investment Q&A detailing the portfolio positioning, strategy, and market outlook for the United Great Dragon Fund, emphasizing opportunities in Greater China equities. The core thesis evaluates the fund's exposure to Chinese economic recovery trends and sector-specific growth drivers to generate long-term capital appreciation.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "China's lab-grown diamond makers target AI, chip sectors for next wave of growth - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kTXZHWmJRZ2Mtd2JGNjVSNmFFY1c1eDhkQ3N4OG5qUkRwQXBqa1Zhaks2SmpGeGhMc3FwVGF6X3c0NVdQYUhOcjA1MDROVm84bG84?oc=5",
+          "published": "2026-10-26T23:56:40+00:00",
+          "reason": "The article discusses China's sectors targeting the next wave of growth, which supports the fund's focus on Greater China equities and sector-specific growth drivers."
+        }
+      ]
+    },
+    {
+      "title": "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+      "fsmone_url": "https://www.fsmone.com.my/article/402060",
+      "claim_summary": "Sandisk is initiated with a NEUTRAL rating and a USD1,582 target price. While artificial intelligence demand and multiyear contracts provide earnings visibility, declining NAND flash memory prices remain a significant threat to its financial performance.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Memory stocks lost their shine despite strong earnings - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN0JlbWxNOWRfNWdNUU5Da01kd3hqc1dXRFJDMVRDRWRaekhhS2w2NmQ5cjN1ZHpYclRUOEVjVDExTjI5T3p2dWdOWV9kdS1QVDFSSVVYVGxUZjRnQnJLLUlqd1hGUkc4bENMOE9scDU3OTY2M20zQnVENWtrMDUzZjNUekFReENlZ3BMZ1pxT1ZaMV9Kdm9ndEFGbF9yZw?oc=5",
+          "published": "2026-10-27T13:57:38+00:00",
+          "reason": "The article 'Memory stocks lost their shine despite strong earnings' aligns with the claim that memory/NAND flash dynamics and pricing threaten financial performance despite strong earnings visibility."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY"
+  ]
+}
