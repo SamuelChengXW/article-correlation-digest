@@ -1,0 +1,167 @@
+{
+  "date": "2026-10-29",
+  "run_ids": [
+    40784197473
+  ],
+  "generated_at_utc": "2026-10-28T23:16:14.813330Z",
+  "tracked_count": 26,
+  "findings_count": 10,
+  "articles": [
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "ServiceNow shares plummet in extended trading on mixed Q3 results - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjBVUU94X0tQUDNQS18tWDNMeG9ISWNJMmE4b1JpMzE0MkpMdTFic2hRT2xyN1I1RFhpZ1ItVEFJOWVpQ3BDcUk5RzAtSjJMZ0Z0czJyWHVzejRBRl92aHktY01sWFRDcUVsYTZsTV9pbTlwOHBSMWwxeFBDWWtCWnBGVXJPSmc2UWpsemtBTTRGMWo4TXZ1V1p4T3MxNHhoQzlNV05nLU5RUFh2?oc=5",
+          "published": "2026-10-28T20:50:12+00:00",
+          "reason": "ServiceNow shares plummeted in extended trading following mixed Q3 results, contradicting the bullish short- to medium-term outlook for the company's financial and market performance."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Asia OneHealthcare files for IPO to fund hospital expansion, repay debt - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SWHRraFRmb1FULThrM2N3eTVuYXd5YUQ3TXdQM0Vhb2tWMTREel8xR1RjblBCaFhSUzQ3VWJSUUFhUmtkZkJLWHJTbTExS2FycV9F?oc=5",
+          "published": "2026-10-28T15:42:13+00:00",
+          "reason": "Asia OneHealthcare filed for an IPO specifically to fund hospital expansion and repay debt, directly corroborating that private hospital operators in Malaysia are expanding their facilities."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Why T. Rowe Price's Dom Rizzo is betting on Intel and AMD - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkp2YlBXTlZHZmRnOVpvRjVvM3h0VGdYQWd0YXVaMTNkbG02OHpENHlLYTZlOWpibzNHZ3p4Wkdfc1VCZ0VQUjVKdEMwX1lUcU9aUlNWV2hBNGFVb3AtMkxORjZ4ZlZuY1B4ZV9QQW9JVjE5Q3VGUFl0cG96OU5MRzZLaEdkNzJtQS1MZTR1cGoxdkEzdG1jeWpBU24yT2M?oc=5",
+          "published": "2026-10-28T14:16:00+00:00",
+          "reason": "The article explicitly discusses analyst T. Rowe Price's Dom Rizzo betting on Intel and AMD, aligning with positive views on AMD."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "My Say: How will China\u2019s economy affect us? - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wNU9LUnd2a0RIRUtoLXNQeDcxN0kySDk3bl84V2NLNEVHV2tkSVlOdmM2T2dncWlBTTd6NlRnc2c0UW9qQmEtV3l4eGtVMVhuRWk0?oc=5",
+          "published": "2026-10-28T03:30:00+00:00",
+          "reason": "The article 'My Say: How will China\u2019s economy affect us?' relates to broader economic discussions involving China's new economy and consumer sectors."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "States without sufficient water supply cannot host data centres, says Johari Ghani - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpQVRMdzV0dVNWQlJqQ2l2Wm04RzE2WmRsMFdZckItUU4ydzlJWFlVd0RLc0taODhxOVNucEx1MFJ5YWhib3h6MTJMM0lhRF9HN2dn?oc=5",
+          "published": "2026-10-28T09:09:02+00:00",
+          "reason": "The article highlights water supply constraints as a limiting factor for data centres (\"States without sufficient water supply cannot host data centres\"), complicating the claim that data centres remain a seamless structural growth driver."
+        }
+      ]
+    },
+    {
+      "title": "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+      "fsmone_url": "https://www.fsmone.com.my/article/381902",
+      "claim_summary": "ServiceNow's 2Q26 financial results validate the company's enterprise AI monetization strategy amid resilient software demand, though profitability faces headwinds from compressed subscription gross margins and execution risks surrounding the integration of its AI Control Tower.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Chipotle, ServiceNow, Fortinet & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONDlMUjZncndlZ2hNVG9mUTRSQmV0VEt3SzRteS1zLTF1SWtjekNyNW1sUE1jSmYyWjRRQXF4NFRRNmZRMkN4eTJQR00tb0NzWU1IaS03UWp2ZWVSNlB0UmRzRVZYZUhTeUtQT3h1TW1uS0pLWlJSdjBoZWZadXNJLVAteGZUS25RX2pJMnBab3dQa0NlMm5QbXRpX0c3aVZz?oc=5",
+          "published": "2026-10-28T21:09:21+00:00",
+          "reason": "The article explicitly lists ServiceNow among companies making notable moves following recent earnings reports, aligning with the 2Q26 earnings review context."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Europe\u2019s debt stress is hitting corporate borrowing costs. Goldman flags who\u2019s vulnerable - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTGFjQ0p5ZGF1Q3k4RmtlaUNIUzd5bDQ3UU9XUzQzX1JyV2F2Yzc4MUN5SDFaT2thZ0VwcWJGU29kVzQxNFNvc2t6SjhlVjdkUUJRQmFPcGhDdUtJYXZXS3VxbjNqV3BTeU0zcHdJdHE1Qkp4UWZfcndiUFEtdllLbzBEcVnSAYoBQVVfeXFMT2lENG5aaVFmZ1paYVlOSnFIUmJDMVdZLXVsNjJUeW1JekozREpCdmRfSDcxNjktRF9XR3AxVzdKXzRqNk5vaWw2Wm51MmJRLWZ1NGY3cFZ4QzhuOG4zNFc3U2liY2VxOWVNZi1kWTFxUkJUdHJheVlvVVRvZlpWR0l0NnpSYkU0cl93?oc=5",
+          "published": "2026-10-28T06:00:01+00:00",
+          "reason": "The article notes that Europe's debt stress is impacting corporate borrowing costs, which reflects the ongoing interest rate risks and credit considerations highlighted in the bond fund claim."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "CIMB Niaga's nine-month profit falls 15% on margin pressure, higher provisions - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5VMXRWT3RvUlVGUFhTSjQ5SmQ1ZUozaFVRUHlrTUItSDdNS3Vma1VzSXItNjlOazhpUUxlcXpOdVp4a1djd3h5ZW9jUkU4dUQ1S1Fz?oc=5",
+          "published": "2026-10-28T11:27:55+00:00",
+          "reason": "The article reports that CIMB Niaga's nine-month profit fell 15% due to margin pressure, supporting the claim that banks face mature margins and limited upside."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Hold or sell? High Treasury yields spur US banks to rethink bond portfolios - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVdkJ4VVE1dmhjMTQwTmVwa3d0cm1FV012TWtfYkRRREhOVmlOX1otaHhsWkgzNzFfYmhrVi1tRGpaZmtKRE9ySllLRWhBSUhMSWNN?oc=5",
+          "published": "2026-10-28T01:08:58+00:00",
+          "reason": "The article notes that high Treasury yields are prompting US banks to rethink bond portfolios, reflecting the challenging environment for financial institutions cited in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Indian lenders defer dollar debt sale plan as rates turn expensive - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VMk5jLVlwNzlvc0VJWDNxN3BZMFRXaFJvTDhyMkRxMGpPVWc3T1VYSllOeU02R0RoYkx4NnNzNmZJUXZOMmNWd0xBV3VqLVVBWDc0?oc=5",
+          "published": "2026-10-28T00:51:47+00:00",
+          "reason": "The article reports that Indian lenders are deferring dollar debt sale plans as rates turn expensive, supporting the thesis of moderating loan growth and financial sector constraints."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL"
+  ]
+}
