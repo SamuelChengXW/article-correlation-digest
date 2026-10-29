@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-30",
+  "run_ids": [
+    40970055293
+  ],
+  "generated_at_utc": "2026-10-29T23:16:58.181165Z",
+  "tracked_count": 26,
+  "findings_count": 17,
+  "articles": [
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "ServiceNow shares plunge 27% to worst day ever after earnings revive AI disruption fears - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhaFd4eFp0OG5ucmFzMXIyaVF0NEJJNU1TMGQxQ185N1ptaktsN2tQZm9aODJkVTRNTjdMRWhZNEZqOE9qbzZFNVFvLTZpZ2lDdjBFOTJ3UURwY2FFLVNYRHBibUpVR250YVA3Q3FOdjFYNmtYSld30gF8QVVfeXFMTWRKSXl6SURkYVVLMGRNdXZ2N1BjWklhb0xxanZFeUljYjZJV0s5Smo3U1R3OHEzWXhBR1E2YWQyWU8wMko2VWVBOXg3cUlKV0lHaTRTcG9DWnF1OHJ2S1N1V3k2UGNMT2VrbUZ1LXRtUWE3Q3RGSUVLMWZyZA?oc=5",
+          "published": "2026-10-29T14:58:03+00:00",
+          "reason": "ServiceNow shares plunged 27% in their worst day ever after earnings revived fears of AI disruption, directly contradicting the bullish outlook that the company is well-positioned to benefit from AI workflows."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "ServiceNow CEO Bill McDermott: This is a unicorn growth company - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWEFsODAtNy1fRFdLOHdQU3Nfc0U1R0twRFp6emtvYWJfRkFNVDM5SThTTFJJOEtxOTVJUmJuT25xWHA3TDQ1MGxCSXQxMHVhUDFsUGs0VjRjVkwxc210RTN2X1JNUG9zSkptcnNqbFZVYWtyb3RSRzI3U0NvMEliUWNvS004cXpldm1ocVpLTHBMM1RxeXhyd0xLdjlra0tVdFRIUGpQSnU?oc=5",
+          "published": "2026-10-29T00:38:00+00:00",
+          "reason": "CEO Bill McDermott asserts that ServiceNow remains a 'unicorn growth company,' directly supporting management's positive growth thesis and ongoing expansion."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Even a dovish BOJ may struggle to push Dollar-Yen beyond 160: Citi - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbVJnR1BHc0dvUTFJVUs3N0w5Z2FjTmkyVmtOb1RkTzBLZVUyRlB5M2pfN3ZJeXN4ZUozZDdxR1MtWW5OODNRX3NWaUw3Q0JjazVTN0V4V2RTM2YtSWRaWk1GWk1ydVdYWF9QbjNQVW5fNVFJZ3h6dWtNS0pRZjB5dG02cTlLcnBsbTZDemhkUUxQbXhZR3ZZSXZOZmJIWFVCT3AtS0QzMVFnZl9y?oc=5",
+          "published": "2026-10-29T03:38:00+00:00",
+          "reason": "The report highlights Citi's view of an 'even a dovish BOJ,' which conflicts with the claim of a hawkish 1.0% rate hike reflecting economic normalisation and expectations of further gradual rate increases."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices edge lower as renewed U.S.-Iran peace efforts ease supply fears - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zdnNES2VLOVNQbEJKcncxMVlyamQxU3Jfa0o1MjFNd21YLTZ5dWJKWmpQbnNiWkhGY3Y5QXFXeXZnSU5zQ0VoSHc0QnllUFNNdk1qUkdnSEZGZk15cHAzMnFub0dhSGQ2S2V0Tm9vMNIBdEFVX3lxTE83QURjQjVBRjdxbTJrR0lsWnpKcHNWU1hBNy1Bdnk4VktjTmE1NXp6WWJqLXltUk93OWxRbndlQ1hZaFcwTm9xZ0dBM1phR0VCSVVqT3hFaUJ6ME5GNy1vUExkTW9ja0lsZjhSYWFKeVVqUUlj?oc=5",
+          "published": "2026-10-29T07:48:32+00:00",
+          "reason": "The article reports that oil prices edge lower as renewed U.S.-Iran peace efforts ease supply fears, which aligns with the claim's narrative regarding the US-Iran conflict and subsequent retreat in crude prices."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Shell nearly doubles quarterly profit year-on-year as refining margins soar to record high - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YQlJacHZiTmJUSDgyMEZQOU02a1hlMXp1SzNldkxiZy0wTVBlMXdjRXAyTXkwSC1RdnF4ZThZWFktUTJtYTh5V0E5ckZPeVZmX2J0bzB1aXNTamFqMERaR1dyNXptaG5ELUE?oc=5",
+          "published": "2026-10-29T07:12:27+00:00",
+          "reason": "The article notes that Shell nearly doubles quarterly profit as refining margins soar to record high, supporting the claim that strong refining margins benefit the sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWXZUczNxeWNCZmFuaV8yeDdWT2JJVG5NZ0pZandabmRlYkZrb3k2VFVIMlRhWUhQZU03YTJjRlJ1emk5djExa0tCUFE1TXBrR3c5RzU2Mm5KN0JOeVFucXlRRVdqdVNaQkJ6M0JVaTRlWDV3WE83elNIeEZlUHFSRjVEVE5XNm5uZ0R4S0pUdlhHS3pRdDFWM3FpbEVGbmpMMnVGYTdTWkhteDNmYmtlN01n0gG3AUFVX3lxTE1Scm84a25rRUM4N2ZNT192UGQwM0VjV2E1ejlQdUtuWlk1cVRQcEJXVlFYYm1oLU9CQnZHVzlwTFVKR200REU5YW5xakphN0I1SVFGcW16dVE0XzBwYXV3QmNTVVRqTzRxbW9WQWwzUXBSTW1kMVhncmx5Y0ZiLWVKRUFiUHYwaDU3WXVDbUU0RGJEN1BkMFFDajFoUk1WalJwYi0td3Z2ZzNOYmhjTG5vajVOZXRybw?oc=5",
+          "published": "2026-10-29T03:04:00+00:00",
+          "reason": "The article reports that oil prices fall as peace hopes offset fears of growing Middle East conflict, corroborating the context of geopolitical tensions and price retreats mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
+          "published": "2026-10-29T02:14:00+00:00",
+          "reason": "The article reports that \"China\u2019s tech darlings are losing their shine\" and discusses a sell-off, which directly contradicts the claim that China A-share Information Technology represents a compelling tactical investment opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "US bans Chinese genomics companies, citing forced labour - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6M1hZS0NjQllLOUNuOXo3R3dVZmI0UU9NYkVkblVHZnVGWThhanhLemc4V3dYRzcwV0h1QXFPMFZTaE1oZkQxb1FJcndSd2NrYm1J?oc=5",
+          "published": "2026-10-29T02:17:23+00:00",
+          "reason": "The article states that the \"US bans Chinese genomics companies,\" highlighting regulatory hostility that undermines a bullish outlook on Chinese equities."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
+          "published": "2026-10-29T02:14:00+00:00",
+          "reason": "The article discusses how \"China\u2019s tech darlings are losing their shine\" and details a sell-off, contradicting the claim that Chinese tech is an attractive near-term tactical opportunity."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "First Abu Dhabi Bank's third-quarter profit rises 6% on net interest income growth - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1KTEttR0RkNG1MRmk2ZTJnYnNIeHdNY3R5b2p4Yms1OERQcGRJV2VzVmxWZTE0aFlrNzZoMnR0RHN1Z2tNWkRuM0hUaHM0cW1IcXJv?oc=5",
+          "published": "2026-10-29T06:04:03+00:00",
+          "reason": "The article highlights that First Abu Dhabi Bank reported a 6% rise in third-quarter profit driven by net interest income growth, which challenges the claim of universally limited upside and mature margins for banks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "ECB holds as Lagarde exit compounds alarm over oil, France - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZkYtcEZCanFtakJhRVhpaVlLdUJxM1JQeE01TC1ZZHgzTDZ6aTVPeEFlY2pQT0RONWlTaE04ek8wbVNIQ0RkLTNPUldKM2szT0ZBaUE4YktnTHVINUYzWnYwQmJ5VEVNNGxqMEJGSy1QS0xEbXAyMGY0TWpsMG1KTTQ5VTMwVWRsZVUtcTNvdU1vMUtNZ3hKZVFtYWh2LUdYc3NsT3Q2NXdsVUU?oc=5",
+          "published": "2026-10-29T13:57:19+00:00",
+          "reason": "The article reports that the \"ECB holds\" interest rates, reflecting mature monetary policy dynamics that align with expectations of limited upside and moderate growth for financial institutions."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "European Central Bank keeps key interest rate on hold at 2.5% - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1EdmRuRWxaV3lJMlRiZGxtYmV3eV94WGRrcW9SU2xuejhkcUktdkVUNUlnUFR4YmJqZkNaRmJsYnVQem1KbHlYaTM4Q196b0xHdkVFWENydFItQzBtN2pXbUZkLXVEamNqNTFTZVFuOXRfTWZaeDhiM25fRkNBUdIBgwFBVV95cUxOclAxUlNIR3dYMzV2aUFZSjVxZ05CWUxzeXRMWU9MM3N5QS1DYS1mc1pnSU81cWlCQktxbk11NkQtWEFSWU1pQmxLY3N3dzlBbnJUTFlBUG1iZ2VPME93aktzay1VdWJaWF9SaF9vOHpDSDgtaTFVVXFCX2p0ZGRwNWdlZw?oc=5",
+          "published": "2026-10-29T13:18:31+00:00",
+          "reason": "The article notes that the \"European Central Bank keeps key interest rate on hold at 2.5%,\" pointing to a stabilization in interest rates that supports the thesis of mature bank margins heading into 4Q26."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "China\u2019s tech darlings are losing their shine. Here\u2019s what\u2019s behind the sell-off - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTWVd1YTFDSWZoT2hydUtkZnVnTUt3UmFRNjBJTVVwank4NGRtOUZPRTJxOVpXNWdnY0U4Tk9ZU2xTcWFOVjdFRHdEYS1CTjdZSzdfUHgtUm11MHFqT2dLSzVZNlQ2RGdWdl90b2ViY9IBdEFVX3lxTE9KN0k3M2QtTmxuN2g2dWlScW5BR1ZWSGZTNE11cEoxaXVUNUZSLWg3T2dHT0RPc1p3aFBvQVJQR090NXNzTHo4TXNveWllRllsb2l2OHowenZ0U3hLN2VSMHdrOTFJdFE4dDI1T09GT2FIOXo5?oc=5",
+          "published": "2026-10-29T02:14:00+00:00",
+          "reason": "The article highlights that \"China\u2019s tech darlings are losing their shine\" amid a sell-off, contradicting the notion of robust underlying sector strength."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Samsung Electronics shares slid despite record profit in the third-quarter - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5",
+          "published": "2026-10-29T00:57:00+00:00",
+          "reason": "The article states that \"Samsung Electronics shares slid despite record profit,\" illustrating negative market sentiment and price declines that counter the attractive sector outlook."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB0gGLAUFVX3lxTE8yUl9GejYyQlk5QmlESXJ6aFU5SkhlakRsYnJpMG5JNlg4N1N3UDdrSTdENlljVExnbWxYbVRYNFRJd01za0x6dkxHelJaNGVLSkNrS0IwaVp4c1lsS0NxQWhYVVdRcDBnaGl1Uk53QmFaSGo0NE80am9oUVhxckdvQ0E2MXFIUVB3U0E?oc=5",
+          "published": "2026-10-29T00:57:00+00:00",
+          "reason": "The article specifically highlights \"rising demand for AI memory chips\" and a profit in line with estimates, directly supporting the claim that underlying chip demand remains strong."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "South Korea's FuriosaAI quadruples value to US$2.9 bil in Nvidia chase - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzlvaGpvRlduaVBCcWF4bEY5d3RFZXZFVG1CVDdpU3QzUGs3QVJ2WjRmR1hINW04SndxUjFIUFhsNFNTeXlEajRCVElEYnZyRGJKblExbFBJM0czSDVfVnZEN0p0ODZEVGxKT0RMT1FQbHJrSTRpN2RCeFBGRV9FamlUaVc1cFRqNHZUdGlnTnE1RDlMMUF2aVVld2JpTkdvTEM2ZmF6b0l4clkwQzFYbXk0aw?oc=5",
+          "published": "2026-10-29T09:24:34+00:00",
+          "reason": "The article reports that South Korea's FuriosaAI quadrupled its value to US$2.9 billion in its chase to rival Nvidia, supporting the claim of strong underlying demand and interest in the chip sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "South Korea's FuriosaAI quadruples value to US$2.9 bil in Nvidia chase - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtQWdmZ1pCZ2pTMEhfRlBtV040YWJJTnA1UVJMT0d0VV91cWtEYVc3MlVyS1p3Tms5dnBsMmhmYXRJbF9TLTJ1cVJwMFFNRi13Mkk0?oc=5",
+          "published": "2026-10-29T09:23:53+00:00",
+          "reason": "The article notes that FuriosaAI quadrupled its value to US$2.9 billion, providing evidence of robust underlying capital valuation and demand within the semiconductor/AI chip space."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Q&A Series: United Great Dragon Fund",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL"
+  ]
+}
