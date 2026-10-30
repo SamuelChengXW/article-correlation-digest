@@ -1,0 +1,197 @@
+{
+  "date": "2026-10-31",
+  "run_ids": [
+    41141755013
+  ],
+  "generated_at_utc": "2026-10-30T23:22:38.662720Z",
+  "tracked_count": 26,
+  "findings_count": 16,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Tokyo core inflation exceeds BOJ target in October - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Hb1RxeXRxdUZ3V3ZSWnplR1FDa2VTTmhPamNGd2hIMFdDdFZZVTNKUjJaZFZPSWxjUnlzMUh2QlhpNnM1Q1JUdmZjTWtMUG5FVl9pSg?oc=5",
+          "published": "2026-10-30T01:13:57+00:00",
+          "reason": "Tokyo core inflation exceeding the BOJ target in October supports the view of economic normalisation and price stability."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ's gradual rate hike path could accelerate if another round of oil shocks drives up wages: Former official - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcGtvUG50YWg5WjlrY3BLTW5jX1JydWJvR3lBdGQ5SU1hV3BIaktDSlpKZUhmeERTTDNCWXB2X2FjdHE1T0pNMEdaeWlFSHJfTTFNZXoxRGNHRzZxRUpfQnFncllpZ1dNS2gzZ3JYclpTVnl0SlcxYS1SYk9uMFdlYzdEMUM5c3k3cFpUczk3c0JnQmlmdWF0bGRMb3BLdXRudkttb2V2N2xLc3Z1cDJJLQ?oc=5",
+          "published": "2026-10-30T03:14:22+00:00",
+          "reason": "Mentions a gradual rate hike path that could accelerate, aligning with expectations of further gradual hikes."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "KPJ Healthcare Sets Southeast Asian Record in Robotic Cardiac Surgery - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT2ExQlBfcVRPSUFSVWVFb0NyY0JrSWNmYUllVzZHRkozUFNNZXBNSlBDb2ZLSUlZSm1mbk1XZ0VYOGFXWklTejU3SWd3dVFEa1ZUOFVmSzFJUjh2U2pJMTZ4MzNWS0lrNFBsLWV3NHFjc01kY05IQXF2RTd1a25XZ0VodEZCWXZFTjJqc1RXbF8yRGJtUWVCSXZRUG5qdGxOemxvRklMczlISEJuRGh5U1NtZ0g3ZEVM?oc=5",
+          "published": "2026-10-30T09:05:00+00:00",
+          "reason": "KPJ Healthcare setting a Southeast Asian record in robotic cardiac surgery demonstrates advanced private hospital expansion and technological growth in Malaysia's healthcare sector."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "BOJ holds rates as underlying inflation aligns with 2% target for first time since 2013 - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8talZyVVhDS3lTcklPWGVGZ0RpajdfY0FzaWNYNEhRTzZaSDlqMHU3eFdFRmgyc241UnJSRGN4RHdlOC0zQ0taR3YyeGVwdWJjVXdFbWxLWHFRMVZKLVR4TkNyMDh3VU5RdjVjbnVLcFbSAXZBVV95cUxPVkFxbzREZEFuS3drT0c1ZFpvZWJuYzRqY1dBd0lnRzBNTUJsRDhaYlFHdGo2WkFvWUNHQzVGcFBOd3loYXhXM3FUbmUzS2IwU2I5cXhYTHd5Ykx1WlZERVhFVUhNUUozXzRwRFJsNXBnSDJJWFl3?oc=5",
+          "published": "2026-10-30T03:16:00+00:00",
+          "reason": "The article confirms that the BOJ holds rates as underlying inflation aligns with its 2% target, supporting the claim that the central bank's underlying policy outlook and inflation trajectory remain aligned with expectations."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Yen gains after BOJ; AI selloff weighs on dollar - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORzZRSE1KbTdmVDhpTS03eHU2MVVEUEJUNDdnNmY5ZFVKaDhib3UtNkNVV2JxeVRGeEsyM0EwdUprc1NLcV9WN0xtLTNrMUEtM1ZWMV9ZLTd4RmRlX0pTR25Ld3BNdzN5Wk5sRzNuVVNPLWtyNWhWMlVzUUhQS3pxdTJfY0otcldfVnJ4T3V4ZU9MU3VlQ0Q2blpsLS1naUtNSHRwUlVrUVFTQdIBrwFBVV95cUxQbUkzeEh5R092M1NZZkxCTjdqMVVKb2c1SXl0Y19lamZsQzlxT2xSOE0yS3ZpakhuMDJScG5RMHpIMVcyU2UwQzV4X2o5N0JFOXVpa1dwX2lvdFluNlZzYjVzNXZrUG9BTVF0eGU4SUNuTXY0NE1ESDhHYUVSZldqUjd4UmNiVUV2Wl9FOWF4dXcxcGtaU3FmZFg1bUtBY010RHZQMVZnNTlHQXhiTFJJ?oc=5",
+          "published": "2026-10-30T02:35:00+00:00",
+          "reason": "The article reports that the yen gained after the BOJ's policy decision, supporting the context of the central bank's hawkish hold stance."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ keeps rates steady, declares victory in hitting price target - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4wcHl6dXRpOXJQRDVVMWUyaG1BSTZ6QjFnMVQ2UVo5THBJX2xzMHpiSmNIOVllUjBLeTdzYmExWWFIYk5jM0ZLZzlPOE9INGlHdmtudQ?oc=5",
+          "published": "2026-10-30T03:51:15+00:00",
+          "reason": "The article notes that the BOJ kept rates steady while declaring victory in hitting its price target, aligning with the hawkish hold narrative."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s mega banks report profit jumps as margins recover - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNG9JOVNnZDBaT3JhWEd2Vlp4REVITDRFTExVcG1mRnk0eU5WYzBQS3prN04wV3lCN19UZ1Y1aWNOUXg3MnBWQ3NVUUIxVUcyVlpxZjY2YkxvejZXbFEwQVo3NUd3Z24tTEczdHNqb0swQnNIU2NmcW42T0JTWTNYQk8yQk9hVnZoa3ducnhQRkVCRThtMjZYSGhocmpydw?oc=5",
+          "published": "2026-10-30T10:15:56+00:00",
+          "reason": "The article reports that China's mega banks are experiencing profit jumps as margins recover, which runs counter to the claim that global financials face limited upside due to mature margins."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China\u2019s mega banks report profit jumps as margins recover - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DV1BMaHFKVDlYYVkyU0hkVmhaTDBOeVd4WThCWjY4dHRBTXJaVlhDckIxSHA2VFhHOFl3T1RpOHJabG5VVmMzdFFDTFFsazNpcjRV?oc=5",
+          "published": "2026-10-30T10:12:05+00:00",
+          "reason": "The article states that China's mega banks report profit jumps with recovering margins, contradicting the claim's premise of mature and stagnant bank margins."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "The AI investing story had a rough week. It may be time to take profits while you still can - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVMDB1eXN5V1R1ZjNPZV9XT2c5R3ZjUGJ5RDBHQjlEVndKSHVPM3hndmJ5QTVJbGNWS0wxdEwzdUYxTzZzVmdGYTd1dm5GUmI2NFZDemdnOVJsUzJEMWlXOTlCcWtzWVhfRF9uRUFBVEJZZUpVM19kN3pSUnB6dVXSAYQBQVVfeXFMTzBUcGxqV3FxbkpSOVV5WV9KblBpbF9vd1lGNEdPay1SWXNZN20tRlpVOEFyTzRxSzFfQUdsbmVyeTZoWGg5ZlRCSDZNMTd0amZyQlU2VEpTX3NCMVl3Zi1UZEFEQUloWXRpNlMzSTlRS0ZzY252QzAxQ2pEc1RWbHI0YUF4?oc=5",
+          "published": "2026-10-30T17:17:28+00:00",
+          "reason": "The article discusses rough AI investing and suggests taking profits, which complicates the claim that underlying chip demand justifies an attractive 3.5-star outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUNkbFdtOFpFalJSNEk4SnFjbVI0c3ZzbjFvVU50WGpoZURxeURhajJET1RmQzVrcW8tbzJKMGpYRjhKTndfeVI4YnhaSV9NXzFHYlc0OEwtZVhOYTFNa3B4Wks3OGRxcmVBenA5MnI0LVdCQW5hYnBEMU5FVEN4ZVBUbUtiaGNGUmFrZERIcUYzZ9IBlwFBVV95cUxNYTZPZTVqb0NZbTNWc1VacjRLODhlUmpUekNhaUtlbkx2SkJXQ2VNbFdMSlNENUR5UXVtR0VTeUU1LUVSS09JY0NOVWhFWHE1RWVFeGpiLWF6b1VWWmp6QUdHZXJwX1NodjI1WFlSRTRmYWF2NEwyZlJxdWRVVlhjUFZLQWwweW5SOEdHcWVNTzhJRm5UY3ZR?oc=5",
+          "published": "2026-10-30T08:27:22+00:00",
+          "reason": "Intel stock experiencing its worst day since the 1970s conflicts with the positive sectoral view of strong semiconductor resilience."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Intel plunges on a major guidance miss. What went wrong \u2014 and how to proceed - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRmx6dzVUSEY4SjBYbzRaRm90R3VvQTRMZ0d0Wkx3VmhScllJMVpRMDFxeGZFNUhnYlFzR2JteHhIZzVqUDJFQnJXVV8tOWpfdHM3REZVLXVKd3hoaUxHaVM0VDB1cW9VWDROR1MwRDYxVXgyek52d2paejgycWFoOWkwMWVDUzA1X3NvZDhlVGtEanRST2xFOFJzRXVyb1JzV214cUdYclk2U1ktNUowSDJuakY0QzdzVlFfYw?oc=5",
+          "published": "2026-10-30T01:06:00+00:00",
+          "reason": "Intel plunging on a major guidance miss contradicts the robust underlying sector demand narrative."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Tech stocks tumble as Amazon adds to AI spending fears - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTUFQX2Zya1Z0TVZtRDc0Wm9uaEZaQnVkbm52VGVtYzJHZ0U2b1pSQjZrdXd4TjVhNm94eWVwYXRNZXl2anVvUGJrOXMyVWtmTEhQTm1ZR1hoaEU3Y3B0c2RDTmg3bWlGVVlHbmNDTTdIa1EwVTBNWWY1Q1V2UkozOU91ZGxzTnlwX1Bqd2FwczVPbXBBa3czdzYyV3Q?oc=5",
+          "published": "2026-10-30T14:19:14+00:00",
+          "reason": "Tech stocks tumbling due to AI spending fears contradicts the claim of steady confidence in AI funding and chip demand."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Stock sell-off deepens on tech earnings, bonds rise - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVBWbmg0R2FxaDhPdGo0T1JmdDlseUhkUEdDNDRmSHB5V0JxakRXQUdhb0NMYk5BSzl5M1IxM1ZqNlU0R3hvMWd6V3I2S3FUNDhyMnJMRFhMNjVESXpZNWd1ZjlRWXhyQlJaRTVvTXRzWTlFNU93b3Z2dWhnelZMVUdYaUJjeThzOGJoZTYtWm5MUEoxX0E?oc=5",
+          "published": "2026-10-30T02:08:58+00:00",
+          "reason": "A stock sell-off deepening on tech earnings complicates the claim of a strong outlook for semiconductor stocks."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Tech rout hits South Korea, Taiwan; Jakarta faces worst month in 18 years - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaYnlZQjJZNHJEQzV5LThmUzhjRFhMN29jZ09FWEtFOGlTTUpOMEFOLVVwdVEtaWQxTFM0eWVRSEF6LU9oQ0U4N2M2Uk1ZclhjUF9r?oc=5",
+          "published": "2026-10-30T05:23:13+00:00",
+          "reason": "A tech rout hitting South Korea and Taiwan undermines the claim of sustained strength and positive outlook in the semiconductor sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Amazon sinks as AI spending eclipses fastest cloud growth in five years - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1TcmN5RVotSUMwSG1YX2NORGN5V2ZVbDFXa1Y0N1g0ZkVZaVExT01VRXU1UElNTEVObUZkcDh1anI1YjVkX3hQWC0xaG1MWXlGQzUw?oc=5",
+          "published": "2026-10-29T23:40:40+00:00",
+          "reason": "Amazon sinking as AI spending eclipses cloud growth highlights market skepticism over AI funding, complicating the positive claim."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Intel shares drop 21% on Israel factory blast, PC weakness - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2MEpUazRBOU14R0RzSFR3LXR1NXFhNlBlQTVheGJZcmhMYkpOVDE0T096X0tQVnp0SDR6QURSdkx4YXBEMUhhT2VqU0dJM01XS244?oc=5",
+          "published": "2026-10-29T23:51:34+00:00",
+          "reason": "Intel shares dropping 21% due to an Israel factory blast and PC weakness contradicts the strong underlying sector demand described in the claim."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL"
+  ]
+}
