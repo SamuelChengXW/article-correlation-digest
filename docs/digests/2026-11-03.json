@@ -1,0 +1,248 @@
+{
+  "date": "2026-11-03",
+  "run_ids": [
+    41541936682
+  ],
+  "generated_at_utc": "2026-11-02T23:17:50.783281Z",
+  "tracked_count": 29,
+  "findings_count": 19,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Northern Solar secures solar-plus-battery projects totalling 189MW for data centres - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1R2ZJOEtzaVlxaHFyUWNFWGREYXFOSG5Lc3VmdUlaY3Q2RVpPcjhiSlg3NjV6SnA0dXRldzFQZzdMZ1BpM3Exa3JLeXFrZXZQdUpV?oc=5",
+          "published": "2026-11-02T13:54:31+00:00",
+          "reason": "The article reports that Northern Solar secured solar-plus-battery projects totaling 189MW, reflecting strong activity and expansion within the renewable/new energy sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Lombard Odier sees pockets of opportunity in 'New China' as its value trap begins to diminish - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEE1M0NIbzlGRFVZMHFmM1l1bU42VVlLWHhHUkhBVFh4WFROdWpaM1FLRXZtcnk5dVpLdnpoVGVfU0RsQ0NYWVAxWTdjSDBVeXhpVnJqZFpIdWZCTlRIUFRWSFN3U2UybjRkWHhhUkQ0WkN1RUhKX2hzSEt3azY5Nzc2d3VWSHZ5NEVmVjZHODNtYlZDVWxkYlllR1h4Q1FpWEJtSXZoM2h2WVNXNXl2Yg?oc=5",
+          "published": "2026-11-02T04:36:00+00:00",
+          "reason": "Lombard Odier highlights pockets of opportunity in 'New China' as its value trap begins to diminish, supporting positive sentiment toward Chinese equities and sectors."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's top three airlines head for full-year losses as fuel costs weigh - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9TQUtOTU1kUURtUDhxT3FUX3NfVDQ1alhPSENkME9qdjNRcHJRcUNZRXB6R2QxZDNWZ3JRREx0U1lHdTRyOGhmSEhUblF2V0U4bzhv?oc=5",
+          "published": "2026-11-02T08:44:22+00:00",
+          "reason": "China's top three airlines heading for full-year losses due to fuel costs complicates the broader narrative of sustained strong performance across all Chinese commercial sectors."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "China to expand stock support tools to stabilise market - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSlFXdlE1QThWSEZWcm8yS1JxbWpoZzBFbVRMX0liSGR3RGtzcTlqNVpTM2hpMl85V2h5S3BLNnd3UDRGOVZNMFFQVkNKd1h2dnRYVVVtOEw1OHRPWG5qSkFueTFJaEw3cHgtcWdwZVJIU1R4ckVrci1hSXpQRWlRVzUyNUVxWE9kRW9JQURlTU9RQnVZQllLZw?oc=5",
+          "published": "2026-11-02T14:12:53+00:00",
+          "reason": "The report that China is expanding stock support tools to stabilise the market directly supports a supportive environment for Chinese equities and ETFs."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "BOJ signals low hopes for consumer spending as population falls - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaS1vNGpzOEdacGdDeHQ4cU1JY2hBWHFyeWNud3RraUtWWDlsZVRjNlBWb2RNM3pLSV94MUZ0emFUVXhZTU8yLVlCTFdna0dMN28yN3hlLXNXdGNhVGdYZE5LTm1HdFA0NkM0X1JRYU5Ha1Uya2NRTVllMm1oa1FYekFpcmRJWkJUM0J6SkNBU1VLc09JbmEyVnEzR0t2cjNSOUE?oc=5",
+          "published": "2026-11-02T07:58:03+00:00",
+          "reason": "The report that the BOJ signals low hopes for consumer spending as population falls complicates the claim of smooth economic normalisation and growing confidence."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ flags progress in anchoring inflation around target - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sT0Ytd2RRam1BNGZEOF95dTVYXzdRc1RIS0VMWExQZ3RMWTB6YXRURVU0WmJ3NzBaOWZvVXZIem5WY0pXMEdmYm9qZWt3TEV3OFNB?oc=5",
+          "published": "2026-11-02T06:23:06+00:00",
+          "reason": "The article states that the BOJ flagged progress in anchoring inflation around its target, directly supporting the bank's confidence in economic normalisation and rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Lombard Odier sees pockets of opportunity in 'New China' as its value trap begins to diminish - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMEE1M0NIbzlGRFVZMHFmM1l1bU42VVlLWHhHUkhBVFh4WFROdWpaM1FLRXZtcnk5dVpLdnpoVGVfU0RsQ0NYWVAxWTdjSDBVeXhpVnJqZFpIdWZCTlRIUFRWSFN3U2UybjRkWHhhUkQ0WkN1RUhKX2hzSEt3azY5Nzc2d3VWSHZ5NEVmVjZHODNtYlZDVWxkYlllR1h4Q1FpWEJtSXZoM2h2WVNXNXl2Yg?oc=5",
+          "published": "2026-11-02T04:36:00+00:00",
+          "reason": "The article explicitly highlights that Lombard Odier sees pockets of opportunity in 'New China', which directly aligns with the fund's focus on Chinese new-economy consumer and services-oriented sectors."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ flags progress in anchoring inflation around target - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1sT0Ytd2RRam1BNGZEOF95dTVYXzdRc1RIS0VMWExQZ3RMWTB6YXRURVU0WmJ3NzBaOWZvVXZIem5WY0pXMEdmYm9qZWt3TEV3OFNB?oc=5",
+          "published": "2026-11-02T06:23:06+00:00",
+          "reason": "The article titled 'BOJ flags progress in anchoring inflation around target' directly aligns with the central bank's projected core inflation trends and inflation-targeting policy outlook mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China's main solar poducers post losses in latest quarter despite margin recovery - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObHI4TlhRVHByXzFvU1F2VVNnOUNXUzU5bm1reDk1alJvQmY5QTJxdWtONmZ2WHVjRGtScWFTTEJkY3VCODJESENrTnZVZXVzVGNsUmplemFnbU5nblBZWHVPOWxvdXVFNTVxMTVrSVltOVZfSHQ1WVdFYURNUVc2SklLS1RjZm5UdVo2QlExcFlaY2hFeEFLQ285Um9Lc0dDQ0FhSDY2cG5sQllDR0JGNkJtQXByVlVNeWptbFJGTQ?oc=5",
+          "published": "2026-11-02T08:04:10+00:00",
+          "reason": "The article reports that China's main solar producers posted losses in their latest quarter despite margin recovery, complicating the bullish investment thesis for the renewable energy fund."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Crude prices slide as investors brace for a big week - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObE9hWXJOTTl2MUJNRG1xRDgyNi12cG96QVhaSER6WWpyWERhOW9PWGFQNk1zcUU0Q1lBZERtNFRTSm1pcGphUjlBbTE4bmIxVUljTXV6T094bUdZbWh3Nk1pWUxuWVdWV0lWVjVsa3l6WGpqWlNaWVdqakJrcGtLcXZDMzhoX2NvN2dDTFpn0gGTAUFVX3lxTE9jZEl1d1Q2ekMxMlVDLWxiUVFya24zekdUTUNxNVlUOUhuT0xQTUhibmdPMW00YWMwUDlnR0tOc3hKRkN2VUtKSGdGeTZqbmxLUzFRd0pjSWMyRVVsbk14T1haUUl3Z0ZqR0VnTWtYQWR2YnhvcGR5VTEyamlZNmRGQkp4bXZKWTNGOFA1V3NYTjBXSQ?oc=5",
+          "published": "2026-11-02T12:57:06+00:00",
+          "reason": "The article notes that crude prices slide as investors brace for a big week, aligning with the thesis of retreating oil prices after initial spikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQXd1a2c2UEtTYmUxbDlrUGdYYmxXdWJJd19lbVVpa1NCZFNIT1ZpV2xBOEFmY195WVZSLXNIdktTTldXRHVlWHBYN0ZIRmhMb21lRWY0X1U2NERwSzNLSTFaVjNFTmVXWDBrM1BrNE8yTjBjVUdFWG9ET05OdGhPMUstRzljYTjSAYwBQVVfeXFMTVhDTDhNM0RuaF9EMUI4clJLbjhRWVNITUd3Z3BUX2dPaXgzOFVEYlFQajBfbTFpdGtoVzhsUm0tYkdST2VKYjZPbWZCZTNvVnJra1oyU3RWRUNkYmE2dElpVUVGRDBxLWVXYVZlOVBoUy1QNVJ6dHdnOVVJUjdSdm85QWRxWTFDUmMwTHY?oc=5",
+          "published": "2026-11-02T05:04:26+00:00",
+          "reason": "The article highlights that crude oil prices sold off more than 7% on Iran peace talk hopes, consistent with the view of price volatility and retreat from higher peaks."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil slips more than 1% as talks continue on ending Iran war - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXFJdzZHcVluVFBxUWhxNGQzS3U4MWlvaHJIM3plUWV4TG9vS2g3Y0tIaHRFOVRPTXJLVUZQcVVCRzBLN1JDbUltS1VsOHRyaGo3cGw5SXBNWFZiMGR4dGM3WFdFS1hQUE1aZ0ljMzZWTXBYUWZ3ZTlGTWlZMm1LdHNoLWh0VjlpazRkSmtCWnFsejVQeVMxN3Z2aDRyNTFHM2lnc9IBqgFBVV95cUxOeVZsMWsxS3gyLXRQcXpsb1I1cHVpeUhMNW1na0UyaDF3WUs3WVpLTmxBRUFMaE9EdG9zOEJHeUJyWWl2dnU4SzRHeGVLLVdNTEpPaldOVUVKUGh1UFFRcGNUUjVnT2FsaW5yU1dyaUlDM1dfNFRxQUIwSmVGSF9lT0tlS3BMLUpvek5oUHZjUzl0cVBLSnM2XzJ2X2NsR1h5MUJpdk1sYmd4dw?oc=5",
+          "published": "2026-11-02T01:41:00+00:00",
+          "reason": "The article reports oil slipping as talks continue on ending the Iran war, supporting the narrative of declining prices following geopolitical developments."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Copper recovers as easing tech rout, lower oil calm growth fears - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaEduWDlZUUIyaXBSRkkyWk4wUUloRElZNHhLY0V5ZWw3em5XTWJqUFFPMlEtcUFydHRfa2R3c3lYRXVRb1BkSVQ0VmxVc19XS05ETlFfcU5teHVlR2ZhUHRhV3dWQzhYRFRwZGZzblBEcjZYNEU1akVvRGFiOUZmYWhxaTNnUExrZHZ2Z3FaMlRPVXprTGl1UDZyV0tyM0VDclRzSlY4RENvZ0JmeDlR?oc=5",
+          "published": "2026-11-02T05:04:26+00:00",
+          "reason": "The article mentions that copper recovers as lower oil calms growth fears, reinforcing the context of shifting oil price levels."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Copper recovers as easing tech rout, lower oil calm growth fears - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6MTlQdk5KYTM5Tlp3Y1ZBOTN3TDh2N1lkYXFiSDZMVHJuX2Y3U3JLYmZTTnpGblV3R1V2aEM3S01vRGUxR1Q1UklpQnRPYy1sLXFj?oc=5",
+          "published": "2026-11-02T05:13:00+00:00",
+          "reason": "The article echoes that copper recovers as lower oil calms growth fears, confirming lower oil price trends."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "China's big banks post fastest quarterly profit growth in years as margins stabilise - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE96YmhmTnU3RXFuUDV5bDN6WlhRdkNZSUZkNFUxVWZtekdpel9yem1JWWJZRndMbkl5OE9mWUZwVVJWeUdOUmtuMFFWZTlxQmxIZVRR?oc=5",
+          "published": "2026-11-02T00:35:56+00:00",
+          "reason": "The article reports that China's big banks posted fast quarterly profit growth as margins stabilise, aligning with the claim's outlook on selective banking sector performance and stabilized margins."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Lyn Alden: I'm still bullish on the semiconductor space - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTU5LSkRsOFF3S2lsaHkyU2lQMjlfaU5adjZKb3FtMy1nMkJ2T1U1NWJqcWV2T3NfZGEzdlk1QVZwVHE2VWk1RTdjeXd4UWZQRGVOT3g2Tk9Bek9GQms3Z2ZYUWVWdDlRc0RXVndfdTg0bzhCcXN6M1VLVXRjZUdVQTVlalRsVDVLS3hIV0tiOUZZS004THg2ZjFaNnM?oc=5",
+          "published": "2026-11-02T14:34:52+00:00",
+          "reason": "The article's title explicitly states that Lyn Alden is 'still bullish on the semiconductor space,' directly supporting the attractive outlook for the sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "S&P 500 falls as chip rout offsets US-Iran hopes - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDBmVE1nXzFzaERoMHdQQXF1ZXNqbVlEV1VVNkh5NElfQVozTnJQVUxwREl2UVV1ZFF5bGtScFZ1SEQ2cFNMLXl0aXJta2hRMmNnTEwzUmRsTURPcUZ2d3Q1NWJMU0JZaVVJSU55MnFucUZYajFidUZNV1RYVlhMejFlcGNtNFBWaTNlY05jOVVPcmI0NFdR?oc=5",
+          "published": "2026-11-02T22:07:24+00:00",
+          "reason": "The article references a 'chip rout' affecting the market, aligning with the claim's mention of declines in US semiconductor stocks."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Lumentum CEO touts 'enormous' opportunity in massive AI connectivity deal with Marvell - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56UDJLTlRLck1UTTdLZE5Mb1M3OWFjekVJTDRUUmxxanRNR1N5UzRlcjZxMDM0Rnh3S2hKTGF1STVmN2s4SFNnODNYd0tGa2NRTmlSYnUtSTRDNmJtcDBUV2ZNV2txci1WUDVTTmxn0gFzQVVfeXFMT28xaUpnSkY1R2JoeTk3bWRVSlZ6bUNKdXNQWTRVMDBIMjJ0bTZiVFpxMW9UQmFoVEpSb0pIMWdjTHhoRkxDVzk5ei1ZbzBDUjRnMnJLNE8xOWVqSmxoVjJURmRpTXJqX24zZmQwNzFIWFg4VQ?oc=5",
+          "published": "2026-11-02T14:10:42+00:00",
+          "reason": "The article discusses an 'enormous' opportunity in an AI connectivity deal, supporting the underlying strong demand data for chips related to AI."
+        }
+      ]
+    },
+    {
+      "title": "Q&A Series: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/400440",
+      "claim_summary": "The article presents an investment Q&A detailing the portfolio positioning, strategy, and market outlook for the United Great Dragon Fund, emphasizing opportunities in Greater China equities. The core thesis evaluates the fund's exposure to Chinese economic recovery trends and sector-specific growth drivers to generate long-term capital appreciation.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Danone targets China\u2019s ageing population with new research hub - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwNGFPMU5PNVRlaktMSFd6NTdQU2l4RDVBY0l0aVlXMHk3MzNCZUVnZmJ3SlA3dVR6VU1GbFhJazZjS0NpWXhKaXlkSWE4Ry1pbF9j?oc=5",
+          "published": "2026-11-02T13:41:34+00:00",
+          "reason": "The article highlights Danone targeting China's ageing population, reflecting the broader economic and demographic focus related to Greater China investment trends."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
