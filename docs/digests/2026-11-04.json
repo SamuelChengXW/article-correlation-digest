@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-04",
+  "run_ids": [
+    41735602365
+  ],
+  "generated_at_utc": "2026-11-03T23:10:52.404574Z",
+  "tracked_count": 29,
+  "findings_count": 24,
+  "articles": [
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Tokyo is world\u2019s priciest city to construct data centres; Singapore ranks fourth: report - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdERMd1l4cGVodk45aTdTU0l6M2ZmbkVxRVVhb09OZDdqSTlQbkR5bTZjd2FTbGpQTWhGNHlMLUJFb25LMkJTQ2J2MG5XYmNlenBDSUV5bGVCakRuN2ZoWTM2VnUtVk5NbEFjV0g4WkRQWF9UZWcwejhLLXY0dmcwZTk4VDFEOGFRVUhnTWREa2cwYXY3S3Y0bDg2eEJpbEV4VFBVX0pfV2FGMDh3bXBnZ0I4SlQ1SlB6Uk8zcnZ5eTA5UWJi?oc=5",
+          "published": "2026-11-03T08:09:32+00:00",
+          "reason": "The report noting that Tokyo is the world's priciest city to construct data centres supports the claim regarding Japan's AI infrastructure exposure."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Asian tech stocks to rise on AI rally amid US votes - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmp5TjAwY2lCanh6RFFweDZ3cXNKam1VSnJVQ2ktRk1WMDBlTzVzaVNkWTdZclo0V2Jsc0ItVHVzc2ZHQmg5Ykd3cy03N1FXWldpbjBwbU9UU2xHbDNucTFSU2w1RWZTNnhfMm5tSFlVa0tHUlRKa0c2QlI2MTdLT08ySE1FMXotWlowanBjS0tpM05lUjItWA?oc=5",
+          "published": "2026-11-03T22:41:00+00:00",
+          "reason": "The article mentioning that Asian tech stocks are set to rise on an AI rally aligns with the positive stance on Japan's AI supply chain beneficiaries."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "published": "2026-11-03T21:17:55+00:00",
+          "reason": "The report that AMD stock jumped 7% on earnings due to nearly doubled data center revenue supports the strong financial performance and AI demand mentioned in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "AMD forecast exceeds estimates after AI chip demand soars - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2xjeXh1VElvSDA2TzU2c3Fpei1vUVVaVUFFQUJFdS02ZjFGSk83VTRaWHJVY2p2dUJuWFl4M3pxOUIxYzdxWHg4cTlaenNCMFo1NFhLcjZfQml2LVNYc0ZpZFlsR1BBS05IaTBZR0UyVzFkOVJZMUJqOEg2YlR4eDdhcTN3b1Z6amEtRER1X0lyalV5d3I4RHpGZ0hZQ1dnVHU1UmREQW0?oc=5",
+          "published": "2026-11-03T22:33:36+00:00",
+          "reason": "The article stating that AMD's forecast exceeded estimates after soaring AI chip demand directly supports the claim of accelerating AI infrastructure demand."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Not seeing data center weakness out of AMD, says Wedbush's Matt Bryson - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ2ZoakdQN00zTF9LVXE0TkMxRnphX2NSczJLWWJmd3luc2ZGMXhQU2Y1NnVJNThWNW4yWGplekc5SFQxQ09YS003QXNYaHUtNm54VUhKOWR3eVdKNHQwRFdhUkVHbWpkNUt6bTIwWHBWenkzUjBXODlqZGtPNW1HYTlwVFJycWVmRG5NTVZiUWp5SVlRaVFJYVVaWWV0TFpVT2M4cXVJak0zSl91WjROYw?oc=5",
+          "published": "2026-11-03T22:51:30+00:00",
+          "reason": "Matt Bryson's statement that Wedbush is not seeing data center weakness out of AMD supports the claim of sustained infrastructure demand and validates the BUY rating."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Stocks making the biggest moves after hours: Arista Networks, AMD, Super Micro, Skyworks Solutions & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQlozRVA0VGN0bWpqSlFrWGdNM3hoYUdsdzlFRFl2YjdSY21ma3NpR1Z6REJZeEU2eWJpamVBTkJubFpDUlNZeEF0ckctQ3lyYXh1Y0h0NURFdWs1RENxaE0tYmJjcGFxTTVDZjRibU5wX1hyVmIzSVQtZ0F3R2tLaGIzblhMcXRkWmZPZVpZWWhTNlM4blNtQUQtWUNoeGs0?oc=5",
+          "published": "2026-11-03T22:06:46+00:00",
+          "reason": "The after-hours stock movement following earnings supports the strong quarterly report highlighted in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bernstein's Stacy Rasgon reacts to AMD's Q3 beat, stock jumps 7% - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TVktsTUVHVnFPZ2tSTEptdmdQa3hxcF93TXVpOVJvcWxWN0dOSFhOb3FfaldNQmR2M0ptdElzZ3VVNWpKRTk0bjltN3JieVFXRFNodW90Q0dRWnA1eUZtcmFGRFVGcVdrcGJsejVBajJBSDMtX0pyakhaNA?oc=5",
+          "published": "2026-11-03T21:55:31+00:00",
+          "reason": "Stacy Rasgon's reaction to AMD's Q3 beat and the 7% stock jump reinforces the positive earnings results cited in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD posts Q3 beat, stock pops slightly in extended trading - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRExrcUVudVRqLTc4b0dmdGwzUUtlUS1vRFRFRFhCcTktb2JneFY3LUcxajlmRF9wREo2SnB3MDlRT1hMVHZTaHpIX0UtelpNZXc5Vy1NWHVkcHljUUdURDRJak9EcU9XWE9UQTUtN0ItLTBsak80c3BINy1uSUVaNXRSa2xKQlZBbjF2MXdSUl9tbU9HQnlDRUJZbDdNbHhmZkE?oc=5",
+          "published": "2026-11-03T21:39:04+00:00",
+          "reason": "The report that AMD posted a Q3 beat directly aligns with the financial results and positive outlook detailed in the claim."
+        }
+      ]
+    },
+    {
+      "title": "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+      "fsmone_url": "https://www.fsmone.com.my/article/386880",
+      "claim_summary": "Despite AMD beating 2Q26 expectations and raising revenue guidance on strong EPYC gains, MI350 adoption, and the Helios server ramp, the stock was downgraded to Neutral with a price target of USD 509. The thesis asserts that elevated market expectations already price in data center acceleration, while actual shipment volumes and profitability remain unproven.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "published": "2026-11-03T21:17:55+00:00",
+          "reason": "The article reports that AMD stock jumped 7% on earnings as data center revenue nearly doubles, aligning with the claim that AMD beat expectations on strong data center gains."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Singaporean plan to import clean power hits Indonesian hurdle - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUxkekpBYmZXMHhJTWM3Z0NmMWIxVG12dDc0dy1nSC00RERYZGoxSUg2b3FFb3MtbjFtMUZod0QwRzNOQ2RDcTBJallVR2ZtRE1CQlBpQUtnVmJCaWlrTUZlRi0xeHI4anBNaW1peEVYelgya2hnTUxvNm8zdm5rRllLbkN3NWd4VUU0dlJMNDJJejktSFRydVdMTXQyWm53eUhqNnVn?oc=5",
+          "published": "2026-11-03T04:56:02+00:00",
+          "reason": "An article reporting that a Singaporean clean power import plan hit an Indonesian hurdle indicates regional friction in renewable energy implementation, undermining a bullish outlook for the sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Singaporean plan to import clean power hits Indonesian hurdle - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjMG90Umx2RDBwLW9tWWlBUUJwTGFiQktIdE9sVGRuTzJwZENmbUVUZ3lqc1BqOUNQNk9iT0g3WTkxWFJwQkwyS1RveFZHOVlka2xz?oc=5",
+          "published": "2026-11-03T05:05:34+00:00",
+          "reason": "Articles detailing hurdles in clean power importation projects highlight headwinds in renewable energy initiatives, complicating a purely bullish thesis."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNjh3NEVPYnU5cTEtUE1OU0pwY3hYNE1qaHdxRVRjNGVSYlQxdndWM0hVNWpaa3RuRVd2MGZFQzY1aVQtVHVJSURmQ0lfdFFRdVB6MEpGV2lOR3VNbG8xSkFzRTZSUEFOSG9NMV9wZ3NiR1NOOHBmalNqeWlTTnFWU0dWbGFkaXAyNU5JQjMxODdwN1VnQzF1OGZoc2RtRWpLS3fSAacBQVVfeXFMTzVnZ0dQYzNVdFdLR0FiRVVXeWozMGZmNTR3QXVmUUNJaGF6QWJZMEtuanJuZUNNbVdncmRnY0FhYjFkSWQ5LUUxWEMwLVdoMUpiWk9ndElqQW1uSkliTjRIem5oNkJJek1Va1h4YkY2MTZVU0NEVEYxbFAtbXhaX3Rwc3VZaklkQ01CWDdrUTlQUEpEY2tFWDVNclR6cVhxNk53Vm91bU0?oc=5",
+          "published": "2026-11-03T06:41:07+00:00",
+          "reason": "The report that crude oil prices fell due to hopes of a diplomatic resolution to the Iran war aligns with the premise of retreating oil prices following initial spikes."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Dollar under pressure as oil prices slump, Australia rate decision awaited - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUVpcXBPVVJkOHNzTFJSM2x2MXlzY3ltejFRMmFJSVNtNzBpVTNzYXAtQWllMWoyWXFISk5qVmxuZDdna1pXN2RZeUFmZG1ieEJYNXJHZWNNb0IxaE1DN2JxMmdFeHhFR3J6TXNhbnZRWUloUk40czhheW9BUTFlVktRWWtaaFF4RWZDTm4ybXIzWUYzb1hYNEZldjZmVmZsWjRHYmNZa2dxM3Bya1Qw0gG0AUFVX3lxTFBEdlNlS1RiLTRCbDBrSHpCcGRzV3FWNlliRzBkYnNrNm54ZnZrU3lYbmlPZ25hSktma0k0amlNRS1xdTBLOElaQ0dodkN2WFVPVGIyamxuY3NUWFdkdXd5ZjRZSU1iWkNVM0FYQzR5MW02UHVXN3F1RElHOGdIenBuY1dZb21sZFB5MFZVT2F2UHNWUzgyNVRITFFJTlNjQ085MkJabUN1RFlsaTJoU19FYWVSQw?oc=5",
+          "published": "2026-11-03T01:47:00+00:00",
+          "reason": "Mention of an oil price slump putting pressure on the dollar supports the narrative of retreating oil prices after conflict-driven highs."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Jim Cramer says lower oil prices are giving stocks a boost. Can it last? - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nUGpvOWR2TXg1V3hBZGg3NVlXYW56a2pCeDJLam9vY1h1LVVNRkp6VWl3NEgyaTVreXNZNF9kT3FUOFU0MC1IektvLVJtUlZQVVRmU1RtYVhjRlJVdm9ROVlWdWtYQmJTckVqWTlLeXo0SzhLb1d3THQwalZ2V0XSAYQBQVVfeXFMT2xKU3JDcERNeGdhbGNqanY5UmluTGdOMTVCLXlyQURvZmdpSW93ekNSTERMeTJQaTJvckU0bVI0TG5PRV9ibDY3V1lPM3dWRHlJQnZEX21yMjhKNTlNaUs1UkxJcE43bGd3YkItTy1iSDMzU3RpVVktLVJxalNSOXhOZ2t0?oc=5",
+          "published": "2026-11-02T23:36:53+00:00",
+          "reason": "Jim Cramer's commentary noting lower oil prices giving stocks a boost reflects the declining oil price environment described in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Asian stocks fall after US losses; oil holds drop - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS3BDaVNuRHZlOXNLMTFDdG9MMjUwQlYwZGotWV8yb01Jd3FuWnphTVhOOTdqeFRJV0pOQ1N4MWN1SVJJNVFOQVk2b290N040VUk3SXozNmZnaWxOOGtjalVFSUNvdFpNNXpodzN6VG9CZzZzLUJmS3lJVW1CaEQwVlRrbDRqV2hFSGxYcGJXbk5KREVjeWlrVA?oc=5",
+          "published": "2026-11-03T02:19:00+00:00",
+          "reason": "The article noting that oil holds its drop reinforces the premise that crude prices have retreated from their earlier conflict peaks."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Malaysian energy stocks hit two-week low as oil prices slump - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UZ1oyNnhBUTczQUEwSEdRdWtlMzlBVE1lMnBPTHZkNHpURVBNOUgxT0FXbjBsYnpOTk5ORnREbXhuQ3lGR1lhaUh5Z2xnNDd2aV9r?oc=5",
+          "published": "2026-11-03T05:57:47+00:00",
+          "reason": "The report that Malaysian energy stocks hit a two-week low as oil prices slump directly supports the neutral-to-slumped operational backdrop for domestic oil and gas equities."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese stock sell-off resumes as rescue tools face scepticism - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QWFRBU1dMM1hTdnZsbE1CYk9JcUlKclRNeGJfNk9CWEVQVVdKejF2NlJFdjlhbU4tOGotMmR1SV93LWhqQmhwN2t4Zi1YMjM0elRB?oc=5",
+          "published": "2026-11-03T08:04:54+00:00",
+          "reason": "The article reports that the 'Chinese stock sell-off resumes as rescue tools face scepticism,' which directly contradicts the claim that China A-shares represent a compelling tactical investment opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese stock sell-off resumes as rescue tools face scepticism - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndzVWRkNTI4SUZTNEhpbEdIQmZlVDl1SnpfSG43NHpPWFBqMl9DLWVNandTSGlkUVlJU3lMWVo3dHlMYk9EbW5VdEhFUFNGQ2NFYWNJaFFsVzNJN1pELWwxaGwtZHJaOWFHa1U0bTU4YmxPRTBKbFZxMFVfdUpmdGg2aHRsZ1o1SDl5aFljSUpaeXZlQUJZNlhac2p2NzZO?oc=5",
+          "published": "2026-11-03T08:07:21+00:00",
+          "reason": "The article highlights that 'Chinese stock sell-off resumes as rescue tools face scepticism,' undermining the bullish tactical outlook for Chinese equities."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese stock sell-off resumes as rescue tools face scepticism - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSndzVWRkNTI4SUZTNEhpbEdIQmZlVDl1SnpfSG43NHpPWFBqMl9DLWVNandTSGlkUVlJU3lMWVo3dHlMYk9EbW5VdEhFUFNGQ2NFYWNJaFFsVzNJN1pELWwxaGwtZHJaOWFHa1U0bTU4YmxPRTBKbFZxMFVfdUpmdGg2aHRsZ1o1SDl5aFljSUpaeXZlQUJZNlhac2p2NzZO?oc=5",
+          "published": "2026-11-03T08:07:21+00:00",
+          "reason": "The article reports that the 'Chinese stock sell-off resumes as rescue tools face scepticism,' contradicting the claim that China A-share Information Technology is an attractive tactical opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese stock sell-off resumes as rescue tools face scepticism - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QWFRBU1dMM1hTdnZsbE1CYk9JcUlKclRNeGJfNk9CWEVQVVdKejF2NlJFdjlhbU4tOGotMmR1SV93LWhqQmhwN2t4Zi1YMjM0elRB?oc=5",
+          "published": "2026-11-03T08:04:54+00:00",
+          "reason": "The headline 'Chinese stock sell-off resumes as rescue tools face scepticism' contradicts the expected outperformance and attractiveness of Chinese technology equities."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "published": "2026-11-03T21:17:55+00:00",
+          "reason": "AMD's stock jumping 7% on earnings where data center revenue nearly doubled supports the claim of strong underlying chip demand despite sector volatility."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "AMD forecast exceeds estimates after AI chip demand soars - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2xjeXh1VElvSDA2TzU2c3Fpei1vUVVaVUFFQUJFdS02ZjFGSk83VTRaWHJVY2p2dUJuWFl4M3pxOUIxYzdxWHg4cTlaenNCMFo1NFhLcjZfQml2LVNYc0ZpZFlsR1BBS05IaTBZR0UyVzFkOVJZMUJqOEg2YlR4eDdhcTN3b1Z6amEtRER1X0lyalV5d3I4RHpGZ0hZQ1dnVHU1UmREQW0?oc=5",
+          "published": "2026-11-03T22:33:36+00:00",
+          "reason": "AMD's forecast exceeding estimates after AI chip demand soared directly aligns with the claim that underlying chip demand remains strong."
+        }
+      ]
+    },
+    {
+      "title": "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+      "fsmone_url": "https://www.fsmone.com.my/article/402060",
+      "claim_summary": "Sandisk is initiated with a NEUTRAL rating and a USD1,582 target price. While artificial intelligence demand and multiyear contracts provide earnings visibility, declining NAND flash memory prices remain a significant threat to its financial performance.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD stock jumps 7% on earnings as data center revenue nearly doubles - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBfVXVMaFFzOXpSSmhDS2xlZWZLZDk0V2w5MHpTSnZ3d2c5bkMzRDhwbzhURWpMMVcwX3ZiME8ybmU4UHR1ekdtVlUwRTYxcTI0T1dadVhheUQ0LVVpWnRqYjdmeDkxMGJKQXBkNUtpaEVKZVlXNEhYRdIBfkFVX3lxTFAwT0pLTUtFX3FhLU4tWFFuU3JjMXF4NWxpWFNVZEoxeTdqMVc2d201ZHRMdXV4cEg4VGNnd0RDRmhKbnNYZndMa1hhMzZ3Y0lUdk82SUprYVVibVZQT19vR05WaGZKZlBzcDFLZWNzczZkb0pDN180UTZ5MTRuUQ?oc=5",
+          "published": "2026-11-03T21:17:55+00:00",
+          "reason": "AMD's strong data center revenue growth supports the premise of artificial intelligence demand driving earnings visibility for semiconductor firms."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "AMD forecast exceeds estimates after AI chip demand soars - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2xjeXh1VElvSDA2TzU2c3Fpei1vUVVaVUFFQUJFdS02ZjFGSk83VTRaWHJVY2p2dUJuWFl4M3pxOUIxYzdxWHg4cTlaenNCMFo1NFhLcjZfQml2LVNYc0ZpZFlsR1BBS05IaTBZR0UyVzFkOVJZMUJqOEg2YlR4eDdhcTN3b1Z6amEtRER1X0lyalV5d3I4RHpGZ0hZQ1dnVHU1UmREQW0?oc=5",
+          "published": "2026-11-03T22:33:36+00:00",
+          "reason": "The report that AI chip demand is soaring reinforces the claim that artificial intelligence demand provides positive earnings visibility."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
