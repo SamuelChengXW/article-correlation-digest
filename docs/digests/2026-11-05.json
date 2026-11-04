@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-05",
+  "run_ids": [
+    41930143947
+  ],
+  "generated_at_utc": "2026-11-04T23:18:27.236670Z",
+  "tracked_count": 29,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/377660",
+      "claim_summary": "The Chinese renewable energy sector is projected to deliver strong performance in 2026, supporting a bullish investment thesis for the Principal China New Energy Innovation Fund.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Global renewable stocks surge after democrats sweep congress - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeVZuVjJZZ0NTOVQybWJaUk4zNllrcUZtamRJY0Q0dWNDOWhpZ3UtWTRzUklCM3JFRXJYRkppVjhoT1Q1SXFvcXBlTE1nUE14N28xb1oyM3cxNm9nZUZhbEZxcDVnLXJEZnpDN0FrTE5FOUdDX0pDZ1JtMjhnU0JZYV9vOFFfdm5PX2w4NDFUcUpMcmpEbHlNNWZzajlzZnk2UWZabUxXOXB2aGJNeXhnOER6Yw?oc=5",
+          "published": "2026-11-04T10:25:04+00:00",
+          "reason": "The article's title 'Global renewable stocks surge after democrats sweep congress' provides macroeconomic sentiment alignment that supports a bullish renewable energy thesis."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Crude oil prices fall below $90 a barrel as Vance blames GOP election defeat on Iran war - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUY1eDVzNHZ6MmNpdWJ1aVE4MEk5azk5QlpXV3dHTDdTYzJUeGtnc0lUdWFRNHZaY0hiOEt0Z1hGTVBjVkgycGU4ZE90OEdRUlN4czVBcXV0S2Z0RXctRlNicG5UOTFEeGNkZTZtNlBlUjJSbWVrVl9qLUJST0x5cGt4T0t5SG9E0gGOAUFVX3lxTE9ZT2lFbGJEQWs5RkRuNG9xQTBJTVM3M0hqVHJfSkpiYVBIMl9oa2JmbWNtaFZfRnVQMC1RbU9NeHFqOG5icHZyYUlBa0FSMUg0dmJqcDlBdG04czRiVVlaZlFoNnFEWEJGNjBOX01UWFI0VUtJQXdSZzdzVS0xR2JOaHl3LW1YemRhdF82WHc?oc=5",
+          "published": "2026-11-04T16:43:16+00:00",
+          "reason": "The article notes that crude oil prices fell below $90 a barrel, supporting the claim regarding declining oil prices from peak levels."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil falls on Iran war uncertainty, US Democrats' midterm sweep - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nOXJheUhSTm9hMWhzb1pqc0s4VDVyeGltT2NIbTh1SGF1Y3NuV1hKNzY1M005T3RLMTRIclpwQnZfUHJwSnBzQXplb0M4d0FkZDZMaGhFMlFpeVR4NVZ2SUdLN3c0R3JPc0pkU2hDZmRlc2JGcGtr0gF8QVVfeXFMTTRqTVdqRU5Fb0pVeEswTjNuRGIya0hCWTBJQ1NrMWUyNldJWVNqRW9NTlJUNVNpeTZNOXpYV2s3VUlIQ010X3puWGNtMzFBd0hrTWJKakotUTZjbjdVaUNobmdSNmJnVC1GTXBWNVdyWkc3WW9VSHp2ZVZ0Qg?oc=5",
+          "published": "2026-11-04T03:49:00+00:00",
+          "reason": "The article reports that oil falls due to Iran war uncertainty, aligning with the context of oil price volatility mentioned in the claim."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
