@@ -1,0 +1,288 @@
+{
+  "date": "2026-11-06",
+  "run_ids": [
+    42126179572
+  ],
+  "generated_at_utc": "2026-11-05T23:18:33.567349Z",
+  "tracked_count": 29,
+  "findings_count": 24,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ debated need for more rate hikes, scope for faster move, September minutes show - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OdDBSSkdrcklHU2djbTJHVWhTZUdJemN3Uy1tbUZVd0NpOU14aU80TF9RSDd0Q0M2dzQ3NExLc0JEQ3o4eWdyaU1STV9fVDJRX3ZMSQ?oc=5",
+          "published": "2026-11-05T01:17:50+00:00",
+          "reason": "The article states that BOJ September minutes show officials debated the need for more rate hikes and scope for a faster move, aligning with the claim of growing normalization and further gradual hikes."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+      "fsmone_url": "https://www.fsmone.com.my/article/371040/japan-s-ai-beneficiaries-how-traditional-industrial-leaders-are-adapti",
+      "claim_summary": "Japan's traditional industrial leaders are extending the AI opportunity into robotics, machine vision, and industrial data platforms.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China blocks SoftBank\u2019s US$5.4 bil takeover of ABB robotics unit - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmVzR1B6anpja1F0ZW56X2lmOXVTNGU5RWVUT0lha08xYWpBV2xlVEhvVk5BX0w2S0EyTGEzeFBSWXdBUkdESmRodTRxVFFfTS1GcUxmdlBaZ1d1RFplU3FmQms3dDNaMkNCQU9vOVE4d3hqOWFRX2N1NkpfeEFYc1ZoXzBDTlNKdC1uMExGdW9qQVpyckhuR0pxUzBYQkFz?oc=5",
+          "published": "2026-11-05T10:00:14+00:00",
+          "reason": "The article reports that 'China blocks SoftBank\u2019s US$5.4 bil takeover of ABB robotics unit,' which contradicts the expansion and integration of Japanese industrial robotics in the global opportunity."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Sony 2Q profit jumps on 'Spider-Man' and PlayStation boost - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hMHpqTTNFeUNSUlYyQ2RUNzcxNktOejhyYXAxMmstZU8tR0RiS1JEVllHU3dGcnBJSTJvajc0NTk5Q19QVHV2VFBoOVRYSkV6c2Nj?oc=5",
+          "published": "2026-11-05T07:50:55+00:00",
+          "reason": "The article highlights that 'Sony 2Q profit jumps on 'Spider-Man' and PlayStation boost,' which supports the broader strength of Japanese tech and entertainment infrastructure beneficiaries."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "BOJ debated need for more rate hikes, scope for faster move, September minutes show - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OdDBSSkdrcklHU2djbTJHVWhTZUdJemN3Uy1tbUZVd0NpOU14aU80TF9RSDd0Q0M2dzQ3NExLc0JEQ3o4eWdyaU1STV9fVDJRX3ZMSQ?oc=5",
+          "published": "2026-11-05T01:17:50+00:00",
+          "reason": "The article's title notes that BOJ minutes from September show policymakers debated the need for more rate hikes and the scope for faster action, directly supporting the claim that additional rate hikes remain on the table despite holding rates."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+      "fsmone_url": "https://www.fsmone.com.my/article/361820/malaysia-sector-outlook:-plantation-positive-catalysts-largely-priced-",
+      "claim_summary": "NEUTRAL stance on the Malaysian plantation sector: the 2026 CPO price rally (driven by elevated crude oil amid the US-Iran conflict and Indonesia's B50 biodiesel mandate) is seen as largely priced in already. CPO is expected to stay range-bound in 2026, with a floor near RM4,000/tonne from Indonesia's B50 diverting 3-4 million tonnes of palm oil from exports, but capped upside from record Brazilian soybean production compressing the palm-soy spread. Structural constraints include 32% of Malaysian palm trees aged above 19 years and low replanting rates limiting production growth.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "SD Guthrie calls for export duty waiver to resolve palm oil supply glut - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CNWM4N280TFdfZm9oQ3ZmeVptcWY3TVp3UGllUUU0aFZib21wbzc2OHlUZkctTXlEdThaZkVjTlE3TkJ3RzE0YzhrbVRJMDFfOEh3?oc=5",
+          "published": "2026-11-05T08:13:28+00:00",
+          "reason": "SD Guthrie's call for an export duty waiver to address a 'palm oil supply glut' directly contradicts the claim's premise of tight supply supported by Indonesia diverting 3-4 million tonnes from exports and a CPO price floor near RM4,000/tonne."
+        }
+      ]
+    },
+    {
+      "title": "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+      "fsmone_url": "https://www.fsmone.com.my/article/397060",
+      "claim_summary": "Micron's price target has been raised to USD 1,761 alongside a reiterated BUY rating following record quarterly financial results and elevated guidance. The thesis posits that surging AI-driven demand for High Bandwidth Memory (HBM) and enterprise SSDs, combined with constrained memory supply growth and expanding customer agreements, will sustain earnings expansion and moderate the traditional cyclical downturn.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Micron said to pause work on US$4.5 bil Taiwan plant after labour spat - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQREZNMXZ3SXVzMk9nbVo4VzMzV1FhVFA1aUpDblgyVGVwNkc3Vjd3enlEU0MyUXJHX2loX0x6bENHcE5pQ3Zld3BwRkFfM2ZzMlJDWDZ3WHUtSjhSaEExRm16WEczNjRMRndlTTFvRHpUZ2xlTEw5S3k5Qnc3TVJZb0hsUW12b0h5SU9lQmFRYXF3YVhRR1F2QmRNbWlzU19IZkNOVklNY1VYXzRESEMyalg5UGYxVTNHcjNmSjNYN3VEZw?oc=5",
+          "published": "2026-11-05T15:34:33+00:00",
+          "reason": "The article reports that Micron has paused work on a US$4.5 billion Taiwan plant due to a labour dispute, which complicates the thesis of smooth operational expansion and supply growth."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Micron said to pause work on US$4.5 bil Taiwan plant after labour spat - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9URjNKWkhMdmlieklLWUttVGprWUo1dnpuZmpyX1FabDdRNkJ2YnZrR0xxc0c1V0Y5eVFGZ3o5WWRJWUJWTlRla21HVlNlcU1xVlE4?oc=5",
+          "published": "2026-11-05T09:40:31+00:00",
+          "reason": "The article reports that Micron paused construction work on its US$4.5 billion Taiwan facility following a labour spat, presenting a hurdle to manufacturing capacity and customer supply agreements."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUc0JXdFFrNXJHSkxKclVRQkdfMXZNbmk5akFqZDA2dWFQbXV2MUd1d2V1TFhfVW9uT2F5WXJJVHZoNUZUUEtLVFF2aWotaHBVTk9kcFpvZkFucXppMlp3YzZvaWdXVmZ3ZUZJdzFsV3kzaXBMWnpiSjJ4aUhxcVHSAYQBQVVfeXFMTXVzSHktMk1IYUR5bm45MWpEQmRpZkkwbS1LSVNZZm02Q05uZE56ekhLZjBKV0RLWlVhdVoteHFra2hPOFdMNXEweDc4eUhvWTlqQWxwcXpMdURoMzVmUnBaMFRBc0RtTG1FQXhSekFZeDhSM25Yc3o2THdGckl0cEtLSG9q?oc=5",
+          "published": "2026-11-05T13:34:14+00:00",
+          "reason": "The article discusses Chinese AI labs seeking access to Nvidia Blackwell chips, indicating ongoing strong demand and activity within the Chinese technology sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China blocks SoftBank\u2019s US$5.4 bil takeover of ABB robotics unit - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQmVzR1B6anpja1F0ZW56X2lmOXVTNGU5RWVUT0lha08xYWpBV2xlVEhvVk5BX0w2S0EyTGEzeFBSWXdBUkdESmRodTRxVFFfTS1GcUxmdlBaZ1d1RFplU3FmQms3dDNaMkNCQU9vOVE4d3hqOWFRX2N1NkpfeEFYc1ZoXzBDTlNKdC1uMExGdW9qQVpyckhuR0pxUzBYQkFz?oc=5",
+          "published": "2026-11-05T10:00:14+00:00",
+          "reason": "The article reports that China blocked SoftBank's takeover of an ABB robotics unit, reflecting regulatory friction that complicates the investment climate in Chinese technology."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nasdaq 100 sinks 6% as chipmaker selloff deepens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU29TSTM1ZjZXNkMzUWp5V3U5OGc2dDB6ZE9BLW1QOTFQcm5MbzBwcTFVY3M5dk9jYjlMM1ctcERHWnA5dlBVa3MxQllDYW02bW5yZXl0UVVCazU5TkNra2lhUHVUNi1CSnBZU3BSTzROdWk0Z0h6bENGR1JOQ05DaGRjeC14LWVvTG9RYXhZbHNIQXFIbWhn?oc=5",
+          "published": "2026-11-05T16:44:33+00:00",
+          "reason": "The article highlights that the Nasdaq 100 sank 6% amid a deepening chipmaker selloff, which contradicts a compelling tactical opportunity in technology equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nasdaq 100 sinks 5% as chipmaker sell-off deepens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3VfUGJPMk50Q29yMGpDdlpWYTFyYVZNanl0X29QbDdZVjZodlFyS1F3em9PZk1xR1BRV294MzR2M21YcE1uclEySk9kZUJTNW0tcVJxMVV1OG12eWpkTldiQW12RktZd3dGUzVnSlVldjc2aHJpLUNHU3FURFBlSTAyT2U0a0piWUdOVm9PU0t2S00?oc=5",
+          "published": "2026-11-05T15:41:36+00:00",
+          "reason": "The article notes a 5% sink in the Nasdaq 100 due to a deepening chipmaker sell-off, undermining near-term optimism for tech sector investments."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Hong Kong stocks roar back as value rotation boosts Chinese tech - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NMnZYWllxendhN0NfcWV2cHQ1d0RWY3hwb3ZHdEdEU05jUm5KVm4tSjN3NVBwQWlweG1NaEtRVmU5cGpOT1JEYTlodHIxMzJKMEFv?oc=5",
+          "published": "2026-11-05T09:51:56+00:00",
+          "reason": "The article explicitly reports that Hong Kong stocks roared back as a value rotation boosted Chinese tech, directly supporting the tactical opportunity claim."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nasdaq 100 sinks 5% as chipmaker sell-off deepens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3VfUGJPMk50Q29yMGpDdlpWYTFyYVZNanl0X29QbDdZVjZodlFyS1F3em9PZk1xR1BRV294MzR2M21YcE1uclEySk9kZUJTNW0tcVJxMVV1OG12eWpkTldiQW12RktZd3dGUzVnSlVldjc2aHJpLUNHU3FURFBlSTAyT2U0a0piWUdOVm9PU0t2S00?oc=5",
+          "published": "2026-11-05T15:41:36+00:00",
+          "reason": "The article reports that the Nasdaq 100 sank 5% during a deep chipmaker sell-off, contradicting the expected near-term outperformance of technology index ETFs."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Hong Kong stocks roar back as value rotation boosts Chinese tech - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NMnZYWllxendhN0NfcWV2cHQ1d0RWY3hwb3ZHdEdEU05jUm5KVm4tSjN3NVBwQWlweG1NaEtRVmU5cGpOT1JEYTlodHIxMzJKMEFv?oc=5",
+          "published": "2026-11-05T09:51:56+00:00",
+          "reason": "The report highlights that Hong Kong stocks roared back driven by a value rotation that boosted Chinese tech, supporting the positive outlook for China A-share IT and related ETFs."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Magnificent 7 loses $1 trillion. The most eye-popping stats from Thursday's tech stock plunge - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aaGJjZjh4ak5fMmZQeU9nTW93aHhlc3VqMGZ6MmxpLWN0MlFNWFBjaHlsc0kyUVRnczgxYkNVSDB5VDNkVWgtVl9PRGpiOWVVNWhWNE4wRGViUFhCN1VfcFpFbzFjR0xvSFBob2xRMHVyLWpj0gF6QVVfeXFMUHFoa1ZEOFpyZlozb1d6RkdFUjBHR3VCby05alhkZUFWWmREZzExR3F4cXJwNC1tMnROU1JYaGpCNXVDRm9SUlc4ZHZFNFBMZlREVlN1UDVFcFh6NWFyZTZOVlotRHMwNEFOMmxRVXlXczRCOURQN1lGb0E?oc=5",
+          "published": "2026-11-05T22:10:14+00:00",
+          "reason": "The article highlights that the Magnificent 7 lost $1 trillion during a massive tech stock plunge, complicating the case for an attractive sector rating."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Nasdaq drops into correction territory \u2014 here\u2019s what typically happens next - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSVRKV21sTjh2QThiTW10d21uVG1JbkEwZEY0aFAyUE9hbEtLTGxfcmF6bkp3Z3diRTk3TEw1emRLUFJkazdGdlN1UzFMTGxTWlNxNklsSDRBMWtjZGEzU1BjNGVVY29CdkRVQ3hXRkRidWppMmhqcEVPTjFRSXg1eXNOSXlxWWZ5bm1udF82ZkYxQWdJcW5oTjBDM1BNeUxSVHp0Tk5jNHNhb3dxS0HSAbMBQVVfeXFMTjN3TGI1ZmhDSmVMNlIyenNyTTQwcGZrTFpjWDRSanF3ZWhWQXB2RWpTdXFNYnE5enA0b1hocHVUU3NBNVdYRGNrRDhpcEt2Y3c5RWhjWk5MRHQ1c2FSaW9Zejd6eWpBMncwV1hpOGhSQ1lRWTRsenRoZzMyNXRnQm9sdlFYbDVGSTFFSThPRWhRc052VEk4VzdDYVdoTVdOYUVXRkp6aDA5aHFrVFRBNDlJdjQ?oc=5",
+          "published": "2026-11-05T21:57:33+00:00",
+          "reason": "The article notes that the Nasdaq dropped into correction territory, reflecting broad market pressures that challenge the 3.5-star attractive outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Retail traders dump the most stocks in a single day since Covid sell-off - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMXRrZWVpTXNZUEo1bC1FcktER1pUWWhHWi15b2QyeDd5aDZLR3RzYUNiY2hMNEtuamczaUI1OTZDNlZWY1ppZldQRTJVVkV2TXVQZlF5VF9iMVQ5cjdIdTZHVlN4VzRROXdoVWFscXJVSEtnN0NHWjQ5NUttZ28xZGRKMWRTeS1uS3pOblJ6NG44cTM0eUZGUE1DYU8tUS1Jend3VnRJLUJFWjDSAbABQVVfeXFMUHVGVWhzTUxabDdwS2RKRVdoUU9EclBnLUZpeXpVdFdabjNHUDRWM0p4ZGJLR3Q1VWUyeGF1VWZXVjBlS2RwcmZNTVB2V3FYaGRLdU05aTJHVnJOaTgzdU1QcHRPaTRkUHFrTHZhcUtjYjExT2FUQkdfczFwSXN6bFFqQkt6YzhnLUE3SW9EdUVMS0pNeGkyci1waG5qcnB4aFJ1MDF4czR6OWNfY1RlcEU?oc=5",
+          "published": "2026-11-05T21:20:03+00:00",
+          "reason": "The article states that retail traders dumped the most stocks in a single day since the Covid sell-off, indicating severe negative sentiment toward the market."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "CNBC's experts on whether the AI trade is ending and what investors should do next - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTTlYemZKWHZrM1prVjdSeWptNFBoaDFoZ3h0aWlEOFR6d21ObDgxWkhDd2hIeEJzc2ZoaHA3LW5PcDF2bVdzTEtaaU1fNGFEN0syRlduM2JFYTJUM2t2RWFrOEVlM1ZXMkw4N0F5RGk0RWtnUk9DcGcyRURhNjhTTV9BVldXTjBnbDVNaXNyMnM1dmVoX0dCQzFmWUlYbTZiZUFfR1lZcFQ2ek02N1BNOHRHQlFzRGVteXfSAb8BQVVfeXFMTVJ5amJCa21EREViSkR0dTNuN2FQc05IcTlzUE1pT0NSVlB6WGJVTi1fTjlCVGl1TG9PcnRKcFNGUldUVkNQVk1KVlVjcWRwcHVqcmdfYi1FdUdlWlllOFRPTE9zSTlNay1kS09WZk5kN21WbWpvSkE5Y1p4Y1NtNk0tMjMzQ2tyTEVTSzVQbG1lbVk3SU55allvZXBQeFFrMGd4QXMxNDlob2x2UXo0bk13QUFHSmQxMWVTLWlEa2c?oc=5",
+          "published": "2026-11-05T18:58:48+00:00",
+          "reason": "The article addresses expert discussions on whether the AI trade is ending, highlighting the ongoing market skepticism mentioned in the claim."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Bernstein\u2019s Stacy Rasgon on the chip stocks selloff - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSUJUaVRSWm12ckZNLWhYMmVUajdyWXlaVjE4V0VULWN0Z183V1RpcGxCSEQtQ3d3NUQ4emNUbktpZDdPVkxqXzRXUjh0UThOTzRJRnNGX2F6TmlwVWhOZnRIcHcyR3RXS1lNbzdLRVpYSGNPY3BhbmluYXVVRW1wZk5HZTNRbFhUcjc0QVZIMVZOZnNQcHY5Rm93?oc=5",
+          "published": "2026-11-05T18:42:45+00:00",
+          "reason": "The article covers Bernstein\u2019s Stacy Rasgon discussing the ongoing chip stocks selloff, reflecting the severe downward pressure on semiconductor equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chips selloff worsens as fears about AI trade grip stock market - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSlZxaGdaOUFqVzRfQlBCZkRuRHNScWIyNk82MGdUN0VBUlNRQ0ljY2ZkaG9XYzFNZWl6Yl90cmNfS1B2NGtidS1pVkNSeUJNOUczcnh4SS1pRE15dEFneEJ4Vk9ZbWpQeWI0NlpoakRWSGE2LWhtcXVOM0pBYXhOUkdEWmczeWlpVGx1dUJQZDMyQWVfbnpWQzFqdUg2SlVTVGs2cl9n?oc=5",
+          "published": "2026-11-05T16:57:25+00:00",
+          "reason": "The article reports that the chips selloff is worsening as fears about the AI trade grip the stock market, undercutting the claim's resilience narrative."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nasdaq 100 sinks 6% as chipmaker selloff deepens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU29TSTM1ZjZXNkMzUWp5V3U5OGc2dDB6ZE9BLW1QOTFQcm5MbzBwcTFVY3M5dk9jYjlMM1ctcERHWnA5dlBVa3MxQllDYW02bW5yZXl0UVVCazU5TkNra2lhUHVUNi1CSnBZU3BSTzROdWk0Z0h6bENGR1JOQ05DaGRjeC14LWVvTG9RYXhZbHNIQXFIbWhn?oc=5",
+          "published": "2026-11-05T16:44:33+00:00",
+          "reason": "The article details that the Nasdaq 100 sank 6% as the chipmaker selloff deepened, conflicting with an attractive rating context."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chips selloff worsens as fears about AI trade grip stock market - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40aWVkYXNZSXZxVTBhTkFTcHI4dGVFbTdYTnA5SmxZUmk5dE9DR1NRRmdSZkFwZ0dsbkppUFV4UXRJaGFVQnlhTzJqVGQyNlRVOHM4?oc=5",
+          "published": "2026-11-05T16:56:19+00:00",
+          "reason": "The article confirms that the chips selloff worsened due to market fears regarding the AI trade."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Nasdaq 100 sinks 5% as chipmaker sell-off deepens - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV3VfUGJPMk50Q29yMGpDdlpWYTFyYVZNanl0X29QbDdZVjZodlFyS1F3em9PZk1xR1BRV294MzR2M21YcE1uclEySk9kZUJTNW0tcVJxMVV1OG12eWpkTldiQW12RktZd3dGUzVnSlVldjc2aHJpLUNHU3FURFBlSTAyT2U0a0piWUdOVm9PU0t2S00?oc=5",
+          "published": "2026-11-05T15:41:36+00:00",
+          "reason": "The article reports a 5% sink in the Nasdaq 100 driven by a deepening chipmaker sell-off."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "US Treasury borrows record US$839 bil in single week - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLXkwOWNIdHBxWVd0dk1ieHdCUFN2ZGhDUE5DeFphLVZrbFBVU0VqckR1NmJxcXAzNGxWSkZ2cENRWDdBTllVbFU5QzlNNmw1S21IWGFUbXF3MjlQYlBTMTJLdmV5WFpxX2R5LUhlTUttY2NzcHd6am1CZ0oxcjJ0VG5XM1dxMVpOOV91UDRBS2hQVnFfN2FZX0xlRWdRUQ?oc=5",
+          "published": "2026-11-05T05:02:08+00:00",
+          "reason": "The article notes that the US Treasury borrowed a record $839 billion in a single week, supporting the claim that surging bond yields impacted markets."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
