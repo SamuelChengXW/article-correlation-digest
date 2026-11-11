@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-12",
+  "run_ids": [
+    43116393719
+  ],
+  "generated_at_utc": "2026-11-11T23:13:49.249328Z",
+  "tracked_count": 29,
+  "findings_count": 4,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Volkswagen EV sales in China climb to monthly record in sign of turnaround - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaUdUeWtCT1RFSklVWUFPOGlKakxraU14eWVfbEhaNTk0aXdnVFFvSHFVcDVJaUMyQV9BeDRVSEc5X0pYUEVHWUttYWtHbjV6dllmTmU3OFdjNEZSQ2xSUFVrdTRoLUVUOW1sdExETVI4ZklDdzhjMVdRYUVHZjhwdGk1Mmx6ZDNhMkE2bXdtWnF5VzlSUUx3eDlIb2JlTXRKSzNCUE9vT1BMNFNWMTZSRUt6QnA?oc=5",
+          "published": "2026-11-11T08:46:23+00:00",
+          "reason": "Volkswagen's electric vehicle sales in China climbed to a monthly record, pointing to a turnaround and strong market demand within China's new energy vehicle sector."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Four major private hospital groups keen to join MediAsas ahead of January rollout, says deputy finance minister - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iWjQ1VDN6Wnd1WG1GZmdaV3ppcFNEbkN1OU9kMXNSUElWTnRvQzVIWVIwbklrems4M09nMXBvMkR2MDVFUVFWanFhTkpYMjQ1SjBv?oc=5",
+          "published": "2026-11-11T04:07:48+00:00",
+          "reason": "Four major private hospital groups in Malaysia are keen to join the MediAsas scheme ahead of its rollout, signaling expanding reach and commercial opportunities for private healthcare providers."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Check out ARM Holdings PLC's stock price (ARM) in real time - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5HblNZbVpBWnB2bGpPcGt1cWVuem1iM1NCVllnaVNHWnRLTUNFenN6LWtrX0U2c0xfMW1jMVdla1RzM09wYUE?oc=5",
+          "published": "2026-11-11T03:56:39+00:00",
+          "reason": "The article's coverage of ARM Holdings PLC's stock price and market standing relates directly to Japan's exposure to the AI infrastructure and semiconductor supply chain."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Evercore's Amit Daryanani on CoreWeave: Demand for GPUs, tokens is substantially higher than supply - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRm45a09jalBobW9YcjFsNERHSmZGUkxpY015eWZmblUxb1F1bDlfU08xTHljZzhiNEpnS3JHakF0UWJsVUxrWUFUdEh6OFkycDFKdzVPcElRTDgyLThXNzRSTUVONnowUE1ZRlBCV0pNWmV0VTU1aG9JYmE0cG4zblZoYVo5enN6b3o0SklaYnQwN3lRNkluNHZLNWZ2cW9TTXdkN0daOHljdGptQmE5cjJSUTg2NENMX21BTzZVM1p3Q0U1WHdKOHY0b1FKa0M2MGlheEJB?oc=5",
+          "published": "2026-11-11T15:25:02+00:00",
+          "reason": "Evercore's commentary on CoreWeave notes that demand for GPUs is substantially higher than supply, supporting the premise of accelerating AI infrastructure demand."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
