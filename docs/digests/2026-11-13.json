@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-13",
+  "run_ids": [
+    43325039645
+  ],
+  "generated_at_utc": "2026-11-12T23:15:16.659259Z",
+  "tracked_count": 29,
+  "findings_count": 17,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan wholesale inflation accelerates, keeps alive rate hike view - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZHJlUTRLSWNuTHNybWc4dDR4TjM4SjYyR1kxVWhDdHRoTkhYbno1bVVHbVBXQm5aU0xPX2xkZmRXc0FyVUN0UVZuMlNPT0dUdjhV?oc=5",
+          "published": "2026-11-12T01:07:50+00:00",
+          "reason": "The article reports that Japan's wholesale inflation is accelerating, which supports the rationale for ongoing monetary policy normalisation and rate hikes."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Dovish BOJ policymaker Asada pushes back against early rate hike calls - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGQW1UbjhIMlBwYXRkRzlrc3l5MGdxVS1pNVZxRTVvbDJRa0c0SUJTang0MGVMZ244R0FQYjF6WnY4anIwM01BNTU2T2lNVmxkQjNlUw?oc=5",
+          "published": "2026-11-12T04:24:34+00:00",
+          "reason": "The article highlights that a dovish BOJ policymaker is pushing back against early rate hike calls, complicating the expectation of imminent further hikes."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan wholesale inflation accelerates, keeps alive rate hike view - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZHJlUTRLSWNuTHNybWc4dDR4TjM4SjYyR1kxVWhDdHRoTkhYbno1bVVHbVBXQm5aU0xPX2xkZmRXc0FyVUN0UVZuMlNPT0dUdjhV?oc=5",
+          "published": "2026-11-12T01:07:50+00:00",
+          "reason": "The article discusses Japan's accelerating wholesale inflation, aligning with broader economic conditions relevant to its financial and industrial markets mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Options Action: Bullish flows in AMD and Alphabet options - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3RIOWlCVmVZLUt0QWF4NEJnOG1ndF91bEQ3Mm5hMWVjSXA2Tllwcm1CVWZJcFZwRzNseWpweUxCTHVjRWo1RTJRVl9HaXhKZVlBdmpzYV92bDhKYjJBS0Jhc054VHdXcDh4Y0ZuUFE3d25ud3h4M183dHM1aXp1UGphWWtMTDVETDFYOGR5dWwwWGM1b0hJbXpMc1JEN2Zw?oc=5",
+          "published": "2026-11-12T17:43:20+00:00",
+          "reason": "The article highlights bullish flows in AMD options, supporting positive market sentiment around the company."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbVhXYllGX18xWDVaQV84dXBzeDRMYU9XRFJhYXpHa3Y1blVUVnZkTUlTZ2Z3dlk3ZDhXaHZJX3VLaXQ3bGtlOG43cWRjR2F3WVVxaE9nMUpZTlhvNl9TTl94TVBSMFJ2c3ZoQjU2MHhtOC1aMVZxeXlkdjYzbjh6aDNnaUlydDJlMk9HdnNBNGVNVUppU3J6cmRWVndKNkZVWEdtN1dLZw?oc=5",
+          "published": "2026-11-12T13:56:56+00:00",
+          "reason": "The article reports that AMD was upgraded because it will benefit from competitors' leadership vacancies, supporting its growth thesis."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Here are Thursday's biggest analyst calls: Nvidia, SpaceX, AMD, Apple, Ulta, Disney & more - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNanBOVDF4Slo1MWFfQ2RvTkVGOGkxa0FvNHR4d3dYU0ZzYWZnaTFFU1QtQVYyQTdFNnpMdXNiOU5UeWZMZFRQdjFLUW1PSXJMZmFELU1TRDI5VjJ0WFUxM0VsWTZHWHJoTW11WnM1Si1RM214cEFsT2VJdVRKTGV1c05XMGFyOTFqUV9CZnB0dVM?oc=5",
+          "published": "2026-11-12T12:58:09+00:00",
+          "reason": "The article lists AMD among major analyst calls, reinforcing its active market tracking and analyst coverage."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "AMD, Broadcom, Alphabet poised to gain from Nvidia scandal - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWVvcXJnX2o2cDQwdl9ZSEF5TXlabFhBNGFFZDhRWDRzUVNfcVRtbVU4dGRheG1FaGNxSzF0SWpOMWRtMFVuX19ydHhVVERhYTJ0MUFRaWw3Mng2YXo3cnozcEJJQTB4V2tpOEw2aEtLMmo5eWljY3lDZENmMmI1elo5VmdDYUMyQjB4dHNWU0NDWUtOeFE?oc=5",
+          "published": "2026-11-12T05:22:00+00:00",
+          "reason": "The article states that AMD is poised to gain from wider industry shifts, supporting its growth drivers."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "AMD, Broadcom, Alphabet poised to gain from Nvidia scandal - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FaVJrcktoczY0cHllRklxTUplYW1hUzdIdVpxNmRGRElURlI1TEswdU1FbE44TzBYSmVPUUozTnlmMUk1N0U5OVB6Uk9uVGJUYjV3?oc=5",
+          "published": "2026-11-12T05:21:23+00:00",
+          "reason": "The article reiterates that AMD is poised to gain from broader sector developments."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Dovish BOJ policymaker Asada pushes back against early rate hike calls - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGQW1UbjhIMlBwYXRkRzlrc3l5MGdxVS1pNVZxRTVvbDJRa0c0SUJTang0MGVMZ244R0FQYjF6WnY4anIwM01BNTU2T2lNVmxkQjNlUw?oc=5",
+          "published": "2026-11-12T04:24:34+00:00",
+          "reason": "The article features a dovish BOJ policymaker pushing back against early rate hike calls, directly contradicting the hawkish hold and expected rate hike trajectory."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Japan wholesale inflation accelerates, keeps alive rate hike view - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZHJlUTRLSWNuTHNybWc4dDR4TjM4SjYyR1kxVWhDdHRoTkhYbno1bVVHbVBXQm5aU0xPX2xkZmRXc0FyVUN0UVZuMlNPT0dUdjhV?oc=5",
+          "published": "2026-11-12T01:07:50+00:00",
+          "reason": "The article reports that Japan's wholesale inflation is accelerating, keeping the view of future rate hikes alive and supporting the central bank's hawkish stance."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2hPa2p0XzM1eWV4aE1GT0x2cnJjT1ZpYnhEWVBBbC1TQ0doS0JpUHhKVk9mRncxS29sV0tMMXJxUjgwb3J3NUc1c2hYUmpQbm1IdzhLc05IVDdpZUhOS1RBYzRHR2FiMmZETjlFN0w3M0Q1TkNyMkZCenFja2hQa0dVTzhEQUpLVFdQcHF1T21LczUyVjFZV1lnRzdnOUVmSThsS3BGQlJoSlJIX0VEQzQtVVZtaDRYcGc?oc=5",
+          "published": "2026-11-12T21:00:10+00:00",
+          "reason": "The article discusses concerns that stocks could face a rude awakening if the Fed hikes rates more than expected, which complicates the positive rebound outlook for bond markets and rate risks."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3JPLXo4cE9pTTBQdTFHcEpvaU9BSTlpVU1CZ0FHMndhNG9GcWJOaHNWX1FhaTlyT0k4YllBV3lFMEYwdkhlMGo1YTV4YTVMZnh3eWU2SXpQb3lJNjZMaTJleWllT05kMFpqRHJBSTBSanZMNkJLb1FlaU5GWUlERzV5OWc1VThFSzI1bDQxWGViUkZ6cE5WR3kxdFc4WmVNZkdFX0oyODJjcFdHY2daWdIBtgFBVV95cUxOT1gzb1h4N0I0VkpfdldjdENNbEtWaFlWdEUtamVBQzN5eDFJMmtCcWFjLUlnaEtyaHJIcUhlZWg1WVVoRFRRbzJvRkFxM3FQZ2s1ZEdzdDlEMkVMUHIzNFNldHl6TURfZDQ5TEw5NUdVWnRqR2FrOWFSRWREdDEzcnVHempma1liU01lMktJTzZ0SkIxMVdzam5aU1dNejUyY3BDZV9uV0NPSUlNbmZKeGxVNG83QQ?oc=5",
+          "published": "2026-11-12T13:24:25+00:00",
+          "reason": "The article notes that oil prices are rising after Trump's comments on Iran, conflicting with the premise that energy shock pressures are subsiding."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait' - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3JPLXo4cE9pTTBQdTFHcEpvaU9BSTlpVU1CZ0FHMndhNG9GcWJOaHNWX1FhaTlyT0k4YllBV3lFMEYwdkhlMGo1YTV4YTVMZnh3eWU2SXpQb3lJNjZMaTJleWllT05kMFpqRHJBSTBSanZMNkJLb1FlaU5GWUlERzV5OWc1VThFSzI1bDQxWGViUkZ6cE5WR3kxdFc4WmVNZkdFX0oyODJjcFdHY2daWdIBtgFBVV95cUxOT1gzb1h4N0I0VkpfdldjdENNbEtWaFlWdEUtamVBQzN5eDFJMmtCcWFjLUlnaEtyaHJIcUhlZWg1WVVoRFRRbzJvRkFxM3FQZ2s1ZEdzdDlEMkVMUHIzNFNldHl6TURfZDQ5TEw5NUdVWnRqR2FrOWFSRWREdDEzcnVHempma1liU01lMktJTzZ0SkIxMVdzam5aU1dNejUyY3BDZV9uV0NPSUlNbmZKeGxVNG83QQ?oc=5",
+          "published": "2026-11-12T13:24:25+00:00",
+          "reason": "The article reports that oil prices rise after Trump says no Iran deal needed ('We've got their Strait'), aligning with geopolitical tensions affecting crude prices."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices edge lower as rising crude output offset geopolitical risks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94bUVURTBLcXVrYzJRM2dFbERUaC1OZXVzZTU4Vzc0el94eEJEZVFhWl9OV0hXUHNDR2RJWXJudmx2RHk5Sm1EU0NlVlA5aWQxVW8yWXQ2ekI2SXhMZ2RlczJ6cEV6Sk5pTHJmWlAyVEJMYm8?oc=5",
+          "published": "2026-11-12T08:37:06+00:00",
+          "reason": "The article mentions that oil prices edge lower as rising crude output offsets geopolitical risks, supporting the market dynamics discussed in the claim."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5kS2N1QmprS3IzX3ZuTHRrNlBkaERHTlNMTEdzMkk3bUR3eXo5cDcyMGpiSF9xUVpPQzZHaDBZN2NrbHdFVGpmWTZ1ZXAxMXBuOHlkdzNEcEdRQU44Rm14a3llS1VOUFhPaTByWThqaw?oc=5",
+          "published": "2026-11-12T07:38:45+00:00",
+          "reason": "The article states that the 10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes are expected, which complicates the specific oil market and neutral sector narrative."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Gold drops to over one-year low as fading Middle East peace hopes fan inflation fears - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOHlpb0xtblhxMVdhVkM0ZWtJb19QV1hGbGN4UHh6YnVmZ01HcjVXTDZzUVcwbWhzdGt5TmtPM08xclJ4N1hyclFtMUJ1Yjk5Q1NsWF9Bc2ZYTjNzX0xpN0ZkbjFmekV0SS1GUmphX29XTkdQSHRNd2h6ZVhUeG9mMlNsbVVaZ3VjblVVOVN3V05DVTVZSTVXWU1JelNqekh2QmxXSg?oc=5",
+          "published": "2026-11-12T03:57:00+00:00",
+          "reason": "The article reports that gold drops to over a one-year low as fading Middle East peace hopes fan inflation fears, contradicting the specific oil and geopolitical price action mentioned."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdFlRcWJJUFg4N3J5eFpzVG01WGJoOE44SXBXY24wRlVMYl8xWHVxNzVadTNEQ1ZRcTVad05pYXRQXzRoamhmd1c1MVVJdEtNOERLUFpMazRVR0NDaVNCVDZfcGNvakcwY2hrT0U5OFBLeTBWVnZJYWlwS1Mtb2Q5UVhhMk1QWEswOF92TVFXdzdzT3E4Vk5rQXVhSkdoRGs?oc=5",
+          "published": "2026-11-12T02:13:00+00:00",
+          "reason": "The article discusses how oil prices drop more than $1 as hopes for Iran and Ukraine peace talks pressure markets, supporting the claim's context regarding Iran-related oil price fluctuations."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
