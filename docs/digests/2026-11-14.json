@@ -1,0 +1,144 @@
+{
+  "date": "2026-11-14",
+  "run_ids": [
+    43523782311
+  ],
+  "generated_at_utc": "2026-11-13T23:19:30.981676Z",
+  "tracked_count": 29,
+  "findings_count": 9,
+  "articles": [
+    {
+      "title": "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+      "fsmone_url": "https://www.fsmone.com.my/article/371040/japan-s-ai-beneficiaries-how-traditional-industrial-leaders-are-adapti",
+      "claim_summary": "Japan's traditional industrial leaders are extending the AI opportunity into robotics, machine vision, and industrial data platforms.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SoftBank, Nvidia back Germany's Agile Robots at $8.5 billion valuation - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HRENXNnJjOXFCMXM5OF9oYTlmanU5b2FmZ24tMnhFaVcwM1pHaUVjSk1WTHJ1MFMtVXAtT0pNZXhGdW41Z2VDTjBIdjQxazRiajZv?oc=5",
+          "published": "2026-11-13T01:52:17+00:00",
+          "reason": "The article explicitly reports that SoftBank and Nvidia are backing Agile Robots at an $8.5 billion valuation, illustrating the intersection of industrial robotics and AI investment as mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Uniqlo, AI ninjas and more: What\u2019s powering Japan\u2019s stock market growth - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWnZlZVRPYWhraHYxVHpzNU5yM2VzYUIwZVVSRkdueXk5QnJDWEJhRVpyX2l1OHFwQ1BhWXB0dGNjWFRPM0R4Vzk0RjB5TWxZb29zcDdhSDhXYTZ4NTlHSmpZdmVNTjl5MTBLY2dDa1RMUEd2RVQ5Y2lwck9ESzFra19OOTd6M0ZxZTBOMldwUFZWcmlkTVMxUjQ3UmJHekM0V2pZdGNteGlveXNKZERPa1V3Nm82QTFNYnAtX3pmZ0UxUXpKQ3ZCZA?oc=5",
+          "published": "2026-11-13T03:35:00+00:00",
+          "reason": "The article discusses the factors powering Japan's stock market growth, including AI-related developments (\"AI ninjas\"), aligning with Japan's positioning in the AI supply chain."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "SoftBank, Nvidia back Germany's Agile Robots at $8.5 billion valuation - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1HRENXNnJjOXFCMXM5OF9oYTlmanU5b2FmZ24tMnhFaVcwM1pHaUVjSk1WTHJ1MFMtVXAtT0pNZXhGdW41Z2VDTjBIdjQxazRiajZv?oc=5",
+          "published": "2026-11-13T01:52:17+00:00",
+          "reason": "The article notes SoftBank and Nvidia backing robotics, aligning with the broader advanced technology and AI supply chain themes associated with Japan."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Investors warn bond rout not over after week of soaring yields - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWkJGRV92RTA3V1ZHN2J3eTMzN1ZuYkhrMUloRmF0aDI4SmppSXZTWVVBWWtiSENyc0RIVktZYTNzMDhkSzFLNUdoSDk2dmI2MUc2ejNNbWNoc0ZBalNnRFJtc3gwNjRna2ZfTGhrZF9ZNEhNRXpXdGRqamdHMXU4a05ld05xMzVtclJhQktlZVhWeU1pYXVyMlRsOVBFSzFTVEQwN1lXY1BqRHB1a2sxaS1mUFNPc2FtRHc?oc=5",
+          "published": "2026-11-13T12:20:13+00:00",
+          "reason": "The article 'Investors warn bond rout not over after week of soaring yields' directly supports the persistence of interest rate and yield risks affecting the bond market."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FTGROUTNjUVIyWE5fMEM5UDlnUFJfa0hCeEo0eTIzcHZYYzA0T0xkdmhoVldEb0xSTEJlcGgxV1g1VXBsV0EtTFI3bFp6dnRIM1hoV196T2ZxVlVURGxiVGE1VDJXOXRJSDFpWk94Ti1nemt2akhhQ2pjd9IBgAFBVV95cUxQbUd1Y2VXN0lYSVpRczItNFRpSGVKVmhrSFNuSXF0QUV3anpSSTJycXJuSWRBdm40UnRCekxWTUtPVVBKSWlIcGZ6UldZbXJ1bnJ3SEhJeGFzejN4cndiVU5EOVRFampRN2tBaFFnejZ0dUJyN0l4Z21nV3hqZDNuUw?oc=5",
+          "published": "2026-11-13T12:05:22+00:00",
+          "reason": "The article notes that 'Russian crude production rebounds after Trump diesel deal, IEA says as oil markets return to surplus', supporting the context of growing supply surpluses and downward pressure on crude."
+        },
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices post second straight weekly drop on signs of growing supply surplus - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRFBFU3Azbm9falV6RjVGbVNHUVpPQUhULWU5Z1B2OVJ0MnFTTkN1eDZlbnNGWFBBRFVDTFB3MEhWRHlFY0NiVlhfd2otRjdRR2VRQ2ZRek5SMXdpWHlGdkMzVEhzUU1jTUxqbnlra2dYTWVLMzNtTTE3VmpnMEJrUnJEakZjTmhIcFBYODlDS09hWHVnXzJMMkxVWHp1OFZkRzFqbVM1YzJkWjVVd1Vmdk5Na9IBuAFBVV95cUxNYzhhcXNuRlRPaHhoZTZMVUpicm1GNmVyU3YyLTY0Q1lhWEFiTVRBbW5sT0NjTWtWcFQzRVFyRGVVVk96UDJNMVRLR3JzSWNNellzdnZ5RTZMc010UFlWa2QxVkg2cy1lZWFnakdXbXVIQnlFYW11VmNfeXBjSkE0Y08zQ3o1b294OFBSbUFqbXp6RmdFZ0gxbGQ1RTBndXZsUlZNM1FPTEg0OGZJbk9NSm9aXy1FMDE2?oc=5",
+          "published": "2026-11-13T02:57:00+00:00",
+          "reason": "The article reports that 'Oil prices post second straight weekly drop on signs of growing supply surplus', matching the prevailing market conditions described in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil is stuck in limbo, with no more Iran war but no peace - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXhKWmdxb2Z1cG9nSnBVUGUyM05ib3IwR2M5V19ROGxTaVdlQ1VvY2NxSnpVa29rZXhGbUZiNTFHT3pnaTFUS3M2VFEyT2RhTTlfQ2MyVTQ5ckVmdThYT2dTMDZOZHhiTHk5NmVja19IMGVpc1FyN1RtejJzQkc3Q1BBTUdOUWNBWVlJTnFKSWYwakZqM3Fj?oc=5",
+          "published": "2026-11-13T03:50:00+00:00",
+          "reason": "The article headline 'Oil is stuck in limbo, with no more Iran war but no peace' aligns with the claim's narrative regarding post-conflict oil dynamics following the US-Iran situation."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Asian stocks gain after Nvidia upheaval, oil holds - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbTdjX1lxbHBsb0RoVklOTWw0a3V4Vnc0d2hMWlptQmU0RWhEaW1xMzNVQVRKamtLVGcyYXdIbGxpaTUyaENES2lXdkRRYThBOExUVUNpWHRLR0s5S3N6aEZUQVlKdHRTaDZ5RXFUdDE5Wko5cUdjYnByNnBNenk0ZzRLb1VoYm1vNjBpbVhFYmxteXM?oc=5",
+          "published": "2026-11-13T01:53:44+00:00",
+          "reason": "The article mentions that 'oil holds', corroborating the stable-to-softer post-spike pricing environment described in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese AI shares tumble after Nvidia's Huang resigns - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBveWhxWUJpS01Edlcza0RjNE9qZGp0QTh3RE1hek0tRm83QmJQZFFYZ3RfMWF5blZ6MDZ4eUZBcTAxcUdnMFpFS21sR1d6V1pQTlA0?oc=5",
+          "published": "2026-11-13T05:44:21+00:00",
+          "reason": "The article reports that 'Chinese AI shares tumble after Nvidia's Huang resigns', directly contradicting a positive tactical outlook for Chinese technology equities."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
