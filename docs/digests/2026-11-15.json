@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-15",
+  "run_ids": [
+    43651003359
+  ],
+  "generated_at_utc": "2026-11-14T23:16:43.190271Z",
+  "tracked_count": 29,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlZuRGNwODhyT3Npb1V3dDVFSnQ3OFZ2eDY1VUk0WDdLUWktdVNrSnQwQzhhZDJWcFdCeWtwd0plOG41bEdYSk9PZmFrQ1JlUjJqb3RKWXVzOWZCOHRrU3BoWlluOU5kczhwVldlZElqa0pyUHJ5M2tNYWZFVkF3T3hvTWc1YXdCTzdOVFdOTnRGREFJSHlvbFVsanFQWlNLczZUak1ZWlNoT0EyT1R2NGNhaUtJZw?oc=5",
+          "published": "2026-11-14T18:48:39+00:00",
+          "reason": "The article discusses Nvidia's leadership crisis and portfolio adjustments rather than underlying chip demand data supporting an Attractive rating."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "US stocks close lower after Nvidia spurs volatility in AI trade - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZXlqRXNkd3BwTnFRYWNXQkNXZW9xaXJlWFVnVDgtUlhnaVZfcTNzUXZCOXZ6emxKLTkyR0FGVGNlQ3dNdmNpUjBVTTZ6UEZuYVlHT2JsaXpzZnlSTHdkZEJyMTBMYXNtUi1acXg2ckRVZTg0X1l0ajRISVJ1ME9MUVhSYm1DYkFGbHhIN29tRzdEZElVMFp2MWdWUk9tQQ?oc=5",
+          "published": "2026-11-14T00:56:48+00:00",
+          "reason": "The article reports on US stocks closing lower due to Nvidia-spurred volatility, which contradicts the claim of stable semiconductor sector resilience."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "AI boom or bubble? Investors confront risks versus rewards - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKUXZidWtsdjZpczV6YURFU2RYdjBVT2FhRWxhNDZzSmJDRjdpZC04c2NoaTdCUXRtM3lhR0NGQ3BmZkozY08zemdIMDNJMnBOTXZJ?oc=5",
+          "published": "2026-11-14T00:29:54+00:00",
+          "reason": "The article focuses on investor concerns over whether the AI boom is a bubble, contradicting the claim of strong underlying demand justifying a 3.5-star rating."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY"
+  ]
+}
