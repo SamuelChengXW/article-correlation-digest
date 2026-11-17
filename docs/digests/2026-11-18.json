@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-18",
+  "run_ids": [
+    44195445496
+  ],
+  "generated_at_utc": "2026-11-17T23:15:18.861207Z",
+  "tracked_count": 31,
+  "findings_count": 12,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Former BOJ chief Kuroda sees chance of rate rising above neutral - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdFBSTVB2d2Z1MVREbHRnM1lWbGFNYUZ0REE2RXhoTWliREJfRGZNaE12Zi1xdG9GUjNzamo1TG9zMFg2S05QWldsSHZhbjFsOEVRTTZ2QV9aWi1pR2JERkh0ZzJEdVplRVEyV29qRER4TFVQazdsYWttYTlxcHl1MkRkU1RBTXRyTmVwMEYybzhXYXBpeldzVXB2dFh0TmZHYlM2NHRsdw?oc=5",
+          "published": "2026-11-17T02:46:08+00:00",
+          "reason": "The article's reference to former BOJ chief Kuroda seeing a chance of rates rising above neutral supports expectations of further gradual rate hikes and economic normalisation."
+        }
+      ]
+    },
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8yUUxVeU8zakJ3VTh2Z0YwNEpOSFpaMTNVeE4wOEtSVUxHV0t4cm5NRldsU1dINkRkQ2IzMWNoNDEza0NWYTMtYTNzVS1FekhjLU04?oc=5",
+          "published": "2026-11-17T12:01:04+00:00",
+          "reason": "Foxconn plans to acquire Sony Semiconductor Solutions' automotive camera module business, aligning with Japan's involvement in advanced technology and machine vision components mentioned in the claim."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Nvidia\u2019s soap opera could be AMD\u2019s big opportunity. Here\u2019s why I\u2019m buying - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVE5KOHVIeDZjZ0k0ZEtSYkk2SUNFOGdZNldnNG1mZDFZZmViVDRyY3loZG8yeDREUmpTelByT3NYeXdTOEV0eEZCaVFPOEMtdklVd2Q0RS1rNERIbl92V2xCVExqaXNkYTNUakMxSDVmTWctb0tyMFRwZy1iaTJ4Ti10ZDBEN1pwZGlN?oc=5",
+          "published": "2026-11-17T17:57:02+00:00",
+          "reason": "The article explicitly highlights that Nvidia's troubles present a big opportunity for AMD and recommends buying AMD stock."
+        }
+      ]
+    },
+    {
+      "title": "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/385941/top-performing-fund-for-july-2026-aham-new-china-tracker-fund",
+      "claim_summary": "AHAM New China Tracker Fund, benchmarked to the S&P New China Sectors Ex A-Shares Index (Chinese consumption and services-oriented \"new economy\" companies, not old-economy/state-owned firms), was the top performing fund for July 2026, reflecting strong performance in China's new-economy consumer and services sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China's JD.com misses third-quarter estimates on weak consumer demand - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zOXFQVFYyY3N6OUxzRmptS2ZONVQ1bmtNNlEtNGxMbElSUDl4dTZJU1Azajh5aHRUNjI5clBVVzBrZG1jRkhteFY5eGFWXzE2UXJj?oc=5",
+          "published": "2026-11-17T10:55:22+00:00",
+          "reason": "The article reports that China's JD.com missed third-quarter estimates due to weak consumer demand, contradicting the claim of strong performance in China's new-economy consumer sector."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Bonds are causing trouble again \u2014 here's where to invest now - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5laVlQTmgzbC1iRzNsNVFfcTVVMWEyNUE2MzVleHAtMmhhSElpaXJZSEloa3RLbnhNb3JSVWd1andYbTI0SWlOcFVCcC1yVnBaTEdWSUFGVlRHOFRZcXhiOTRXWVE3MzFKR09LY1pJQ3RPZw?oc=5",
+          "published": "2026-11-17T19:01:14+00:00",
+          "reason": "The article's title 'Bonds are causing trouble again \u2014 here's where to invest now' indicates active market focus on bond performance and positioning strategy, aligning with the assessment of ongoing interest rate risks and allocation choices in bond funds."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil edges up on tanker attacks, expected U.S. crude drop - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNODZ0RmZZTkxFOG9xN3pRSkZDLVpST214ZFRzZXMxN1lCWWJhVUFmUFBVN05wV0pJUEtFV1VQbDVtd1pud2xfTnJsMXl4T2ttMkRwcGdURzlaRzV3UnhwMTlucHRkd2FRTXYtMUowU3NQUlNlbm9uSWs4ZTh4TXdJY3pDNXpyV0lnTTdEYWF5QjYxRVM4SzF6Zzl30gGfAUFVX3lxTE94ajRzRVJNZ21jd1Y1TG10LUVjckpEbWt5aHpkc1NOdjF5OWpwSHdsQkpCdElHRUlKVmRMd2RoQVRyX0w3NDlBSTBxcjgzbmhEa0Nyd180STdSMjZTZlpwUDVTcEhDdm9rMFVkYkdLVDlhbFNWbVZoUnNRYkpnWDRDaW9LLUZCLS01SC1sUnpIQXhhUU84a3JtWEdFU0dsdw?oc=5",
+          "published": "2026-11-17T01:43:00+00:00",
+          "reason": "The article mentions oil prices edging up due to tanker attacks and Middle East tensions, aligning with the geopolitical and oil price context discussed in the claim."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China warns US of retaliation over chip curbs, urges dialogue - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcjVILVBtS0RFMEM4RFl3c2FKREZ2emtCMTFiZ1Q5TmRpRHRpSTVTUkpqVTdQbWZTRHk1RURhN2dvNG1nRHFzck9jQzFhQ2NackhfRUVnQXZjVWQ3OFdZeWozR0VpZHg5ZHhLM1AwdjdMaVRsdjd4TDVic0tkSV9UdUJ6amt3cE4xdlNhVVJVd0Mza01YV1R6c2xjT2NZdTN0TlE?oc=5",
+          "published": "2026-11-17T14:36:22+00:00",
+          "reason": "The article reports that 'China warns US of retaliation over chip curbs, urges dialogue,' highlighting geopolitical trade tensions that complicate the favorable outlook for Chinese technology equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "China taps US AI models to train homegrown rivals as chip curbs bite - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jaGFJUS1xN0QwVllZMno3UXJSWW51VktnYlJsMUxJNi16THNEbmYxZUJ2M0JESUtFNGtEN29kM21aSTlsZl9QMHNNQmpsdHExT2lB?oc=5",
+          "published": "2026-11-17T08:52:13+00:00",
+          "reason": "The article notes that 'China taps US AI models to train homegrown rivals as chip curbs bite,' highlighting ongoing regulatory headwinds that contradict a straightforward bullish outlook for the sector."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Chinese AI stocks down as US chip curbs hit labs and hyperscalers - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUHA2c3QwVE5qbVF1RFZDN24tZGtZNGZPU2otRUtsbnJGeW44OHFIUlRTenF2SzJxRVJVdEZTM29kNzk3ZjBlOHYzM1M1X3p3WXlRLXF0enp5RDhsSE9rSFdBeGFmUk42Rkpsblo2SmFKNHJPTlFTY1VJNGJkU21KUmcwNHRKNEhhOHpmZ2k1d2g5T3RpSG0tbXpZSm1Ra0R5TTZEN256YVA1UQ?oc=5",
+          "published": "2026-11-17T06:56:19+00:00",
+          "reason": "The article reports that 'Chinese AI stocks down as US chip curbs hit labs and hyperscalers,' directly contradicting the thesis that China A-share tech represents a compelling tactical opportunity."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedgemalaysia",
+          "title": "Chinese AI stocks down as US chip curbs hit labs and hyperscalers - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1dlNRdWllX2Y5RHd2UWgwR01fRncyRmdKcEkxVUJfeC15YVpTbzZXU1lnbG5YaHVlUXFhN1pHbG5ReERuNWQ5dkNVd0hwU0tRLUJv?oc=5",
+          "published": "2026-11-17T06:56:05+00:00",
+          "reason": "The article reports that 'Chinese AI stocks down as US chip curbs hit labs and hyperscalers,' which undermines the positive outlook for Chinese technology equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "U.S. has 'basically won the AI race' as China faces tighter chip curbs: KraneShares' Brendan Ahern - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPR1hKeVFjcm5qdHF5bnhsNGxJZFh2clBBTDBicjVnOFBBY0JISWY0Wnl6U3I4V095eVh2a1RsNTJuUGswMndJNEJ5N2JMTjNZS1QyUWVFbVhnVXZnQ2JkaGdTcE1uVUNZeDNrMDBqcS0tdFZKajhQQnR3cWtETTMwQ09tWGd4VGdZa3NhdV9yY3N5d2EyQUJGLUJPQUpEeTd6UmViQ0U4eG8wNDd1dUE?oc=5",
+          "published": "2026-11-17T04:08:00+00:00",
+          "reason": "The article states that 'China faces tighter chip curbs,' indicating severe headwinds that contradict a favorable investment environment for Chinese tech."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Affin Bank likely to fall short of FY2026 targets on margin pressure \u2014 analysts - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeW1qWElPeUNVY1kzc1pMNDFXT2tiMF9ZTFBfQmNzQ2J0SlNsNmcxdmRDS2FySFRCOG9uaGpjZ2hSQnVlTExVa1dPeTItUTNPWlRF?oc=5",
+          "published": "2026-11-17T05:47:44+00:00",
+          "reason": "The article reports that 'Affin Bank likely to fall short of FY2026 targets on margin pressure,' aligning with the claim regarding mature bank margins and limited upside for global financials."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Q&A Series: United Great Dragon Fund",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "PRS Fund Performance Review 2026"
+  ]
+}
