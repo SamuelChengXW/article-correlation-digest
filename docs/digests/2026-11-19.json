@@ -1,0 +1,152 @@
+{
+  "date": "2026-11-19",
+  "run_ids": [
+    44416857550
+  ],
+  "generated_at_utc": "2026-11-18T23:13:07.993071Z",
+  "tracked_count": 31,
+  "findings_count": 9,
+  "articles": [
+    {
+      "title": "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+      "fsmone_url": "https://www.fsmone.com.my/article/371020/japan-s-ai-beneficiaries-from-openai-exposure-to-advanced-chip-packagi",
+      "claim_summary": "Japan offers a differentiated route into the AI supply chain via AI infrastructure exposure, advanced chip packaging, and machine vision beneficiaries.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xWDc1T012MlZrTk1ZRVVoTV9aLVVkZVNTSGxDdFdQbktYLWNOX3pDd1JCakJvWFBkSExEYTNQY1kweUlvdUJxZG5TYTBfOUhLWG5pXzlzVTBCMXZZVU4yMVhuODhtazM3WWFLQTFvd3k2a2hZY0tsTGc0Z3jSAYIBQVVfeXFMT0NOTkFpTXhvR0p2Ul9JVWdPTUlnLW9YZzBqMGhocUxGVDJHVVgxRUttbk1EOXFYWWU4dU5zaWtVSlNJT1lJRzJTTnROMnlDS3M0SkN4NzkzQTRySlc2TFBva0NPa3c0YzFObnRKY09WejJQUVdKcV9JY045UmJhSFZrZw?oc=5",
+          "published": "2026-11-17T23:55:41+00:00",
+          "reason": "The article reports that Japan's exports in October surged 20.5%, beating estimates on robust chip shipments, which aligns with Japan's exposure to the AI supply chain and advanced infrastructure."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Construction - Year of Execution",
+      "fsmone_url": "https://www.fsmone.com.my/article/359541/malaysia-sector-outlook:-construction-year-of-execution",
+      "claim_summary": "2026 is the Malaysian construction sector's \"Execution Year\": record 2025 contract awards (RM202.5 billion) are expected to translate into peak earnings delivery for major contractors. Budget 2026 development expenditure eases to RM81 billion (from RM86 billion in 2025), but the 13th Malaysia Plan maintains a RM430 billion total allocation through 2030, sustaining infrastructure commitment. Data centres remain the key structural growth driver alongside transport, industrial parks and renewable energy projects; margin risks from steel/cement/labour inflation are seen as manageable given strong order books.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Southeast Asia\u2019s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOE1DbkROaFNtN1I2UjJPOW9Ca0pJNXBFYWVBTldRbjEtTEJKeFBCM3BLeWwtVE9OazNIbFNyTzYtcUxJTVhKQ0JEUUZ0MHVCRDFkWTVxX1Q2OFJGd243RldhZFVnY0pZS2RqRFBXVmxDTG1OS1V2aHNPT2NiTFRnUEJCVjFYSm1qU3g3SdIBkgFBVV95cUxNS1htQWRXZGtHQ2d1Si01c1FZZjNmYjhyOExvZzNGbUhWWEtrRlVHSWx5Y3UyVG5PSnRPWmk5VUY1Z1V6S1JPTFhVTkFnMEprN1A3aXNqZGd2YngxWGpCYmlGQ0FYN3Vmc2hXcWRqS0FmVDNNbnR1emZXNmxHUUYza1hkOG1pS0RpbXRIdzVyemFsUQ?oc=5",
+          "published": "2026-11-18T08:09:43+00:00",
+          "reason": "The article discusses new U.S. rules putting Southeast Asia's data center pipeline at risk, which contradicts the claim that data centers remain a key structural growth driver with manageable headwinds."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "PM Wong expects \u2018some impact\u2019 from US chip curbs - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelJlUV83N0FNUDJUNVN0d21hb3VpRFEzY0FJYkk0WFU2MTlRNWJ1SlJCUzl0SGw0SVBneklXUTVTQnEycDVHeWkzWVhBN2lpb2lVcVdFbHlGUHBsNnhhSEUzUDJkTkJxZWw4M0lrSUtiNmQ0SWluc3gyQVFnTG9jU0l6ZUdHT2w0ZVZsM0ptcEhrQU1NRS1wWW5XeUFvQQ?oc=5",
+          "published": "2026-11-18T07:03:01+00:00",
+          "reason": "PM Wong expecting 'some impact' from US chip curbs complicates the outlook for structural growth drivers such as tech and data center infrastructure in the region."
+        }
+      ]
+    },
+    {
+      "title": "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+      "fsmone_url": "https://www.fsmone.com.my/article/379741",
+      "claim_summary": "Bond funds staged a broad rebound in 2Q26 as pressures from an earlier energy shock subsided, though persistent interest rate risks make short-to-medium duration bonds and investment-grade credit the optimal allocation strategy.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91OXNXQ0tPMEw4dmRsaGVzS2ZoSXNmS1pOMWxRbWpMRlhPR0h6bHdVWWZaQS0xeXJZNTV4RUlFMTdHNFpyaEY1bkFHYTN1RWV2WTNXOG9KTDNzTTZCbDFIZzF6aDd6Zm5McGJtS09R0gFzQVVfeXFMTW1hd2NYMG1mYzRnUUxHVHBLMXNVT0dyQTVVUHM2LUpsOWdHYXdfRDRKM2UweUdDbUlaNzZnQ2YxU19ha1o2R3BsUHA5MUFkQ1JwTGpwb0d0Z2hjNDZ3Rk44OVZUbVE3clJrT2VmenhEQjBfUQ?oc=5",
+          "published": "2026-11-18T19:00:50+00:00",
+          "reason": "The article reports that Fed officials expect more rate hikes rather than easing, which undercuts the bond market rebound and optimal short-to-medium duration allocation thesis."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Oil prices tumble as traders weigh surplus supply outlook - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWhQY3FnMVNZQTc4WG5fSHVJamFScURWM3NQLUtoOVlRQkJUSE9pNm16djg1aEpiYnB0bWRSX044U1hPbkYwXzk3Z2tzTlpiM056Mjd1c3R6Rm1PaDJhdlFoY1FEbU5yckIwMTRLdDhyd09kdG0wWGE1anFJN1ZkT2IxeGdwYV9mZFRlLXBBOUtvMGVhRXFkMS1TaTZPdXfSAaQBQVVfeXFMTlc1Q3FjM2Vqc2lLRjZnTHR4b2ctZkpwVzM2VFVMZXpFcjVEcC1hNGI5aXlxUVJwRkxEbmJkaWw0OUg3YTRyRDhWc3FzdTdwdFVTd1RJMVlPMXdLQzF2N0lEWHJqZ2hrX25CVXZmUFE0U3RPa0tiSmVja0ZyaEZnZ0xCRnpTWUVhZUJYaGk0ZHVlUjBGXzN5QVNad25PbFc5QTNJMnI?oc=5",
+          "published": "2026-11-18T03:01:00+00:00",
+          "reason": "The article's headline reporting that oil prices tumble as traders weigh surplus supply outlook aligns with the general discussion of oil market dynamics and retreating crude prices mentioned in the claim."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Oil prices fall as higher US crude stocks temper supply risks - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15Sjhvb3RWVW5WZEg2akQ4OEg1OEJlM3pXSkJTZGJNN21aeEtIQnRGREhfWTM1ZnRnMHpHd1pwem5YRzdfZUlxUWN3aU1RaGlnZlpv?oc=5",
+          "published": "2026-11-18T03:28:45+00:00",
+          "reason": "The article reports that oil prices fall as higher US crude stocks temper supply risks, consistent with the claim's context of fluctuating and retreating crude oil price environments."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "China's independent AI ecosystem to draw capital despite U.S. chip curbs: Morgan Stanley - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQemM3aE1aQTc1VnNPMmJvMlM2OXpXTGJxZXJWUkxXajM4QURqdlN0ajNVZV92eU5MUGxlcUJ1bFZseVNHdzdVR0o3Y1YzUkhHdWtWSjdEQ1FOV2xpNERCQTZzTmxyNFFUNGFsYUZQcERYdUdKazA5TWY1ZUpUV0lwTmhPMG5nNGdqV1FieHNQQ0dLdlZ5VzdpRUkwMVEyWHZGYzRtTUhtVWcwYS15VVI2S0pR?oc=5",
+          "published": "2026-11-18T04:23:50+00:00",
+          "reason": "The article explicitly highlights that China's independent AI ecosystem is positioned to draw capital despite U.S. chip curbs, supporting the tactical outlook for Chinese information technology."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Crowded Singapore bank stocks face rotation as AI risks mount - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81bzBoMHJXZVhBNWU5UmJzREpsZE1CalpiR29OYURnQ1pSTThkMEpDVGpwemxLSDdiTUNpdTdJeWhvRktBaW5rLW5obldyNDBEVGdz?oc=5",
+          "published": "2026-11-18T09:24:27+00:00",
+          "reason": "The article discusses crowded Singapore bank stocks facing rotation, which aligns with the cautious outlook and limited upside for traditional bank sectors."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Crowded Singapore bank stocks face rotation as AI risks mount - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOW0tTTVtdFZsSzBSeklrZWVjVUFkUi1fMnRWSjFqZVJDZ2RIUTh5Y3FTWmNPeFBfOVVIRDA3Vzc0TGFOUkVUd081SkltNktkVllZcUlJb1RJU1FiMXpUX05sdXVYVTA2MFYzZ242QTliaUw0WUQ5MXhkOXM5d3BHS3doUkEtUUE1anZ4RGpzMVhPMHV4bFlkd2I1R3Z4VkNUUFFWMV9WRFJaZVRBV3ZYMA?oc=5",
+          "published": "2026-11-18T09:27:26+00:00",
+          "reason": "The article discusses crowded Singapore bank stocks facing rotation as AI risks mount, aligning with the thesis of limited bank upside and sector headwinds."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "PRS Fund Performance Review 2026",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL"
+  ]
+}
