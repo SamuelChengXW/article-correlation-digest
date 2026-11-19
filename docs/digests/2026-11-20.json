@@ -1,0 +1,266 @@
+{
+  "date": "2026-11-20",
+  "run_ids": [
+    44633804081
+  ],
+  "generated_at_utc": "2026-11-19T23:21:29.291405Z",
+  "tracked_count": 31,
+  "findings_count": 18,
+  "articles": [
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Resilient Oiltek poised to soar with sustainable aviation fuel - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQczFkelh3Ymlaajd2V1NjdTJkOFkxTDdVZl9ESmZlV180WDRIcEVIQUhVRmhEUmx1cFp3YVhmaEpMdm5IU0Zwck9oQTJHeS0zdDJTWkV0QW1RMVhiZHB0bDNYTlJ4RzdhelhXMzUwZllRbTU5ZHRUeWxORk83MFpsRjlreVdiY19VUzBCTmgtbXpwVHZpMjZfYjcwbVU3Uy1WT3ZCUHFVTXBpaGlmMVZ0MkFoSVB2emZxdmJpa0JMOFdQUHlLV05pMzNHcHBFdw?oc=5",
+          "published": "2026-11-19T02:10:00+00:00",
+          "reason": "The article highlights that Oiltek is poised to soar with sustainable aviation fuel, aligning with the positive outlook for the new/renewable energy sector."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Sembcorp Industries drives energy transition to deliver sustainable shareholder returns - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNanNRVnpMR0hqQWNGQTBvTmdQZlZKUE1OajVJNXA1d3J5Z3RnWkh3RnF0aW5NUWdVWEdXaWc2eGZuYndiWmNhaUNWVFdXYzRSYWJ6UnQzSzdFR0l2RV8xekZjQjRacWtmTW5yUUZTck9hR1RUNFBvUjVzT2tuc05zLVA1czZmd3pnWUhoNWlabW1PLWNoWUN6VDVZT0E3VTFzZE1BV3VxRmZ2dVZTRGFnaHlDYTdFa3MxcFN0ZmY3Y2wyZ0FqcDFLalpPYw?oc=5",
+          "published": "2026-11-19T02:00:00+00:00",
+          "reason": "The article discusses Sembcorp Industries driving the energy transition to deliver sustainable returns, supporting growth in the clean energy space."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Sembcorp Industries drives energy transition to deliver sustainable shareholder returns - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYVlyQmNKV2E2TzFKR3FXSU5EUE05RUlTNVNIUnRCMVd3VnVPNlRaa3NZc3V2c2ZIcmJwcExmM0hhTkRVZ2lRbXhxMnkwWldrOVd3WXV2UFBISzlQUW9JMnRJbW9oMGV0LWNfRHM3eUF1RHM3OERza0FyRmQ3M1FqWHZvd19QRHlNb1pZSU14Mi1jcDgyaktIVDgzQkFHdlZQOEhoWG9qOEt3d0RKUTE1WVhIRTZvam1mSUY5czlDZDVrQ1IzVlpYQmNodnhlb3B6?oc=5",
+          "published": "2026-11-19T02:00:00+00:00",
+          "reason": "The article reports that Sembcorp Industries is driving the energy transition to deliver sustainable shareholder returns, corroborating strength in clean energy."
+        },
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Vietnam triples LNG imports as El Ni\u00f1o saps hydropower output - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2ZtcFV4QkxMa2dPRzBCOTlBTDhyYXZJYnNaM01ra2VHNDRoMUxRVlE4eXBrTGM4Z0twWWV1VnFuZjBYUTBiRGtiXzNWOWxhLWlENlFmam1ldTJFY0RQNWtqNUszb05DSVhiZ0dGcGtCRFhlM0hXXzRNaVFFcmpZVnc4WW1wX3JURzJyZmJrYnhVb3c1WEtHb0xUNGhIUFpLWXlzVFNB?oc=5",
+          "published": "2026-11-19T02:16:35+00:00",
+          "reason": "The article mentions Vietnam tripling LNG imports as El Ni\u00f1o saps hydropower output, reflecting heightened demand for alternative energy solutions."
+        }
+      ]
+    },
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Japan's central bank chief unfazed by consumption drop, stays open to rate hike - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmptNTNOOXBtdEdMemRmZE80S2F2S0VsVGpSZy1KMERMc3BIc2p1dHhTZF9ELTlqWEtKMUtKZUFJREtiSFNSZ1JLNXl6S09GR3IwaGNybzJLMzItbnBKdFVFNFFBRy04Vl80SWRnRHBQQ205c0NjSkNSWnFUbWFfTzNBV1RDSlRNZEpnSGREcFJBdXpobUFpOUhmcnRGdnVhNTREcTVyYTVvUkQ0djRkWTJpcXFWdw?oc=5",
+          "published": "2026-11-19T09:28:50+00:00",
+          "reason": "The article notes that Japan's central bank chief remains unfazed by a consumption drop and stays open to further rate hikes, supporting the thesis of economic normalisation and rate tightening."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+      "fsmone_url": "https://www.fsmone.com.my/article/372520/malaysia-sector-outlook-healthcare-more-patients-more-pressure-more-op",
+      "claim_summary": "Rising patient volumes, higher medical costs, and private hospital expansion are creating growth opportunities in Malaysia's private healthcare sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedgemalaysia",
+          "title": "Big Caring expects Malaysians\u2019 healthcare spending to stay steady amid rising cost of living - The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WMklKMEhQOHJWb0c3djFtS19WQWdDSEhTaHFRUjlCcmNEcm9IX0ozTnJUY3hwZkctMURGWjU5cDU0OHZMbTBoejdPYmZaNUhVcmNV?oc=5",
+          "published": "2026-11-19T05:30:22+00:00",
+          "reason": "The article states that Big Caring expects Malaysians' healthcare spending to stay steady amid rising cost of living, supporting the view of resilient demand and growth in Malaysia's healthcare sector."
+        }
+      ]
+    },
+    {
+      "title": "AMD 1Q26: How Far Can It Go",
+      "fsmone_url": "https://www.fsmone.com.my/article/369600/amd-1q26-how-far-can-it-go",
+      "claim_summary": "AMD maintains a BUY rating with a US$564 price target, supported by accelerating AI infrastructure demand, validated MI450/Helios hyperscaler deployments, and rising server CPU TAM, despite near-term risks from pricing pressure, capex cyclicality, and competition with Nvidia. 1Q26 results showed revenue of US$10.3bn, 53% gross margin, US$1.5bn operating income, US$1.4bn net income, and US$0.84 diluted EPS.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "AMD dives on short-seller report of alleged China exposure - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamxpaV9pd09BZHBwY2dkTF9NMUttWDFlQS16Q2MwOFl3d3VxX1BrR0J4aEtlQXM2TG5XUlN0eXBfMExna25BSzNOdTUxNG1DdG5ZQ2NNaWtqTjJpTnQ3S25xeXpBSzk5cWp4MUExWmk3RE1GWExWalJINFNOX3FjYWphSHFsOVR1SHppYkxvU0Uyek5zU2hCcUMzZ9IBoAFBVV95cUxNelFseGlBTTJCNTlhVlhxSzVvTjd4Y29iNzkxUE9USXk5YnQ3bEVNWl9yRmpnOHVhYzhyLUp3WXQtQjRoSmVDMUVqcDR5bFBMQmxuUzJ1VnRVaTloYTlMQnhnZTZ6QU9ybDdGSzJpWjhOTjRYT3ZyVk5LSmd6a3dKbTMyU3hNckEyeU5YVHhiNmV1N0VTaDh0emN1bDJPYjZW?oc=5",
+          "published": "2026-11-19T16:24:53+00:00",
+          "reason": "The article reports that AMD dived on a short-seller report of alleged China exposure, contradicting the stability and valuation targets asserted in the claim."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Shares of AMD fall after Hunterbrook discloses short position - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQVJGa0VlRGhKNzdQdnMyYWtMRXBWbFJLVDJLMWJiSlBlS1RISzZJcmpNUFRLUmJOUzJQOHZDUlQzWlZVYW5TOTI1VEVSMTVCQUlkRU9JdHJ6SFZsamhaUFZabFBaVXJjdVN2T0poWDZETHJkUmtWUmtDb1Z5Q0xXME5jT1JMY2prel9RN3FTYkdSV0FiM0ljazRZWG1PYWg5ZHZYY0Q2SQ?oc=5",
+          "published": "2026-11-19T16:00:26+00:00",
+          "reason": "The article notes that shares of AMD fell after Hunterbrook disclosed a short position, undercutting the claim's positive outlook and price target."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Japan's central bank chief unfazed by consumption drop, stays open to rate hike - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmptNTNOOXBtdEdMemRmZE80S2F2S0VsVGpSZy1KMERMc3BIc2p1dHhTZF9ELTlqWEtKMUtKZUFJREtiSFNSZ1JLNXl6S09GR3IwaGNybzJLMzItbnBKdFVFNFFBRy04Vl80SWRnRHBQQ205c0NjSkNSWnFUbWFfTzNBV1RDSlRNZEpnSGREcFJBdXpobUFpOUhmcnRGdnVhNTREcTVyYTVvUkQ0djRkWTJpcXFWdw?oc=5",
+          "published": "2026-11-19T09:28:50+00:00",
+          "reason": "The article states that Japan's central bank chief remains unfazed by a consumption drop and stays open to rate hikes, supporting the BOJ's hawkish stance and continued rate hike outlook."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice September 2026: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/390600",
+      "claim_summary": "The global healthcare sector represents an attractive tactical investment opportunity for the remainder of 2026. The Manulife Global Healthcare Fund is highlighted as a preferred vehicle to capitalize on this sector's projected performance.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Novartis raises blockbuster drug forecasts to $18 billion as it seeks to prove growth can last - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85SmhxWE1LWUJoT1ViSWRzYTFoOVpUNS11MTQ2b2I2LW5KRFZQYjk4YzMyZmZvd0xPYV9GRFVkcWNMZWRSTnFwSHhOZzdkUHBSci04UERObjdoOTdkQ2dNb2V1UmNrSlFiRUtrXzFFNWp5d9IBd0FVX3lxTE95d1FWeFJsOFF6Snl3c05ETWhZWnYyZVh6cUdVOXdsUGNiWmxtUnlYM1ROSFdqc1ZDTWMwZHN3bTRaN3lPS3ZoVkdoNDFrYzFwcnhacGlPenI4ODM0a1BYTk1TQU9XY3BUWl9QNjQ5dkJPQ19tU3BR?oc=5",
+          "published": "2026-11-19T08:33:36+00:00",
+          "reason": "Novartis raising its blockbuster drug forecasts to $18 billion supports the positive performance and growth outlook within the global healthcare sector."
+        }
+      ]
+    },
+    {
+      "title": "Q&A Series: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/394860",
+      "claim_summary": "Manulife Investment Management outlines the investment strategy and market outlook for the Manulife Global Healthcare Fund, highlighting exposure to global healthcare equities. The fund's thesis centers on long-term secular growth driven by demographic aging, biopharmaceutical innovation, and defensive demand across healthcare sub-sectors.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Check out Johnson & Johnson's stock price (JNJ) in real time - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rV1I1cUxUOVFwajdhOERnTHpvRHJNYUtpNkhhWndGSkxCVmJJcWNTRUJnejVHdEFRZk1LeUpDYlBHczhmcmc?oc=5",
+          "published": "2026-11-19T15:02:50+00:00",
+          "reason": "Real-time tracking of Johnson & Johnson's stock price reflects ongoing equity market exposure and valuation tracking for major healthcare equities."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TbEk0NDY0UEtDbGFEY3hpX0lQWXY4RUMzNllqWllsTmQ5Wl8xeXpFVTdmQmpvX3hLZXkxUWpabzBaUHFieXkydmFtODZxVnctTDBZTkhYWHFDVWlsZF9HYTE1Q0NoQzdEWmtZLXRkdENBRjNVOG1zSGNwUHg3UdIBgwFBVV95cUxPalZ2a1NfTW5MM3ItZWxEbmlRODJpc0FwVE5KSmExazY4WlhGMEotZ1htWTduNVB1S0JibUVMSnVwc3BjSzBzdVFhdVdSc1NSMElhd3NNQ3laXzRiU2JkRmRHMkFjZlVWeTQ1dWtRcHFzTF96dlV0R3lreFhENWZUcGtUWQ?oc=5",
+          "published": "2026-11-19T19:55:41+00:00",
+          "reason": "The report that the US approved sales of over 879,000 AI chips to Chinese companies does not directly support or discuss the performance or tactical outlook of China A-share Information Technology."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Lenovo shares fall after first operating loss since 2017 - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ2RsWE9ucktjMWRYa0U0SUE2TDhLLVo3QXlUQlBZREVsdVJHOG9XMmUzNDVZZHplNmJpeDk2eF9fVkFlb01QMUYwTVo4QUw2NFJvVF81bFFDLW8xTnJHMGl1SUJhWHYzdXRyb2tVQjlXQ0VmTDdtSllMWUNjM1R1Ukc0SHJPTjFLVnRqdk1JOXY1amtucGM5OEFOR1prQUk?oc=5",
+          "published": "2026-11-19T09:27:37+00:00",
+          "reason": "Lenovo shares falling after reporting their first operating loss since 2017 complicates and contradicts a positive outlook on Chinese technology equities."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Taiwan tightens short selling curbs to help support stock market - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbUhSN1RWWFdsUF9CN01iNmNfYkFMamtOZXZMTDJNUkRrN0x6OExrdk5PWVJSYWlBYXktUlZxaUkyWGl2MnVqb3N0eHR6b0JHZXRINTB5MmFyMm1EYmhHSGRQYUdtMlRySkRtX3FMMEFIOTV5V2Z0ZmFuNXE0NVVveWIzZTVCeXFYRnFBQkhoRjJYam5PTDgwRnpEZHRoTXlDWnRsaTY3ZnhKV3hwRE9LV1E2Yw?oc=5",
+          "published": "2026-11-19T07:13:25+00:00",
+          "reason": "Taiwan tightening short-selling curbs to support its stock market reflects broader regional market stress rather than an attractive tactical opportunity for Chinese IT indexes."
+        }
+      ]
+    },
+    {
+      "title": "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+      "fsmone_url": "https://www.fsmone.com.my/article/398722",
+      "claim_summary": "Global financials face limited upside heading into 4Q26 due to mature bank margins, moderating loan growth, and high valuations, supporting a maintained 2.0-star Unattractive rating. Outperformance within the sector is expected to be limited to selective opportunities in investment banks, life insurers, and Japanese banks.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Citi lowers Singapore banks\u2019 target prices on lower loan estimates, higher credit costs - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYkNjUVB3N2o4c2xUVXFPbkptR2Rzb3JDWk81ZFZaMGtYMUZfQmZiQ3FHOFhyTFk2NGw3eENVdFhNYzFTcGsycGhiX0NTdEswVTZaN3F2S2FJSmVxa2xkTEFzVW9XQUJrRUlSN21Sek5MR2VGUTh3ai0wTy1KY1NXY2ZhX3hrcmtuNDY1UHJxUzZ6RnZaQmlzV1dicmN3aTBkY2NWSFVEc2VEOG9UaW15MU53WENWUTk1VTBDSzA2VHRNVDdGQndVSm5Ucw?oc=5",
+          "published": "2026-11-19T17:26:56+00:00",
+          "reason": "Citi lowering Singapore banks' target prices due to lower loan estimates and higher credit costs directly supports the claim that global/local financials face limited upside and moderating loan growth."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Tech stocks gain as Anthropic IPO boosts sentiment on AI trade - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZVotNGNmcFZtUGNaQUlLRWVkY0l5aXhjdzR2NXZxclhiVm9VZHNpeVd2WDBpS0tFSmlYci1yaXM1NTFINkxlY2I3dlg0VEtmYmloRFRtb04wM1NKWHNOSWtDc2p5VzEwRlIzZlRHVUpKOTNTS19NN3YtUkE2N1FHekFPREN6bnVFTHMtbUJhTkxaeXpiZTlMUTY0WExhdTZ2OG83Mk13RQ?oc=5",
+          "published": "2026-11-19T15:24:53+00:00",
+          "reason": "Reports that tech stocks gained as the Anthropic IPO boosted sentiment on the AI trade support the view that underlying chip demand and AI sentiment remain strong despite recent volatility."
+        }
+      ]
+    },
+    {
+      "title": "Q&A Series: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/400440",
+      "claim_summary": "The article presents an investment Q&A detailing the portfolio positioning, strategy, and market outlook for the United Great Dragon Fund, emphasizing opportunities in Greater China equities. The core thesis evaluates the fund's exposure to Chinese economic recovery trends and sector-specific growth drivers to generate long-term capital appreciation.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "'Parasite' backer and other South Korean media, gaming and travel stocks rally on China trade deal - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa1JwdmY0aEYyNHRwSEJ2UVI3a0RBd0NnTDdLbnZxN3o2SlZfRHJHS0dkWURKczBRczZ2dXdfX1FrQi05Q0FzNi1FTVEwQ2tiYnpyTHc3M1VSVjk3elEyb3Q1MlhNWldyUmZNQ0ZfLS1OdmJ5c3d5OUtwc2REajJGY2ZlcGnSAYoBQVVfeXFMTWlMMENRZ1hNNVlfcWZkcktZTWJ4TjdYRzBfRlQxWDIwUmdKNndBZmhGaVM0RkY4V01Ud2RneG93bTcxTk9FYmlMdVU4cUx6UV90VU5uR1l5MVR6THhqRTlhWFdPRGlBTjM4UlBVaWFaSHhvVkJYMm1LLVJQWEpGZEcxNG0ybGhzSnRn?oc=5",
+          "published": "2026-11-19T02:54:00+00:00",
+          "reason": "The article discusses South Korean media, gaming, and travel stocks rallying following a China trade deal, which supports the claim's emphasis on Greater China equities and economic recovery trends."
+        }
+      ]
+    },
+    {
+      "title": "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+      "fsmone_url": "https://www.fsmone.com.my/article/403521",
+      "claim_summary": "Intel's weak 4Q26 guidance, driven by a worsening PC downturn and ongoing market share losses to AMD, triggered a 23% after-hours stock drop and warrants a maintained SELL rating with a reduced price target of USD 65 (-8.3% downside). The bearish thesis remains intact until Intel secures a binding external Foundry customer and achieves positive free cash flow.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "Intel signs first external customer for advanced 18A chips - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05Um1NdEdUSk5QVXZMWjVfNWZSbjMwWDBDUS1CSU14T3dUaVZXUWVQdFhGYUV3cS1BbmpTVHV2bC1LRldBbl96eVJGWXhHZW0zR0RPRXFiZW15dktuQW9ESE54Y1luQVJJNkdmS1N5QnNNRTFUQlFhVdIBfkFVX3lxTFBFVWo1RldiN1N3VGZFclp6VEpDN1ExYmY5UGxuR3g4bTNhTnFSTzlhQXJsVi1yeDZTMms2RUFMOU5RLWp2aVd6U2dJVkx5cGQ4NUI1WnV2blA2WHFRNHFRN2dtaXRqdDI5SHRNeml0cGttTGxpSUtJbjRUaUxGdw?oc=5",
+          "published": "2026-11-19T01:05:00+00:00",
+          "reason": "The article reports that Intel has signed its first external customer for advanced 18A chips, which contradicts the bearish thesis that Intel has not secured a binding external Foundry customer."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "PRS Fund Performance Review 2026",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL"
+  ]
+}
