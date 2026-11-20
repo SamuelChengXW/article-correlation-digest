@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-21",
+  "run_ids": [
+    44833483682
+  ],
+  "generated_at_utc": "2026-11-20T23:10:23.631623Z",
+  "tracked_count": 31,
+  "findings_count": 10,
+  "articles": [
+    {
+      "title": "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+      "fsmone_url": "https://www.fsmone.com.my/article/374920/bank-of-japan-hikes-as-expected-what-comes-after-1-0",
+      "claim_summary": "BOJ raised its policy rate to 1.0%, reflecting growing confidence in Japan's economic normalisation, with further gradual hikes likely.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Japan\u2019s CPI picks up, keeping BOJ on track for rate hike - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0Y0TkZldkxWRzk3YkZLYkdxM2VnN3NNLUdoZDlMN0M3dGFrQkFHSkpscFRDVXpXSEJVM2FNaW5ZS2ZYYmpLN3duRDE5MlBacnJVeEt0Q29jVFJabG9xVkVneUhEWG5XbmROaXJvM0luRGJPeG1lRlRuaUd3bi10SHJYRTl3RDNxY1ZqZ2lsQmNRQQ?oc=5",
+          "published": "2026-11-20T02:34:40+00:00",
+          "reason": "The report highlights that Japan's consumer price index (CPI) accelerated, reinforcing expectations and keeping the Bank of Japan on track for further interest rate hikes."
+        }
+      ]
+    },
+    {
+      "title": "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+      "fsmone_url": "https://www.fsmone.com.my/article/383742",
+      "claim_summary": "The Bank of Japan maintained its policy interest rate in a hawkish hold, projecting core inflation at or above 2% through its entire forecast horizon with upside price risks. Despite an apparent downgrade to near-term inflation caused by temporary government subsidies, the central bank's underlying policy outlook remains unchanged, keeping additional rate hikes through 2026 on the table.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Td0IxNEt0TEVvZ0JXcUNTTmpma3BSZ0JIUF9fdXl5R0hjMUhqUVpxTHYtWmpOLW5WcTJtaEE4YUdlQkZjUjhCRjdWRFBISHpnWjFOSW1md2N6VzFsXzR2MWl5V3lKMWZzZWhzUGtmSG9VUdIBd0FVX3lxTE5OUm5oSTVYNXI0aUxZSTNYcU9td0RYeHBOZVlUMEw2bEs3OGxfZjlKZDFZLTgxVVBvMXhYc25aZVNySW5QTFdGbHVuZHdlbTNQM3p5cDJtYndZMmhtQ0xLM2xvZTBmbVVKVnFKR29JbkhoQm1nd1Rr?oc=5",
+          "published": "2026-11-19T23:36:10+00:00",
+          "reason": "The report highlights that \"Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices,\" supporting the claim that core inflation is running high and that temporary government subsidies were impacting near-term price pressures."
+        }
+      ]
+    },
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil set for third weekly drop as ample supply outweighs war risk - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQenZfMjNHSXFfZHNsRkhULWZaRDBpV1BOQjVlU09HTElhbkw1Y29STzVCcmk5ZjRuZmtwdHh0a1BFMTllOWtFM3pfaW5TbzE1WmhGbVByOUhaTENyYnFpeUYzbnd4MHVBTlY1a01KNXptV2xKdmc1Q2NxT0xCMkJTalpicEJ3T243blpYM1BkY2dZY2d1bHhMYWNOOUwyQk9iaXFUYVJB?oc=5",
+          "published": "2026-11-20T02:00:00+00:00",
+          "reason": "The article reports that oil prices are set for a weekly drop because 'ample supply outweighs war risk', aligning with the claim's observation of retreated prices and lack of broad war-driven upside."
+        }
+      ]
+    },
+    {
+      "title": "Q&A Series: Manulife Global Healthcare Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/394860",
+      "claim_summary": "Manulife Investment Management outlines the investment strategy and market outlook for the Manulife Global Healthcare Fund, highlighting exposure to global healthcare equities. The fund's thesis centers on long-term secular growth driven by demographic aging, biopharmaceutical innovation, and defensive demand across healthcare sub-sectors.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "AI\u2019s billions and slick pledges heap pressure on pharma veterans - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPekhqaWNpREttbTdPWVJOd3F5aXNFSHo1QXQzSnZQN3pMVEdVcUpmbzVqSnpJU2I4MEF4M3V1bTFVYTBSYWlJM1RRcG9yZE1oREtvOXBHNFFWWmJJX3d1RXM0bkQxN2Vvc0J4UnJnbXE0S0s0aG93MzB4QUtyU2dGaDBsMzdTd3FwTWtxRnRLYVNWam5SY1JzYVNHdUJHOFEwVHFZU2NuYlRNU2JCLXFzRm9LRHZ5OHBpWVB5eEJPWQ?oc=5",
+          "published": "2026-11-20T10:07:55+00:00",
+          "reason": "The article discusses the pressure and intersection of AI investments and pharma veterans, which relates to the biopharmaceutical innovation themes driving the healthcare sector thesis."
+        }
+      ]
+    },
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "SpaceX\u2019s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDVoNmlWZGIxdGFNWnNNSXYyZmZ6RUt2V00wZkktQmUxdThobUx3VUxrUDhYUnJPaEtvX1dfTTJLRnB1R3Jua3E2SVZXN2s3Wnl5OWdId3JuTmJ1NlRfaW14c0pvVUo5VWx6UmpUWmhSM3pkWGdsM3Bsc0xNTGJNV0JkT1lZUdIBiwFBVV95cUxNVFNfT0hzd0lkQjZTUjlfMVY0VVZybzBfcWtTdEVnVm9GNWZkbEt4dmJvZHhzZ0dIdXRUa1pRY1pOTUpXRUdGekRWa2Y0NmgtQ0hUbkFMeTJtM2dVbUs3MTVBcUlmaFJZR0JaSVIydTBIN0NDVmhPSXp0YUd2cmh5RlB2cTlDTENqNUtV?oc=5",
+          "published": "2026-11-20T14:04:17+00:00",
+          "reason": "The article reports that SpaceX\u2019s subsidiary Cursor is considering phasing out Chinese AI models, which complicates the tactical positive outlook for Chinese technology equities."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "U.S.-China tech rivalry likely to escalate but deeper decoupling remains unlikely: CIO - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTktTmVDOFFtYjhuVkN2ZFZLZ3VpeVpnOHdIVkFpMWNNYTAwZzBQVFJUX1pBZzN4V0NOZFNZZEhQNDBSTlhIRUhDdnQwd1RTRUxBUG9yWlV2aGZLcWxNYUFVZXQ2YTVRZ3dmOFZaVFhfdHNBQUJDY1VnV0FXR3M5LTFKSWFjUDhsRXpENXpRaGpROXZJN3AxRHJRNk42WFA5UFloX041MA?oc=5",
+          "published": "2026-11-20T05:20:00+00:00",
+          "reason": "The article notes that the U.S.-China tech rivalry is likely to escalate, which adds friction to the thesis of a compelling investment opportunity in Chinese technology."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "SpaceX\u2019s subsidiary Cursor tells lawmakers it's considering phasing out Chinese AI models - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUDVoNmlWZGIxdGFNWnNNSXYyZmZ6RUt2V00wZkktQmUxdThobUx3VUxrUDhYUnJPaEtvX1dfTTJLRnB1R3Jua3E2SVZXN2s3Wnl5OWdId3JuTmJ1NlRfaW14c0pvVUo5VWx6UmpUWmhSM3pkWGdsM3Bsc0xNTGJNV0JkT1lZUdIBiwFBVV95cUxNVFNfT0hzd0lkQjZTUjlfMVY0VVZybzBfcWtTdEVnVm9GNWZkbEt4dmJvZHhzZ0dIdXRUa1pRY1pOTUpXRUdGekRWa2Y0NmgtQ0hUbkFMeTJtM2dVbUs3MTVBcUlmaFJZR0JaSVIydTBIN0NDVmhPSXp0YUd2cmh5RlB2cTlDTENqNUtV?oc=5",
+          "published": "2026-11-20T14:04:17+00:00",
+          "reason": "The article states that SpaceX's Cursor is considering phasing out Chinese AI models, contradicting the viability of an attractive outlook for Chinese tech."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "SoftBank suffers worst day in over two years as AI sell-off hits Asian tech stocks - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5",
+          "published": "2026-11-20T01:07:00+00:00",
+          "reason": "The article discusses SoftBank suffering its worst day in over two years as an AI sell-off hits Asian tech stocks, undermining the claim of an attractive sector outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Anthropic drops after IPO pop as AI slump engulfs markets - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMm5xOFMwS1Fmd1FER2pURkstOXFsR040dHA4Sk1KMTBTRFV2RWFMR1pPWlYtcUlHaUpmc2lzb01xUFliM2tmcUJIX2s0S3RmaWZnNXJJZFpzWTNlYzlJWEQtTEkxTDM0UzB5b3hMaGdnRTdUbktPTWhMUHNLY085d1lXZ3VhSmhUODk4Z3dJU1V2TGVrLVpIQ0hweVNxVjBWSXc?oc=5",
+          "published": "2026-11-20T12:08:50+00:00",
+          "reason": "The article reports that an AI slump engulfs markets and Anthropic drops after its IPO pop, contradicting a strong sector outlook."
+        },
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "Taiwan\u2019s stock benchmark plunges 18% in worst week since 1991 - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWktxa0h3bC1FMmptUTNjclZXbGEyUFZzZGRXR04tWHQ3QUZMUkhKZzU1UjZZTUw3dnlVS0RFY181c2dkXzFkcHZuMWRBX0FKa1ctODBXbHR5aEFQYl9uMGVrazFTRm5YM2xnRjVlbHVMYTRPNXQzdkIzSVF2VGdhb3k0YjV0SXNTdjhtbmtWUy11VEZoWU5tdjFnbmtKZFZaQlJPSg?oc=5",
+          "published": "2026-11-20T06:21:12+00:00",
+          "reason": "The article highlights that Taiwan\u2019s stock benchmark plunged 18% in its worst week since 1991 due to semiconductor and tech turmoil."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "PRS Fund Performance Review 2026",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL"
+  ]
+}
