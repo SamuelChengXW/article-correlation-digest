@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-23",
+  "run_ids": [
+    45080829712
+  ],
+  "generated_at_utc": "2026-11-22T23:15:11.010459Z",
+  "tracked_count": 32,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "Fund Choice October 2026: United Great Dragon Fund",
+      "fsmone_url": "https://www.fsmone.com.my/article/396642",
+      "claim_summary": "China A-share Information Technology represents a compelling tactical investment opportunity over the coming months. In light of this sector outlook, the United Great Dragon Fund is highlighted as a recommended vehicle for capitalizing on Chinese technology equities.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s US$1.7 tril AI rout turns hot trade into losing bet - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDFkSUVneXBVWUtaMXpibnN3UjVLdDhzTWRMVnBvTFhFRHUzam5lNlBFT2J6MnZreE1HOWZ0NG1TWVJyeFZiMW5TbGRSYTY4eFN1Y3pWRU4xYW9hdXhsSnpzVldTSjRLNURzMUwybURrSU5fRGlUUHRLOGVpdkYyMUxsZ1JYTzBwNGdOblVxYXVTd0htNHZ0YQ?oc=5",
+          "published": "2026-11-22T03:01:47+00:00",
+          "reason": "The article reports that 'China\u2019s US$1.7 tril AI rout turns hot trade into losing bet', which directly contradicts the claim that China A-share Information Technology represents a compelling tactical investment."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+      "fsmone_url": "https://www.fsmone.com.my/article/396640",
+      "claim_summary": "China A-share Information Technology represents an attractive tactical investment opportunity for the near term. Specifically, the GF CSI All Share Information Technology Index ETF is highlighted as a featured vehicle to capitalize on expected outperformance in this sector as of October 2026.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "theedge",
+          "title": "China\u2019s US$1.7 tril AI rout turns hot trade into losing bet - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeDFkSUVneXBVWUtaMXpibnN3UjVLdDhzTWRMVnBvTFhFRHUzam5lNlBFT2J6MnZreE1HOWZ0NG1TWVJyeFZiMW5TbGRSYTY4eFN1Y3pWRU4xYW9hdXhsSnpzVldTSjRLNURzMUwybURrSU5fRGlUUHRLOGVpdkYyMUxsZ1JYTzBwNGdOblVxYXVTd0htNHZ0YQ?oc=5",
+          "published": "2026-11-22T03:01:47+00:00",
+          "reason": "The article highlights a major 'US$1.7 tril AI rout' in China that 'turns hot trade into losing bet', contradicting the thesis that the Chinese technology sector is an attractive tactical opportunity."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "AMD 1Q26: How Far Can It Go",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Q&A Series: United Great Dragon Fund",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "PRS Fund Performance Review 2026",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL",
+    "ServiceNow FY2027: The Time Is NOW",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "Top Performing Fund for October 2026 - Manulife Global Healthcare Fund"
+  ]
+}
