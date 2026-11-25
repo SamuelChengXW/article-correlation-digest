@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-26",
+  "run_ids": [
+    45717905982
+  ],
+  "generated_at_utc": "2026-11-25T23:35:28.017855Z",
+  "tracked_count": 32,
+  "findings_count": 2,
+  "articles": [
+    {
+      "title": "ServiceNow FY2027: The Time Is NOW",
+      "fsmone_url": "https://www.fsmone.com.my/article/380120/servicenow-fy2027-the-time-is-now",
+      "claim_summary": "ServiceNow is positioned to benefit from the AI workflow era, driven by its sticky enterprise platform, hybrid AI monetisation model, and AI Control Tower strategy, supporting a bullish FY2027 outlook.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56eC1rNEgtamFWQ0kzWWw0bVZObjZqMDdkZE9XOU91aVdST0RtYk91U0EtNEFYWEo0RWFDVklpaTUtZjFVc2FyM2paTk5nMWhDOHFBRkNHOWdVdmpiZTBKVkJoWFlSN1NWTUVPeEhQcm1wbXdveGtrWNIBfkFVX3lxTE9DVkFsbFdUOEk3YmRtWHR2bmJYRXFCbXNpMHZBeHd2X21MRFFBRGxXdXdOT05wRm9ISWhkRzZSVDI4Q0pSWEJ3MlZDTS1saXNpVm8tU3NIVnIzWkRxcWdGZE5SbGdOVEVaZURnNnRIcGRKTERfMllaaW9xQTBxUQ?oc=5",
+          "published": "2026-11-25T06:29:46+00:00",
+          "reason": "The CNBC article highlights 'AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze', which complicates the bullish sentiment around enterprise AI monetization and spending."
+        }
+      ]
+    },
+    {
+      "title": "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+      "fsmone_url": "https://www.fsmone.com.my/article/377641/etf-choice-july-2026-china-southern-csi-new-energy-etf-sse-516160",
+      "claim_summary": "China's renewable/new energy sector is expected to perform well in 2026, making the China Southern CSI New Energy ETF an attractive pick.",
+      "findings": [
+        {
+          "verdict": "does_not_support",
+          "source": "cnbc",
+          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MeWZxZF9LSEQtWThHY3lxNm81dzVSbFZqaU9XVGdaX0hycUlWc2NKWm9zamxtVF9zd2ZwTlJNenYwWXRSUTVuQjJwQ0pOMEVYMW40MTF4MkdVNEU4TkVKSzhIaW1RS0h1TXhLVkJHWVdHUk3SAXhBVV95cUxOZnBfeEVLaTREWmhNMEZESE9FS2pjYkpiNGk4ZFl1QURIV3Z5UXR5SVBLNHZtMzBrR3hsZTFOTGkzWGdvTUdpR3N4VXY0X05VREZ1cEtiY0hGN0NSTDNIMmg4bVVKa1pwNThKenIyOFdQbjhpdkRFUGI?oc=5",
+          "published": "2026-11-25T13:11:09+00:00",
+          "reason": "The CNBC article mentions that the U.S. has proposed new tariffs on 14 trading partners including China, which complicates trade and sector outlooks for Chinese ETFs."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Semiconductors: Keep calm, it's another week in chips",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "PRS Fund Performance Review 2026",
+    "Top Performing Fund for October 2026 - Manulife Global Healthcare Fund"
+  ]
+}
