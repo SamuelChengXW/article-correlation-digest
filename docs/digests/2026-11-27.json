@@ -1,0 +1,87 @@
+{
+  "date": "2026-11-27",
+  "run_ids": [
+    45908280851
+  ],
+  "generated_at_utc": "2026-11-26T23:43:02.994576Z",
+  "tracked_count": 32,
+  "findings_count": 3,
+  "articles": [
+    {
+      "title": "Malaysia Sector Outlook: Oil & Gas \u2013 No Broad Upside Despite Higher Crude Prices",
+      "fsmone_url": "https://www.fsmone.com.my/article/388180",
+      "claim_summary": "NEUTRAL view on Malaysia's oil & gas sector (KLENG Index) despite Brent crude spiking above USD115/barrel in April 2026 on the US-Iran conflict before retreating to ~USD84.4 (as of 14 Aug 2026): higher prices are not triggering a broad CAPEX upcycle, as PETRONAS's FY2026 CAPEX (~RM50bn, set pre-conflict) remains selective with no post-conflict upward revision, and Malaysia's crude output continues its structural decline (-25% since 2018, -9.4% YoY in 1Q26). Refining margins are supportive but cyclical, benefiting Petron and Hengyuan. The report favours selective stock picks -- DIALOG (recurring infrastructure income, financial resilience) and Dayang (maintenance visibility, net cash, attractive valuation) -- over broad index exposure.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Oil holds two-day gain as Mideast tensions fuel market jitters - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1VmaF91dUFLdVIwekpxSDN0cGJEd1R3ckNYVHdBMWppOHJBZVgxOEpxMEJOLXNhOFlJRzNnWFlEOW02akZTd3c0YjJnVW5xSG43dTVKR3dPWmp4emYzR2JpS3R5ajh1Vy1tV0RBSkJrZGZQcXRNTDJxYkNaWWU0bzNJSTgzalJ3Q2oyV0xaWVFveHVvX0VhSVNJYmhXLWQ5Qi1vVTFHc3g?oc=5",
+          "published": "2026-11-26T01:49:07+00:00",
+          "reason": "The article's mention that Middle East tensions and supply concerns are driving oil price fluctuations relates to the core geopolitical and commodity price context of the oil and gas sector outlook."
+        }
+      ]
+    },
+    {
+      "title": "Micron 4Q26 Earnings Update: This Cycle Could Be Different; Maintain BUY",
+      "fsmone_url": "https://www.fsmone.com.my/article/397060",
+      "claim_summary": "Micron's price target has been raised to USD 1,761 alongside a reiterated BUY rating following record quarterly financial results and elevated guidance. The thesis posits that surging AI-driven demand for High Bandwidth Memory (HBM) and enterprise SSDs, combined with constrained memory supply growth and expanding customer agreements, will sustain earnings expansion and moderate the traditional cyclical downturn.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "theedge",
+          "title": "Huawei teases next-gen AI memory chip to take on Samsung, Hynix - The Edge Singapore",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenlxQzV1TWliX3A4NmVadkpqVVlPRFB4WUFtSmdWNHF3Q3JmVGVKM3JwLVNsU3owN3JXUlhNQ1Z5WGxBTnl3SnFVYjZIMEFLZmlyczFFeHhmRWdQbXk0aHd4OExTNVNfampyLVRLbVJXRlhON2lSQk4tQVZWb1JQOEJHT0ZzUjRScDlIVmdPVkpzdURrNDR4dktsZllndVEt?oc=5",
+          "published": "2026-11-26T06:28:01+00:00",
+          "reason": "The article discusses next-gen AI memory chips from Huawei, which supports the thesis of surging AI-driven demand for specialized memory technologies like HBM."
+        }
+      ]
+    },
+    {
+      "title": "Semiconductors: Keep calm, it's another week in chips",
+      "fsmone_url": "https://www.fsmone.com.my/article/400620",
+      "claim_summary": "Despite a 9.6% weekly decline in US semiconductor stocks driven by surging bond yields and market skepticism over AI funding, underlying chip demand data remains strong, justifying an Attractive (3.5 stars) investment outlook on the sector.",
+      "findings": [
+        {
+          "verdict": "supports",
+          "source": "cnbc",
+          "title": "Semiconductor chips are the new oil. Here's why - CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWJNUmR4b0VWNEhyVVRaQkNHWmZBMDhHYm9qUjRaMHdTVmgtWHZZOFlNdzN3eklwM29DN2NUWGxMVFdCd1I3TlJ4dGoydVJNRmI4WHJWZlhzNFBmOUp4MUhuVjBiU0l4MjdVNkRVS2lIQjFic3BlRl90enRxQmRqdzhJMnkxbkNMN1HSAY8BQVVfeXFMTTh1ZHNGeGg5dVAtMHlRYkxlYnlfWHI0T1ZleEJZNlByLWl3c0VKODlUekhuRzd0R2F0TzVoTXA1SkFmam1KRXBGS090bHpuVVh5RmFCQmQ2ZjdrV1RETFQzeThQUUg0bDE5dXkyN0dzdTVqLVNtNmVRRWdKQ2JPSmM0azYxT3JFTW1zXzZWNVk?oc=5",
+          "published": "2026-11-26T13:19:25+00:00",
+          "reason": "The article designates semiconductor chips as 'the new oil', emphasizing their fundamental strategic value and backing the claim's premise that underlying demand for chips remains robust."
+        }
+      ]
+    }
+  ],
+  "no_coverage_titles": [
+    "ServiceNow FY2027: The Time Is NOW",
+    "Malaysia Sector Outlook: Plantation - Positive Catalysts Largely Priced In; Neutral View",
+    "AMD 2Q26: Solid Earnings Beat, but Not Enough to Clear Elevated Expectations",
+    "Q&A Series: Manulife Global Healthcare Fund",
+    "Intel 3Q26: PCs Break the Guide; Maintain SELL at Lower TP",
+    "PRS Fund Performance Review 2026",
+    "AMD 3Q26: The Bar is Set High; Maintain NEUTRAL",
+    "ETF Choice July 2026: China Southern CSI New Energy ETF (SSE:516160)",
+    "Bank of Japan Hikes as Expected: What Comes After 1.0%?",
+    "Malaysia Sector Outlook: Healthcare - More Patients, More Pressure, More Opportunities",
+    "Japan's AI Beneficiaries: How Traditional Industrial Leaders Are Adapting",
+    "Japan's AI Beneficiaries: From OpenAI Exposure to Advanced Chip Packaging",
+    "AMD 1Q26: How Far Can It Go",
+    "Top Performing Fund for July 2026 - AHAM New China Tracker Fund",
+    "BOJ\u2019s Hawkish Hold: Another 2026 Hike Is Still on the Table",
+    "Malaysia Sector Outlook: Construction - Year of Execution",
+    "ServiceNow 2Q26 Earnings Review: AI Monetisation Is Becoming Real",
+    "Top & Bottom Bond Funds 2Q26: Bond Markets Rebound, but Rate Risks Remain",
+    "Fund Choice July 2026: Principal China New Energy Innovation Fund",
+    "ServiceNow: Up 43%, is NOW still a BUY?",
+    "Fund Choice September 2026: Manulife Global Healthcare Fund",
+    "Fund Choice October 2026: United Great Dragon Fund",
+    "ETF Choice October 2026: GF CSI All Share Information Technology Index ETF",
+    "Global Financials 4Q26 Outlook: Good Banks, Bad Bargain; Maintain 2.0 Stars",
+    "Q&A Series: United Great Dragon Fund",
+    "Sandisk: A Sandcastle by the Beach; Initiate NEUTRAL",
+    "ServiceNow 3Q26: A Step Back, Not a Step Down; Maintain BUY with Lower TP",
+    "Texas Instruments 3Q26: The 300mm payoff is here; Maintain BUY",
+    "Top Performing Fund for October 2026 - Manulife Global Healthcare Fund"
+  ]
+}
